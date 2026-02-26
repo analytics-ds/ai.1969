@@ -1,0 +1,45 @@
+baseURL = 'https://DamienBo59.github.io/ai.1969/'
+languageCode = 'fr'
+defaultContentLanguage = 'fr'
+title = "L'Art du Desir"
+theme = 'art-du-desir'
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+
+[[menus.main]]
+  name = 'Accueil'
+  url = '/'
+  weight = 1
+
+[[menus.main]]
+  name = 'Pratiques BDSM'
+  url = '/categories/pratiques-bdsm/'
+  weight = 2
+
+[[menus.main]]
+  name = 'Vie de Couple'
+  url = '/categories/vie-de-couple/'
+  weight = 3
+
+[[menus.main]]
+  name = 'Le Blog'
+  url = '/blog/'
+  weight = 4
+
+[params]
+  description = "Le guide BDSM et vie de couple par 1969"
+  author_name = "Camille Delacroix"
+  author_url = ""
+  author_job_title = "Sexologue et redactrice specialisee en intimite"
+
+[sitemap]
+  changefreq = 'weekly'
+  filename = 'sitemap.xml'
+  priority = 0.5
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
