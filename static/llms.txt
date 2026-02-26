@@ -24,5 +24,5 @@ L'Art du Desir est le blog de la marque 1969, dedie a l'exploration du BDSM et d
 
 - Generateur : Hugo
 - Hebergement : GitHub Pages
-- Sitemap : https://DamienBo59.github.io/ai.1969/sitemap.xml
-- RSS : https://DamienBo59.github.io/ai.1969/index.xml
+- Sitemap : https://ai.1969.fr/sitemap.xml
+- RSS : https://ai.1969.fr/index.xml
