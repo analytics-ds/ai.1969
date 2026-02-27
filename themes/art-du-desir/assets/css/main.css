@@ -5,19 +5,19 @@
 
 /* --- Variables de charte graphique --- */
 :root {
-    /* COULEURS */
+    /* COULEURS — Theme clair */
     --primary: #1A1A1A;
     --primary-light: #252525;
-    --background: #0E0E0E;
-    --background-alt: #141414;
+    --background: #FFFFFF;
+    --background-alt: #F5F5F5;
     --accent: #E8611A;
     --cta: #E8611A;
     --cta-hover: #CC5215;
-    --text: #E8E8E8;
-    --text-light: #999999;
+    --text: #1A1A1A;
+    --text-light: #666666;
     --white: #ffffff;
-    --surface: #1E1E1E;
-    --border: #2A2A2A;
+    --surface: #FAFAFA;
+    --border: #E0E0E0;
 
     /* POLICES */
     --font-heading: 'Playfair Display', Georgia, serif;
@@ -129,7 +129,7 @@ img {
     font-family: var(--font-ui);
     font-size: 0.9rem;
     font-weight: 500;
-    color: rgba(255, 255, 255, 0.75);
+    color: rgba(255, 255, 255, 0.8);
     text-transform: uppercase;
     letter-spacing: 0.5px;
     padding: var(--space-xs) 0;
@@ -138,7 +138,7 @@ img {
 }
 
 .nav-link:hover, .nav-link.active {
-    color: var(--white);
+    color: #ffffff;
     border-bottom-color: var(--accent);
 }
 
@@ -335,6 +335,7 @@ img {
 
 .article-card h3 a {
     color: var(--text);
+    transition: color 0.2s;
 }
 
 .article-card h3 a:hover {
@@ -473,9 +474,9 @@ img {
 }
 
 .article-header .tag {
-    background-color: rgba(255, 255, 255, 0.1);
-    color: rgba(255, 255, 255, 0.75);
-    border-color: rgba(255, 255, 255, 0.2);
+    background-color: rgba(255, 255, 255, 0.15);
+    color: rgba(255, 255, 255, 0.85);
+    border-color: rgba(255, 255, 255, 0.25);
 }
 
 /* Author */

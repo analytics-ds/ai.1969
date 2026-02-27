@@ -1,4 +1,4 @@
 User-agent: *
-Allow: /
+Disallow: /
 
 Sitemap: https://ai.1969.fr/sitemap.xml
