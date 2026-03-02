@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://DamienBo59.github.io/ai.1969/sitemap.xml
