@@ -1,8 +1,7 @@
 <header class="site-header">
     <div class="header-container">
         <a href="{{ "/" | relURL }}" class="site-logo">
-            {{ $logo := "images/logo.png" }}
-            <img src="{{ $logo | relURL }}" alt="{{ .Site.Title }}" />
+            <span class="site-logo-text">{{ .Site.Title }}</span>
         </a>
 
         <button class="menu-toggle" aria-label="Menu" aria-expanded="false">

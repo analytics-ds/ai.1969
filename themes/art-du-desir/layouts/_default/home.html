@@ -10,6 +10,37 @@
     </div>
 </section>
 
+<!-- Presentation Section -->
+<section class="intro-section">
+    <div class="container">
+        <div class="intro-content">
+            <h2 class="section-title">Un espace dedie a l'epanouissement intime</h2>
+            <p class="intro-text">L'Art du Desir est un guide complet pour explorer les dimensions du plaisir et de la complicite a deux. Ici, chaque sujet est aborde avec respect, pedagogie et bienveillance.</p>
+
+            <div class="intro-columns">
+                <div class="intro-col">
+                    <h3>Ce que vous trouverez ici</h3>
+                    <ul>
+                        <li>Des guides pratiques sur le BDSM, du debutant a l'avance</li>
+                        <li>Des conseils pour renforcer la complicite dans le couple</li>
+                        <li>Des articles rediges par une sexologue specialisee</li>
+                        <li>Une approche bienveillante, sans jugement</li>
+                    </ul>
+                </div>
+                <div class="intro-col">
+                    <h3>Notre approche</h3>
+                    <ul>
+                        <li>Consentement et communication au coeur de chaque pratique</li>
+                        <li>Contenu base sur des sources fiables et l'expertise terrain</li>
+                        <li>Respect de la diversite des desirs et des identites</li>
+                        <li>Accessibilite : des explications claires, sans jargon inutile</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
 <!-- Categories Section -->
 <section class="categories-section">
     <div class="container">
@@ -26,11 +57,13 @@
 </section>
 
 <!-- Latest Articles Section -->
+{{ $articles := where .Site.RegularPages "Section" "blog" }}
+{{ if gt (len $articles) 0 }}
 <section class="latest-section">
     <div class="container">
         <h2 class="section-title">Derniers articles</h2>
         <div class="grid-articles">
-            {{ range first 6 (where .Site.RegularPages "Section" "blog") }}
+            {{ range first 6 $articles }}
             <article class="article-card">
                 <div class="article-meta">
                     {{ with .Params.categories }}
@@ -46,5 +79,6 @@
         </div>
     </div>
 </section>
+{{ end }}
 
 {{ end }}

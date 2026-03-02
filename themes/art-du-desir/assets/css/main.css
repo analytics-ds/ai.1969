@@ -20,9 +20,9 @@
     --border: #E0E0E0;
 
     /* POLICES */
-    --font-heading: 'Playfair Display', Georgia, serif;
-    --font-body: 'Source Serif 4', Georgia, serif;
-    --font-ui: 'DM Sans', -apple-system, sans-serif;
+    --font-heading: 'Outfit', -apple-system, sans-serif;
+    --font-body: 'Inter', -apple-system, sans-serif;
+    --font-ui: 'Inter', -apple-system, sans-serif;
 
     /* ESPACEMENTS */
     --space-xs: 0.5rem;
@@ -81,7 +81,7 @@ img {
 
 /* --- Header --- */
 .site-header {
-    background-color: var(--primary);
+    background-color: var(--white);
     border-bottom: 1px solid var(--border);
     position: sticky;
     top: 0;
@@ -111,9 +111,9 @@ img {
 .site-logo-text {
     font-family: var(--font-heading);
     font-size: 1.3rem;
-    font-weight: 900;
-    color: var(--white);
-    letter-spacing: 1px;
+    font-weight: 800;
+    color: var(--text);
+    letter-spacing: 0.5px;
 }
 
 .site-logo:hover .site-logo-text {
@@ -129,7 +129,7 @@ img {
     font-family: var(--font-ui);
     font-size: 0.9rem;
     font-weight: 500;
-    color: rgba(255, 255, 255, 0.8);
+    color: var(--text-light);
     text-transform: uppercase;
     letter-spacing: 0.5px;
     padding: var(--space-xs) 0;
@@ -138,7 +138,7 @@ img {
 }
 
 .nav-link:hover, .nav-link.active {
-    color: #ffffff;
+    color: var(--text);
     border-bottom-color: var(--accent);
 }
 
@@ -155,7 +155,7 @@ img {
     display: block;
     width: 24px;
     height: 2px;
-    background-color: var(--white);
+    background-color: var(--text);
     transition: all 0.3s;
 }
 
@@ -198,9 +198,8 @@ img {
 .hero h1 {
     font-family: var(--font-heading);
     font-size: 3rem;
-    font-weight: 900;
-    text-transform: uppercase;
-    letter-spacing: 2px;
+    font-weight: 800;
+    letter-spacing: -0.5px;
     line-height: 1.2;
     margin-bottom: var(--space-sm);
 }
@@ -235,17 +234,76 @@ img {
 /* --- Sections --- */
 .section-title {
     font-family: var(--font-heading);
-    font-size: 2rem;
-    font-weight: 900;
-    text-transform: uppercase;
-    letter-spacing: 1px;
+    font-size: 1.8rem;
+    font-weight: 700;
+    letter-spacing: 0.5px;
     text-align: center;
     margin-bottom: var(--space-lg);
-    color: var(--accent);
+    color: var(--text);
 }
 
 .categories-section, .latest-section {
     padding: var(--space-xl) 0;
+}
+
+/* --- Intro Section --- */
+.intro-section {
+    padding: var(--space-xl) 0;
+}
+
+.intro-text {
+    font-size: 1.15rem;
+    color: var(--text-light);
+    text-align: center;
+    max-width: 700px;
+    margin: 0 auto var(--space-lg);
+    line-height: 1.8;
+}
+
+.intro-columns {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: var(--space-lg);
+}
+
+.intro-col h3 {
+    font-family: var(--font-heading);
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: var(--accent);
+    margin-bottom: var(--space-sm);
+}
+
+.intro-col ul {
+    list-style: none;
+    padding: 0;
+}
+
+.intro-col li {
+    position: relative;
+    padding-left: 1.5rem;
+    margin-bottom: 0.75rem;
+    font-size: 1rem;
+    line-height: 1.6;
+    color: var(--text);
+}
+
+.intro-col li::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0.55em;
+    width: 8px;
+    height: 8px;
+    background-color: var(--accent);
+    border-radius: 50%;
+}
+
+@media (max-width: 768px) {
+    .intro-columns {
+        grid-template-columns: 1fr;
+        gap: var(--space-md);
+    }
 }
 
 .categories-section {
@@ -261,7 +319,7 @@ img {
 
 .category-card {
     background-color: var(--surface);
-    color: var(--white);
+    color: var(--text);
     padding: var(--space-lg) var(--space-md);
     text-align: center;
     border-radius: 6px;
@@ -272,7 +330,7 @@ img {
 .category-card:hover {
     transform: translateY(-4px);
     border-color: var(--accent);
-    color: var(--white);
+    color: var(--text);
 }
 
 .category-card h3 {
@@ -819,7 +877,7 @@ img {
         top: 100%;
         left: 0;
         right: 0;
-        background-color: var(--primary);
+        background-color: var(--white);
         flex-direction: column;
         padding: var(--space-sm) var(--space-md) var(--space-md);
         border-top: 1px solid var(--border);

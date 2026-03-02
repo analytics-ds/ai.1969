@@ -66,7 +66,7 @@ Ce repo ne contient pas de site. Il contient les **instructions et templates** p
 - **Description** : Le guide BDSM et vie de couple par 1969
 - **URL** : https://ai.1969.fr/
 - **Couleurs** : Primary #1A1A1A, Background #FFFFFF, Accent/CTA #E8611A, Text #1A1A1A, Border #E0E0E0
-- **Polices** : Titres: Playfair Display / Corps: Source Serif 4 / UI: DM Sans
+- **Polices** : Titres: Outfit / Corps: Inter / UI: Inter
 - **Categories** : Pratiques BDSM, Vie de Couple
 - **Langue** : Francais (fr)
 - **Auteur** : Camille Delacroix
