@@ -7,6 +7,7 @@ categories: ["BDSM"]
 tags: ["cravache BDSM", "accessoires BDSM", "jeux d'impact", "acheter cravache", "guide BDSM"]
 author: "Camille Lefèvre"
 readingTime: true
+translationKey: "buy-bdsm-riding-crop"
 ---
 
 > **En bref :**

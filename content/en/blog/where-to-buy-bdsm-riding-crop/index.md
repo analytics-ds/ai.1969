@@ -7,6 +7,7 @@ categories: ["BDSM"]
 tags: ["BDSM riding crop", "crop whip", "BDSM gear", "impact play", "buy riding crop", "online BDSM shop"]
 author: "Camille Lefèvre"
 readingTime: true
+translationKey: "buy-bdsm-riding-crop"
 ---
 
 > **Key takeaways:**
