@@ -4,28 +4,77 @@
 <section class="hero">
     <div class="hero-content">
         {{ if eq .Site.Language.Lang "en" }}
-        <span class="hero-badge">Guide BDSM et Couples</span>
-        <h1>The Art of Desire</h1>
-        <p class="hero-description">Explore the art of desire, fulfilling sexuality and relationship dynamics.</p>
-        <a href="{{ "blog/" | relLangURL }}" class="btn-primary">Explore the blog</a>
+        <span class="hero-badge">BDSM and Couples Guide</span>
+        <h1>The Art of <span>Desire</span></h1>
+        <p class="hero-description">Explore the art of desire, fulfilling sexuality and relationship dynamics. Free, inclusive and caring guides.</p>
+        <a href="{{ "blog/" | relLangURL }}" class="btn-hero">Explore our guides</a>
+        <p class="hero-reassurance">Free access &mdash; No account required</p>
         {{ else }}
         <span class="hero-badge">Guide BDSM et Couples</span>
-        <h1>L'Art du Désir</h1>
-        <p class="hero-description">Explorez l'art du désir, la sexualité épanouie et les dynamiques de couple.</p>
-        <a href="{{ "blog/" | relLangURL }}" class="btn-primary">Explorez le blog</a>
+        <h1>L'Art du <span>D&eacute;sir</span></h1>
+        <p class="hero-description">Explorez l'art du d&eacute;sir, la sexualit&eacute; &eacute;panouie et les dynamiques de couple. Des guides gratuits, inclusifs et bienveillants.</p>
+        <a href="{{ "blog/" | relLangURL }}" class="btn-hero">Explorer nos guides</a>
+        <p class="hero-reassurance">Acc&egrave;s libre &mdash; Aucun compte requis</p>
         {{ end }}
+    </div>
+</section>
+
+<!-- Trust Bar -->
+<section class="trust-bar">
+    <div class="container">
+        <div class="trust-items">
+            {{ if eq .Site.Language.Lang "en" }}
+            <div class="trust-item">
+                <span class="trust-value">100%</span>
+                <span class="trust-label">Free</span>
+            </div>
+            <div class="trust-item">
+                <span class="trust-value">{{ len (where .Site.RegularPages "Section" "blog") }}+</span>
+                <span class="trust-label">Published guides</span>
+            </div>
+            <div class="trust-item">
+                <span class="trust-value">SSC</span>
+                <span class="trust-label">Safe, Sane, Consensual</span>
+            </div>
+            <div class="trust-item">
+                <span class="trust-value">All</span>
+                <span class="trust-label">Orientations welcome</span>
+            </div>
+            {{ else }}
+            <div class="trust-item">
+                <span class="trust-value">100%</span>
+                <span class="trust-label">Gratuit</span>
+            </div>
+            <div class="trust-item">
+                <span class="trust-value">{{ len (where .Site.RegularPages "Section" "blog") }}+</span>
+                <span class="trust-label">Guides publi&eacute;s</span>
+            </div>
+            <div class="trust-item">
+                <span class="trust-value">SSC</span>
+                <span class="trust-label">Safe, Sane, Consensual</span>
+            </div>
+            <div class="trust-item">
+                <span class="trust-value">Toutes</span>
+                <span class="trust-label">Orientations bienvenues</span>
+            </div>
+            {{ end }}
+        </div>
     </div>
 </section>
 
 <!-- Categories Section -->
 <section class="categories-section">
     <div class="container">
-        <h2 class="section-title">{{ if eq .Site.Language.Lang "en" }}Our Categories{{ else }}Nos catégories{{ end }}</h2>
+        <h2 class="section-title">{{ if eq .Site.Language.Lang "en" }}Our Categories{{ else }}Nos cat&eacute;gories{{ end }}</h2>
         <div class="grid-categories">
+            {{ $index := 0 }}
             {{ range .Site.Taxonomies.categories }}
+            {{ $index = add $index 1 }}
             <a href="{{ .Page.RelPermalink }}" class="category-card">
+                <span class="category-index">{{ printf "%02d" $index }}</span>
                 <h3>{{ .Page.Title }}</h3>
-                <span class="category-count">{{ .Count }} {{ if gt .Count 1 }}articles{{ else }}article{{ end }}</span>
+                <p class="category-desc">{{ .Count }} {{ if gt .Count 1 }}articles{{ else }}article{{ end }}</p>
+                <span class="category-arrow">&rarr;</span>
             </a>
             {{ end }}
         </div>
@@ -36,8 +85,30 @@
 <section class="latest-section">
     <div class="container">
         <h2 class="section-title">{{ if eq .Site.Language.Lang "en" }}Latest Articles{{ else }}Derniers articles{{ end }}</h2>
+
+        {{ $articles := where .Site.RegularPages "Section" "blog" }}
+
+        <!-- Featured Article -->
+        {{ with index $articles 0 }}
+        <article class="article-featured">
+            <div class="featured-content">
+                <div class="article-meta">
+                    {{ with .Params.categories }}
+                    <span class="article-category">{{ index . 0 }}</span>
+                    {{ end }}
+                    <time>{{ .Date.Format "2 January 2006" }}</time>
+                </div>
+                <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+                <p>{{ .Description }}</p>
+                <a href="{{ .RelPermalink }}" class="read-more">{{ if eq $.Site.Language.Lang "en" }}Read the guide &rarr;{{ else }}Lire le guide &rarr;{{ end }}</a>
+            </div>
+        </article>
+        {{ end }}
+
+        <!-- Articles Grid -->
+        {{ if gt (len $articles) 1 }}
         <div class="grid-articles">
-            {{ range first 6 (where .Site.RegularPages "Section" "blog") }}
+            {{ range first 4 (after 1 $articles) }}
             <article class="article-card">
                 <div class="article-meta">
                     {{ with .Params.categories }}
@@ -47,20 +118,52 @@
                 </div>
                 <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
                 <p>{{ .Description }}</p>
-                <a href="{{ .RelPermalink }}" class="read-more">{{ if eq $.Site.Language.Lang "en" }}Read more{{ else }}Lire la suite{{ end }}</a>
+                <a href="{{ .RelPermalink }}" class="read-more">{{ if eq $.Site.Language.Lang "en" }}Read more &rarr;{{ else }}Lire la suite &rarr;{{ end }}</a>
             </article>
             {{ end }}
+        </div>
+        {{ end }}
+
+        <div class="articles-cta">
+            <a href="{{ "blog/" | relLangURL }}" class="btn-outline">{{ if eq .Site.Language.Lang "en" }}View all articles{{ else }}Voir tous les articles{{ end }}</a>
         </div>
     </div>
 </section>
 
 <!-- Pourquoi 1969 -->
 <section class="why-section">
-    <div class="container-narrow">
-        <span class="why-label">{{ if eq .Site.Language.Lang "en" }}Why 1969?{{ else }}Pourquoi 1969 ?{{ end }}</span>
-        <h2 class="why-title">{{ if eq .Site.Language.Lang "en" }}Exploring desire, together{{ else }}Explorer le d&eacute;sir, &agrave; deux{{ end }}</h2>
-        <p class="why-text">{{ if eq .Site.Language.Lang "en" }}Sexuality is still too often a taboo subject. Many couples struggle to communicate about their desires, boundaries and fantasies.{{ else }}La sexualit&eacute; reste trop souvent un sujet tabou. Beaucoup de couples peinent &agrave; communiquer sur leurs envies, leurs limites, leurs fantasmes.{{ end }}</p>
-        <p class="why-text">{{ if eq .Site.Language.Lang "en" }}1969 was born from a simple idea: providing reliable, inclusive and caring content to help everyone live a fulfilling intimate life.{{ else }}1969 est n&eacute; d'une id&eacute;e simple : proposer un contenu fiable, inclusif et bienveillant pour aider chacun &agrave; vivre une vie intime &eacute;panouie.{{ end }}</p>
+    <div class="container">
+        <div class="why-grid">
+            <div class="why-text-col">
+                <span class="section-badge">{{ if eq .Site.Language.Lang "en" }}Why 1969?{{ else }}Pourquoi 1969 ?{{ end }}</span>
+                <h2>{{ if eq .Site.Language.Lang "en" }}Exploring desire, <span>together</span>{{ else }}Explorer le d&eacute;sir, <span>&agrave; deux</span>{{ end }}</h2>
+                <p>{{ if eq .Site.Language.Lang "en" }}Sexuality is still too often a taboo subject. Many couples struggle to communicate about their desires, boundaries and fantasies.{{ else }}La sexualit&eacute; reste trop souvent un sujet tabou. Beaucoup de couples peinent &agrave; communiquer sur leurs envies, leurs limites, leurs fantasmes.{{ end }}</p>
+                <p>{{ if eq .Site.Language.Lang "en" }}1969 was born from a simple idea: providing reliable, inclusive and caring content to help everyone live a fulfilling intimate life.{{ else }}1969 est n&eacute; d'une id&eacute;e simple : proposer un contenu fiable, inclusif et bienveillant pour aider chacun &agrave; vivre une vie intime &eacute;panouie.{{ end }}</p>
+            </div>
+            <div class="why-values-col">
+                <div class="value-item">
+                    <span class="value-number">01</span>
+                    <div>
+                        <h4>{{ if eq .Site.Language.Lang "en" }}Zero judgement{{ else }}Z&eacute;ro jugement{{ end }}</h4>
+                        <p>{{ if eq .Site.Language.Lang "en" }}Every desire is valid when it is consensual{{ else }}Chaque d&eacute;sir est valide d&egrave;s lors qu'il est consenti{{ end }}</p>
+                    </div>
+                </div>
+                <div class="value-item">
+                    <span class="value-number">02</span>
+                    <div>
+                        <h4>{{ if eq .Site.Language.Lang "en" }}Safety first{{ else }}S&eacute;curit&eacute; avant tout{{ end }}</h4>
+                        <p>{{ if eq .Site.Language.Lang "en" }}Clear advice on consent and boundaries{{ else }}Des conseils clairs sur le consentement et les limites{{ end }}</p>
+                    </div>
+                </div>
+                <div class="value-item">
+                    <span class="value-number">03</span>
+                    <div>
+                        <h4>{{ if eq .Site.Language.Lang "en" }}For everyone{{ else }}Pour tous{{ end }}</h4>
+                        <p>{{ if eq .Site.Language.Lang "en" }}Inclusive content, all orientations welcome{{ else }}Un contenu inclusif, toutes orientations confondues{{ end }}</p>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 </section>
 
@@ -69,25 +172,25 @@
     <div class="container">
         <h2 class="section-title">{{ if eq .Site.Language.Lang "en" }}Our approach{{ else }}Notre approche{{ end }}</h2>
         <div class="approach-grid">
-            <div class="approach-item">
-                <span class="approach-number">01</span>
-                <p>{{ if eq .Site.Language.Lang "en" }}Zero judgement: every desire is valid as long as it is consensual{{ else }}Z&eacute;ro jugement : chaque d&eacute;sir est valide d&egrave;s lors qu'il est consenti{{ end }}</p>
+            <div class="approach-card">
+                <span class="approach-icon">&#9829;</span>
+                <h3>{{ if eq .Site.Language.Lang "en" }}Consent{{ else }}Consentement{{ end }}</h3>
+                <p>{{ if eq .Site.Language.Lang "en" }}Every practice we discuss begins with informed, enthusiastic and revocable consent{{ else }}Chaque pratique abord&eacute;e commence par un consentement &eacute;clair&eacute;, enthousiaste et r&eacute;vocable{{ end }}</p>
             </div>
-            <div class="approach-item">
-                <span class="approach-number">02</span>
-                <p>{{ if eq .Site.Language.Lang "en" }}Safety first: clear advice on consent and boundaries{{ else }}S&eacute;curit&eacute; avant tout : des conseils clairs sur le consentement et les limites{{ end }}</p>
+            <div class="approach-card">
+                <span class="approach-icon">&#10038;</span>
+                <h3>{{ if eq .Site.Language.Lang "en" }}Inclusivity{{ else }}Inclusivit&eacute;{{ end }}</h3>
+                <p>{{ if eq .Site.Language.Lang "en" }}Our content speaks to all genders, orientations and relationship configurations{{ else }}Nos contenus s'adressent &agrave; tous les genres, orientations et configurations de couple{{ end }}</p>
             </div>
-            <div class="approach-item">
-                <span class="approach-number">03</span>
-                <p>{{ if eq .Site.Language.Lang "en" }}For everyone: inclusive content, all orientations welcome{{ else }}Pour tous : un contenu inclusif, toutes orientations confondues{{ end }}</p>
+            <div class="approach-card">
+                <span class="approach-icon">&#9733;</span>
+                <h3>{{ if eq .Site.Language.Lang "en" }}Expertise{{ else }}Expertise{{ end }}</h3>
+                <p>{{ if eq .Site.Language.Lang "en" }}Sexologists, therapists and verified testimonies inform our guides{{ else }}Sexologues, th&eacute;rapeutes et t&eacute;moignages v&eacute;rifi&eacute;s nourrissent nos guides{{ end }}</p>
             </div>
-            <div class="approach-item">
-                <span class="approach-number">04</span>
-                <p>{{ if eq .Site.Language.Lang "en" }}Expert sources: sexologists, therapists, real testimonies{{ else }}Sources expertes : sexologues, th&eacute;rapeutes, t&eacute;moignages r&eacute;els{{ end }}</p>
-            </div>
-            <div class="approach-item">
-                <span class="approach-number">05</span>
-                <p>{{ if eq .Site.Language.Lang "en" }}Practical guides: concrete advice you can apply today{{ else }}Guides pratiques : des conseils concrets &agrave; appliquer d&egrave;s aujourd'hui{{ end }}</p>
+            <div class="approach-card">
+                <span class="approach-icon">&#9998;</span>
+                <h3>{{ if eq .Site.Language.Lang "en" }}Practical{{ else }}Pratique{{ end }}</h3>
+                <p>{{ if eq .Site.Language.Lang "en" }}Concrete advice you can apply today to enrich your intimate life{{ else }}Des conseils concrets &agrave; appliquer d&egrave;s aujourd'hui pour enrichir votre vie intime{{ end }}</p>
             </div>
         </div>
     </div>
@@ -96,7 +199,7 @@
 <!-- FAQ Section -->
 <section class="faq-section">
     <div class="container-narrow">
-        <span class="faq-label">{{ if eq .Site.Language.Lang "en" }}Frequently asked questions{{ else }}Questions fr&eacute;quentes{{ end }}</span>
+        <span class="section-badge">{{ if eq .Site.Language.Lang "en" }}Frequently asked questions{{ else }}Questions fr&eacute;quentes{{ end }}</span>
         <h2 class="faq-title">{{ if eq .Site.Language.Lang "en" }}Your questions about desire{{ else }}Vos questions sur le d&eacute;sir{{ end }}</h2>
         <div class="faq-list">
             <details class="faq-item">
@@ -130,7 +233,10 @@
 <!-- CTA Section -->
 <section class="cta-section">
     <div class="container-narrow">
-        <a href="{{ "blog/" | relLangURL }}" class="cta-link">{{ if eq .Site.Language.Lang "en" }}Discover 1969.fr{{ else }}D&eacute;couvrir 1969.fr{{ end }} &rarr;</a>
+        <h2>{{ if eq .Site.Language.Lang "en" }}Ready to explore?{{ else }}Pr&ecirc;t &agrave; explorer ?{{ end }}</h2>
+        <p class="cta-description">{{ if eq .Site.Language.Lang "en" }}Discover all our guides on BDSM, relationships and fulfilling sexuality.{{ else }}D&eacute;couvrez tous nos guides sur le BDSM, la vie de couple et la sexualit&eacute; &eacute;panouie.{{ end }}</p>
+        <a href="{{ "blog/" | relLangURL }}" class="btn-cta">{{ if eq .Site.Language.Lang "en" }}Explore 1969{{ else }}Explorer 1969{{ end }}</a>
+        <p class="cta-reassurance">{{ if eq .Site.Language.Lang "en" }}Free, anonymous, no account required{{ else }}Gratuit, anonyme, aucun compte requis{{ end }}</p>
     </div>
 </section>
 
