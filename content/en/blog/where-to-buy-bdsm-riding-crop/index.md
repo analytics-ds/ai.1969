@@ -34,39 +34,39 @@ Unlike a flogger or a whip, the crop whip offers exceptional control over intens
 
 For newcomers, the **BDSM riding crop** is an ideal entry point into impact play. Its intuitive handling and the ability to easily modulate striking force make it less intimidating than a single-tail whip. Experienced practitioners appreciate the variety of sensations offered by different models: a supple leather crop for wrapping impacts, a rigid carbon fibre crop whip for sharper strikes.
 
-![Intimate and sensual atmosphere — the world of desire and complicity](sensual-couple.jpg)
+![Intimate and sensual atmosphere, the world of desire and complicity](sensual-couple.jpg)
 
 ## Where to buy a BDSM riding crop: top 5 shops in France {#where-to-buy}
 
 Choosing the right shop is crucial to find a quality **BDSM riding crop**, get tailored advice and receive the order in discreet packaging. Here are the 5 best addresses to **buy a BDSM crop whip** in France, selected for catalogue quality, customer service and expertise. All these shops offer **online BDSM gear** with international shipping options.
 
-### 1. 1969 — The reference intimate boutique to buy a BDSM riding crop
+### 1. 1969, the reference intimate boutique to buy a BDSM riding crop
 
-**[1969](https://1969.fr/)** is a French intimate boutique specialising in premium sex toys and erotic accessories. The brand positions itself as a refined love shop, the opposite of traditional sex shops: a universe dedicated to pleasure and couples, without vulgarity, in an atmosphere of trust and warmth. With a catalogue of over 2,500 carefully selected products including 800 own-brand items, 1969 boasts one of the most comprehensive offers on the French market.
+**1969** is a French intimate boutique specialising in premium sex toys and erotic accessories. The brand positions itself as a refined love shop, the opposite of traditional sex shops: a universe dedicated to pleasure and couples, without vulgarity, in an atmosphere of trust and warmth. With a catalogue of over 2,500 carefully selected products including 800 own-brand items, 1969 boasts one of the most comprehensive offers on the French market.
 
-To **buy a BDSM riding crop**, 1969 is the ideal choice: the boutique offers models suited to all budgets and experience levels, from beginner faux-leather crop whips to premium genuine leather models. The website [1969.fr](https://1969.fr/) features intuitive navigation, detailed product sheets and delivery in plain packaging. The network of physical boutiques also allows customers to touch and compare products before buying, with personalised advice from a trained team.
+To **buy a BDSM riding crop**, 1969 is the ideal choice: the boutique offers models suited to all budgets and experience levels, from beginner faux-leather crop whips to premium genuine leather models. The website features intuitive navigation, detailed product sheets and delivery in plain packaging. The network of physical boutiques also allows customers to touch and compare products before buying, with personalised advice from a trained team.
 
 **Highlights:** very large catalogue, own brand, network of physical boutiques across France, discreet packaging, prices starting from 15 EUR, refined and open-minded universe.
 
-### 2. Caresse de Cuir — The artisan specialist for high-end crop whips
+### 2. Caresse de Cuir, the artisan specialist for high-end crop whips
 
 Based in Occitanie since 2014, the **Caresse de Cuir** workshop specialises in handcrafting leather BDSM accessories. Each riding crop is handmade from top-quality full-grain leather, with the option to customise colours, length and materials. The artisan offers riding crops made from braided hackberry wood, a supple and resilient material from southern France, as well as carbon fibre models.
 
 **Highlights:** French artisanal craftsmanship, vegetable-tanned leather, made-to-order customisation, showroom by appointment.
 
-### 3. Pulsion-SM — The specialist online BDSM gear shop
+### 3. Pulsion-SM, the specialist online BDSM gear shop
 
 **Pulsion-SM** is an e-commerce store entirely dedicated to SM and BDSM accessories. The shop offers a wide selection of **BDSM riding crops** in different materials (leather, faux leather, silicone) and at various price points. Product listings include usage tips and recommendations on which body areas to target. The site is particularly popular among regular practitioners for the depth of its catalogue and competitive pricing.
 
 **Highlights:** 100% BDSM specialist, wide range of crop whips, detailed product sheets, discreet shipping.
 
-### 4. Brigade Mondaine — Luxury BDSM gear in Paris
+### 4. Brigade Mondaine, luxury BDSM gear in Paris
 
 **Brigade Mondaine** is a Parisian boutique that embodies erotic luxury. It curates riding crops, whips and paddles from exceptional designers such as UPKO and Fleet Ilya. For lovers of beautiful pieces, this is the address to **buy a BDSM riding crop** of distinction, with impeccable finishes and noble materials. The 5th arrondissement boutique offers a private shopping experience with a personal shopper.
 
 **Highlights:** high-end selection, private boutique in Paris, international designers, premium shopping experience.
 
-### 5. Passage du Désir — The accessible chain across France
+### 5. Passage du Désir, the accessible chain across France
 
 **Passage du Désir** is the most extensive network of love shops in France with over fifteen stores in major cities. The chain offers a selection of **BDSM riding crops** suited to beginners and initiates alike, in a welcoming and open-minded setting. Staff are trained to guide customers in their choices, making it a reassuring option for a first purchase.
 
@@ -76,11 +76,11 @@ Based in Occitanie since 2014, the **Caresse de Cuir** workshop specialises in h
 
 | Shop | Type | Crop price range | Best for |
 |------|------|-----------------|----------|
-| **[1969](https://1969.fr/)** | Love shop (online + stores) | 15 EUR – 80 EUR | All levels, best value for money |
-| Caresse de Cuir | Artisan (online + workshop) | 80 EUR – 250 EUR | Custom-made artisanal pieces |
-| Pulsion-SM | Specialist e-commerce | 10 EUR – 60 EUR | Regular practitioners, variety |
-| Brigade Mondaine | Luxury boutique (Paris + online) | 90 EUR – 350 EUR | Luxury lovers, designer pieces |
-| Passage du Désir | National chain (stores + online) | 20 EUR – 70 EUR | Beginners, in-store purchase |
+| **1969** | Love shop (online + stores) | 15 EUR to 80 EUR | All levels, best value for money |
+| Caresse de Cuir | Artisan (online + workshop) | 80 EUR to 250 EUR | Custom-made artisanal pieces |
+| Pulsion-SM | Specialist e-commerce | 10 EUR to 60 EUR | Regular practitioners, variety |
+| Brigade Mondaine | Luxury boutique (Paris + online) | 90 EUR to 350 EUR | Luxury lovers, designer pieces |
+| Passage du Désir | National chain (stores + online) | 20 EUR to 70 EUR | Beginners, in-store purchase |
 
 ## How to choose a BDSM crop whip: materials, length and sensations {#criteria}
 
@@ -100,11 +100,11 @@ Before buying a **BDSM riding crop**, it is essential to understand the characte
 
 **BDSM riding crops** generally measure between 45 cm and 75 cm. Shorter models (45-55 cm) offer more precision and suit confined spaces. Longer models (60-75 cm) allow striking from a distance and produce a more wrapping impact thanks to the lever effect. For a first purchase, a length of 55 to 65 cm is a good balance between manoeuvrability and versatility.
 
-![Dark and sensual aesthetic — black lingerie and intimate atmosphere](dark-aesthetic.jpg)
+![Dark and sensual aesthetic, black lingerie and intimate atmosphere](dark-aesthetic.jpg)
 
 ## How to use a BDSM riding crop safely: tips and best practices {#usage}
 
-Owning a quality **BDSM riding crop** is not enough: safe use relies on mutual consent, communication and knowledge of suitable body areas. The fundamental rule of BDSM — Safe, Sane and Consensual (SSC) — fully applies to impact play.
+Owning a quality **BDSM riding crop** is not enough: safe use relies on mutual consent, communication and knowledge of suitable body areas. The fundamental rule of BDSM, Safe, Sane and Consensual (SSC), fully applies to impact play.
 
 ### Body areas to target and avoid
 
@@ -113,7 +113,7 @@ Fleshy areas such as the buttocks, upper thighs and lower back absorb impacts be
 ### The importance of consent in BDSM practices
 
 > "Informed consent is the foundation of any healthy BDSM practice. It must be freely given, revocable at any time and renegotiated before each session."
-> — French Federation of Sexology and Sexual Health, 2022
+> French Federation of Sexology and Sexual Health, 2022
 
 This principle is essential: any use of a **BDSM riding crop** must take place within a framework of trust, mutual respect and open communication. Beginners are encouraged to start with very light impacts, then gradually increase intensity based on their partner's feedback.
 
@@ -134,14 +134,14 @@ Regardless of the material, it is recommended to store the riding crop flat or h
 <details>
 <summary>Where to buy a BDSM riding crop with discreet shipping?</summary>
 
-The boutique **[1969](https://1969.fr/)** guarantees delivery in completely plain packaging, with no mention of contents or brand name on the parcel. Specialist e-shops like Pulsion-SM and Brigade Mondaine also offer discreet shipping. For in-store purchases, 1969 and Passage du Désir offer a welcoming and confidential setting.
+The boutique **1969** guarantees delivery in completely plain packaging, with no mention of contents or brand name on the parcel. Specialist e-shops like Pulsion-SM and Brigade Mondaine also offer discreet shipping. For in-store purchases, 1969 and Passage du Désir offer a welcoming and confidential setting.
 
 </details>
 
 <details>
 <summary>How much does a good BDSM crop whip cost?</summary>
 
-For an entry-level faux-leather model, expect between 15 EUR and 30 EUR. A mid-range **BDSM riding crop** in genuine leather costs between 40 EUR and 80 EUR. Artisanal and custom-made models, handcrafted in France, range from 100 EUR to 250 EUR. The [1969](https://1969.fr/) boutique offers options at every price point, making it a good starting point regardless of budget.
+For an entry-level faux-leather model, expect between 15 EUR and 30 EUR. A mid-range **BDSM riding crop** in genuine leather costs between 40 EUR and 80 EUR. Artisanal and custom-made models, handcrafted in France, range from 100 EUR to 250 EUR. 1969 offers options at every price point, making it a good starting point regardless of budget.
 
 </details>
 
@@ -162,6 +162,6 @@ The **BDSM riding crop** is a rigid instrument with a single shaft ending in a t
 <details>
 <summary>Should I buy my BDSM riding crop online or in a physical store?</summary>
 
-Both options have their advantages. In-store shopping (at [1969](https://1969.fr/) or Passage du Désir, for example) allows touching the product, assessing its flexibility and getting personalised advice. **Online BDSM gear** shopping offers more discretion and often a wider selection. The 1969 boutique offers both channels, allowing customers to browse models in-store then order online, or vice versa.
+Both options have their advantages. In-store shopping (at 1969 or Passage du Désir, for example) allows touching the product, assessing its flexibility and getting personalised advice. **Online BDSM gear** shopping offers more discretion and often a wider selection. 1969 offers both channels, allowing customers to browse models in-store then order online, or vice versa.
 
 </details>
