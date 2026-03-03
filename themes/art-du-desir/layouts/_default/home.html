@@ -54,4 +54,88 @@
     </div>
 </section>
 
+<!-- Why 1969 + FAQ Section -->
+<section class="why-faq-section">
+    <div class="container">
+        <div class="why-faq-grid">
+            <div class="why-col">
+                {{ if eq .Site.Language.Lang "en" }}
+                <span class="section-badge">WHY 1969?</span>
+                <h2>Explore desire, together</h2>
+                <p>Sexuality is still too often a taboo subject. Many couples struggle to communicate about their desires, their boundaries, their fantasies.</p>
+                <p>1969 was born from a simple idea: <strong>provide reliable, inclusive and caring content</strong> to help everyone live a <strong>fulfilling intimate life</strong>.</p>
+                <h3 class="why-subtitle">OUR APPROACH</h3>
+                <div class="why-criteria">
+                    <div class="criterion"><span class="criterion-num">01</span><p><strong>No judgement</strong> : every desire is valid when it's consensual</p></div>
+                    <div class="criterion"><span class="criterion-num">02</span><p><strong>Safety first</strong> : clear advice on consent and boundaries</p></div>
+                    <div class="criterion"><span class="criterion-num">03</span><p><strong>For everyone</strong> : inclusive content for all orientations</p></div>
+                    <div class="criterion"><span class="criterion-num">04</span><p><strong>Expert sources</strong> : sexologists, therapists, real testimonials</p></div>
+                    <div class="criterion"><span class="criterion-num">05</span><p><strong>Practical guides</strong> : concrete tips to apply today</p></div>
+                </div>
+                {{ else }}
+                <span class="section-badge">POURQUOI 1969 ?</span>
+                <h2>Explorer le desir, a deux</h2>
+                <p>La sexualite reste trop souvent un sujet tabou. Beaucoup de couples peinent a communiquer sur leurs envies, leurs limites, leurs fantasmes.</p>
+                <p>1969 est ne d'une idee simple : <strong>proposer un contenu fiable, inclusif et bienveillant</strong> pour aider chacun a vivre une <strong>vie intime epanouie</strong>.</p>
+                <h3 class="why-subtitle">NOTRE APPROCHE</h3>
+                <div class="why-criteria">
+                    <div class="criterion"><span class="criterion-num">01</span><p><strong>Zero jugement</strong> : chaque desir est valide des lors qu'il est consenti</p></div>
+                    <div class="criterion"><span class="criterion-num">02</span><p><strong>Securite avant tout</strong> : des conseils clairs sur le consentement et les limites</p></div>
+                    <div class="criterion"><span class="criterion-num">03</span><p><strong>Pour tous</strong> : un contenu inclusif, toutes orientations confondues</p></div>
+                    <div class="criterion"><span class="criterion-num">04</span><p><strong>Sources expertes</strong> : sexologues, therapeutes, temoignages reels</p></div>
+                    <div class="criterion"><span class="criterion-num">05</span><p><strong>Guides pratiques</strong> : des conseils concrets a appliquer des aujourd'hui</p></div>
+                </div>
+                {{ end }}
+            </div>
+            <div class="faq-col">
+                {{ if eq .Site.Language.Lang "en" }}
+                <span class="section-badge">FAQ</span>
+                <h2>Your questions about desire</h2>
+                <div class="faq-list">
+                    <details class="faq-item">
+                        <summary>How to talk about fantasies with your partner?</summary>
+                        <p>Start by creating a safe space for discussion. Choose a calm moment, outside the bedroom. Use "I" statements and share your curiosity without pressure.</p>
+                    </details>
+                    <details class="faq-item">
+                        <summary>Is BDSM dangerous?</summary>
+                        <p>When practiced with informed consent, clear communication and respect for boundaries, BDSM is a safe exploration of desire. Education and safety rules are essential.</p>
+                    </details>
+                    <details class="faq-item">
+                        <summary>How to rekindle desire in a long-term couple?</summary>
+                        <p>Routine is the main enemy of desire. Introduce novelty, communicate openly about your needs, and don't hesitate to explore new experiences together.</p>
+                    </details>
+                    <details class="faq-item">
+                        <summary>Where to start with BDSM as a beginner?</summary>
+                        <p>Start with information and communication. Read together, define your limits, choose a safeword. Explore gently, step by step, with trust as foundation.</p>
+                    </details>
+                </div>
+                <a href="https://1969.fr" class="btn-cta" target="_blank" rel="noopener">Discover 1969.fr &rarr;</a>
+                {{ else }}
+                <span class="section-badge">QUESTIONS FREQUENTES</span>
+                <h2>Vos questions sur le desir</h2>
+                <div class="faq-list">
+                    <details class="faq-item">
+                        <summary>Comment parler de ses fantasmes en couple ?</summary>
+                        <p>Commencez par creer un espace de dialogue securisant. Choisissez un moment calme, en dehors de la chambre. Utilisez le "je" et partagez vos curiosites sans pression.</p>
+                    </details>
+                    <details class="faq-item">
+                        <summary>Le BDSM est-il dangereux ?</summary>
+                        <p>Pratique avec un consentement eclaire, une communication claire et le respect des limites, le BDSM est une exploration sure du desir. L'education et les regles de securite sont essentielles.</p>
+                    </details>
+                    <details class="faq-item">
+                        <summary>Comment raviver le desir dans un couple installe ?</summary>
+                        <p>La routine est le principal ennemi du desir. Introduisez de la nouveaute, communiquez ouvertement sur vos besoins, et n'hesitez pas a explorer de nouvelles experiences ensemble.</p>
+                    </details>
+                    <details class="faq-item">
+                        <summary>Par ou commencer le BDSM en tant que debutant ?</summary>
+                        <p>Commencez par vous informer et communiquer. Lisez ensemble, definissez vos limites, choisissez un safeword. Explorez en douceur, pas a pas, avec la confiance comme fondation.</p>
+                    </details>
+                </div>
+                <a href="https://1969.fr" class="btn-cta" target="_blank" rel="noopener">Decouvrir 1969.fr &rarr;</a>
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</section>
+
 {{ end }}
