@@ -165,3 +165,24 @@ La **cravache BDSM** est un instrument rigide à une seule tige terminée par un
 Les deux options ont leurs avantages. L'achat en magasin (chez 1969 ou Passage du Désir, par exemple) permet de toucher le produit, d'évaluer sa souplesse et de bénéficier de conseils personnalisés. L'achat en ligne offre plus de discrétion et un choix souvent plus large. 1969 propose les deux canaux, ce qui permet de repérer un modèle en magasin puis de commander en ligne, ou inversement.
 
 </details>
+
+<details>
+<summary>Une cravache BDSM peut-elle laisser des marques ?</summary>
+
+Oui, selon l'intensité de la frappe et le matériau utilisé, une cravache peut laisser des rougeurs temporaires ou des marques plus visibles. Les cravaches en cuir souple laissent généralement moins de traces qu'un modèle rigide en fibre de carbone. Pour limiter les marques, il suffit de commencer doucement et de monter en intensité progressivement. Les rougeurs légères disparaissent en quelques heures. Si des marques plus prononcées apparaissent, une crème apaisante à l'arnica peut aider à accélérer la récupération.
+
+</details>
+
+<details>
+<summary>Comment aborder les jeux d'impact avec son ou sa partenaire pour la première fois ?</summary>
+
+La communication est la clé. Le mieux est d'en parler dans un moment calme, en dehors de toute situation intime, pour éviter toute pression. Expliquer ce qui attire dans les jeux d'impact, poser des questions sur les limites de chacun et définir ensemble un safeword avant de commencer. Lors de la première session, aller très doucement : quelques tapes légères sur les fesses suffisent pour tester les sensations. Le retour de chaque partenaire après la session (ce qu'on appelle le "debrief") est aussi important que la session elle-même.
+
+</details>
+
+<details>
+<summary>Existe-t-il des cravaches BDSM adaptées aux personnes allergiques au cuir ?</summary>
+
+Oui, plusieurs alternatives existent pour les personnes sensibles ou allergiques au cuir. Les cravaches en silicone médical sont hypoallergéniques, faciles à nettoyer et offrent des sensations nettes et précises. Les modèles en fibre de carbone avec poignée synthétique sont une autre option sans cuir. Certains artisans proposent aussi des cravaches en matériaux véganes (similicuir sans chrome) qui conviennent aux peaux sensibles. Il suffit de vérifier la composition sur la fiche produit avant l'achat.
+
+</details>

@@ -165,3 +165,24 @@ The **BDSM riding crop** is a rigid instrument with a single shaft ending in a t
 Both options have their advantages. In-store shopping (at 1969 or Passage du Désir, for example) allows touching the product, assessing its flexibility and getting personalised advice. **Online BDSM gear** shopping offers more discretion and often a wider selection. 1969 offers both channels, allowing customers to browse models in-store then order online, or vice versa.
 
 </details>
+
+<details>
+<summary>Can a BDSM riding crop leave marks?</summary>
+
+Yes, depending on the striking intensity and the material used, a riding crop can leave temporary redness or more visible marks. Supple leather crops generally leave fewer traces than a rigid carbon fibre model. To minimise marks, start gently and gradually increase intensity. Light redness typically fades within a few hours. If more pronounced marks appear, an arnica-based soothing cream can help speed up recovery.
+
+</details>
+
+<details>
+<summary>How to bring up impact play with a partner for the first time?</summary>
+
+Communication is key. The best approach is to talk about it in a calm moment, outside of any intimate situation, to avoid any pressure. Explain what attracts you to impact play, ask about each other's boundaries and agree on a safeword together before starting. During the first session, go very slowly: a few light taps on the buttocks are enough to test the sensations. The feedback from each partner after the session (often called a "debrief") is just as important as the session itself.
+
+</details>
+
+<details>
+<summary>Are there BDSM riding crops suitable for people allergic to leather?</summary>
+
+Yes, several alternatives exist for people with leather sensitivity or allergies. Medical-grade silicone crops are hypoallergenic, easy to clean and deliver sharp, precise sensations. Carbon fibre models with synthetic handles are another leather-free option. Some artisans also offer crops made from vegan materials (chrome-free faux leather) that suit sensitive skin. Simply check the product composition on the listing before purchasing.
+
+</details>
