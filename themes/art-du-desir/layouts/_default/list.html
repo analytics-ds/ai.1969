@@ -4,7 +4,7 @@
     <div class="container">
         <h1>{{ .Title }}</h1>
         {{ with .Description }}<p class="list-description">{{ . }}</p>{{ end }}
-        <span class="list-count">{{ len .Pages }} {{ if eq .Site.Language.Lang "en" }}{{ if gt (len .Pages) 1 }}articles{{ else }}article{{ end }}{{ else }}{{ if gt (len .Pages) 1 }}articles{{ else }}article{{ end }}{{ end }}</span>
+        <span class="list-count">{{ len .Pages }} {{ if gt (len .Pages) 1 }}articles{{ else }}article{{ end }}</span>
     </div>
 </section>
 
@@ -23,11 +23,6 @@
                     </div>
                     <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
                     <p>{{ .Description }}</p>
-                    <div class="article-tags">
-                        {{ range .Params.tags }}
-                        <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}/" class="tag">#{{ . }}</a>
-                        {{ end }}
-                    </div>
                 </div>
             </article>
             {{ end }}

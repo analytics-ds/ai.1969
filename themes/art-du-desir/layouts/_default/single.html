@@ -5,7 +5,7 @@
         <div class="container">
             <div class="article-meta">
                 {{ with .Params.categories }}
-                <a href="{{ "/categories/" | relLangURL }}{{ index . 0 | urlize }}/" class="article-category">{{ index . 0 }}</a>
+                <a href="{{ "/categories/" | relURL }}{{ index . 0 | urlize }}/" class="article-category">{{ index . 0 }}</a>
                 {{ end }}
                 <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time>
                 <span class="reading-time">{{ .ReadingTime }} min {{ if eq .Site.Language.Lang "en" }}read{{ else }}de lecture{{ end }}</span>
@@ -20,11 +20,6 @@
                 <span class="author-name">{{ . }}</span>
             </div>
             {{ end }}
-            <div class="article-tags">
-                {{ range .Params.tags }}
-                <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}/" class="tag">#{{ . }}</a>
-                {{ end }}
-            </div>
         </div>
     </header>
 

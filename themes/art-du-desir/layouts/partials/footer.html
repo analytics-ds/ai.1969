@@ -19,7 +19,6 @@
                     {{ range .Site.Menus.main }}
                     <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
                     {{ end }}
-                    <li><a href="{{ "plan-du-site/" | relLangURL }}">{{ if eq $.Site.Language.Lang "en" }}Sitemap{{ else }}Plan du site{{ end }}</a></li>
                 </ul>
             </div>
         </div>

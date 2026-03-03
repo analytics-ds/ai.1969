@@ -1,27 +1,17 @@
 <!-- Canonical -->
 <link rel="canonical" href="{{ .Permalink }}">
 
-<!-- Hreflang -->
-{{ if .IsTranslated }}
-{{ range .Translations }}
-<link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}">
-{{ end }}
-<link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}">
-{{ end }}
-
 <!-- Open Graph -->
 <meta property="og:title" content="{{ .Title }}">
 <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
 <meta property="og:url" content="{{ .Permalink }}">
 <meta property="og:site_name" content="{{ .Site.Title }}">
-<meta property="og:locale" content="{{ if eq .Site.Language.Lang "en" }}en_US{{ else }}fr_FR{{ end }}">
+<meta property="og:locale" content="{{ .Site.Language.Lang }}_{{ if eq .Site.Language.Lang "en" }}US{{ else }}FR{{ end }}">
 {{ if .IsPage }}
 {{ with .Params.author }}<meta property="article:author" content="{{ . }}">{{ end }}
 <meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
 <meta property="article:modified_time" content="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}">
-{{ range .Params.tags }}<meta property="article:tag" content="{{ . }}">
-{{ end }}
 {{ end }}
 
 <!-- Twitter Card -->
@@ -41,7 +31,6 @@
     "dateModified": "{{ .Lastmod.Format "2006-01-02" }}",
     "wordCount": {{ .WordCount }},
     "timeRequired": "PT{{ .ReadingTime }}M",
-    "inLanguage": "{{ .Site.Language.Lang }}",
     {{ with .Params.author }}
     "author": {
         "@type": "Person",
@@ -57,16 +46,11 @@
     "mainEntityOfPage": {
         "@type": "WebPage",
         "@id": "{{ .Permalink }}"
-    },
-    "isPartOf": {
-        "@type": "Blog",
-        "name": "{{ .Site.Title }}",
-        "url": "{{ .Site.BaseURL }}"
     }
 }
 </script>
 
-<!-- JSON-LD Schema.org : BreadcrumbList (articles) -->
+<!-- JSON-LD Schema.org : BreadcrumbList -->
 <script type="application/ld+json">
 {
     "@context": "https://schema.org",
@@ -95,28 +79,25 @@
 </script>
 {{ else if .IsHome }}
 
-<!-- JSON-LD Schema.org : WebSite (accueil) -->
+<!-- JSON-LD Schema.org : WebSite -->
 <script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "WebSite",
     "name": "{{ .Site.Title }}",
     "description": "{{ .Site.Params.description }}",
-    "url": "{{ .Site.BaseURL }}",
-    "inLanguage": "{{ .Site.Language.Lang }}"
+    "url": "{{ .Site.BaseURL }}"
 }
 </script>
 
-<!-- JSON-LD Schema.org : Organization (accueil) -->
-{{ with .Site.Params.author_name }}
+<!-- JSON-LD Schema.org : Organization -->
 <script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "Organization",
-    "name": "{{ $.Site.Title }}",
-    "url": "{{ $.Site.BaseURL }}",
-    "description": "{{ $.Site.Params.description }}"
+    "name": "{{ .Site.Title }}",
+    "url": "{{ .Site.BaseURL }}",
+    "description": "{{ .Site.Params.description }}"
 }
 </script>
-{{ end }}
 {{ end }}

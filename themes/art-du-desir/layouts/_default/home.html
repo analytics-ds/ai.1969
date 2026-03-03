@@ -3,22 +3,29 @@
 <!-- Hero Section -->
 <section class="hero">
     <div class="hero-content">
-        <span class="hero-badge">{{ if eq .Site.Language.Lang "en" }}Explore your desires{{ else }}Explorez vos désirs{{ end }}</span>
-        <h1>{{ if eq .Site.Language.Lang "en" }}The Art of <span>Desire</span>{{ else }}L'Art du <span>Désir</span>{{ end }}</h1>
-        <p class="hero-description">{{ if eq .Site.Language.Lang "en" }}The BDSM and couples guide by 1969. Explore fulfilling sexuality, relationship dynamics and the art of desire.{{ else }}Le guide BDSM et vie de couple par 1969. Explorez la sexualité épanouie, les dynamiques de couple et l'art du désir.{{ end }}</p>
-        <a href="{{ "blog/" | relLangURL }}" class="btn-primary">{{ if eq .Site.Language.Lang "en" }}Explore the blog{{ else }}Explorer le blog{{ end }}</a>
+        {{ if eq .Site.Language.Lang "en" }}
+        <span class="hero-badge">Guide BDSM et Couples</span>
+        <h1>The Art of Desire</h1>
+        <p class="hero-description">Explore the art of desire, fulfilling sexuality and relationship dynamics.</p>
+        <a href="{{ "blog/" | relLangURL }}" class="btn-primary">Explore the blog</a>
+        {{ else }}
+        <span class="hero-badge">Guide BDSM et Couples</span>
+        <h1>L'Art du Désir</h1>
+        <p class="hero-description">Explorez l'art du désir, la sexualité épanouie et les dynamiques de couple.</p>
+        <a href="{{ "blog/" | relLangURL }}" class="btn-primary">Explorez le blog</a>
+        {{ end }}
     </div>
 </section>
 
 <!-- Categories Section -->
 <section class="categories-section">
     <div class="container">
-        <h2 class="section-title">{{ if eq .Site.Language.Lang "en" }}Categories{{ else }}Nos catégories{{ end }}</h2>
+        <h2 class="section-title">{{ if eq .Site.Language.Lang "en" }}Our Categories{{ else }}Nos catégories{{ end }}</h2>
         <div class="grid-categories">
             {{ range .Site.Taxonomies.categories }}
             <a href="{{ .Page.RelPermalink }}" class="category-card">
                 <h3>{{ .Page.Title }}</h3>
-                <span class="category-count">{{ .Count }} {{ if eq $.Site.Language.Lang "en" }}{{ if gt .Count 1 }}articles{{ else }}article{{ end }}{{ else }}{{ if gt .Count 1 }}articles{{ else }}article{{ end }}{{ end }}</span>
+                <span class="category-count">{{ .Count }} {{ if gt .Count 1 }}articles{{ else }}article{{ end }}</span>
             </a>
             {{ end }}
         </div>
@@ -28,7 +35,7 @@
 <!-- Latest Articles Section -->
 <section class="latest-section">
     <div class="container">
-        <h2 class="section-title">{{ if eq .Site.Language.Lang "en" }}Latest articles{{ else }}Derniers articles{{ end }}</h2>
+        <h2 class="section-title">{{ if eq .Site.Language.Lang "en" }}Latest Articles{{ else }}Derniers articles{{ end }}</h2>
         <div class="grid-articles">
             {{ range first 6 (where .Site.RegularPages "Section" "blog") }}
             <article class="article-card">
