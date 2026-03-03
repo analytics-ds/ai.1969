@@ -374,6 +374,213 @@ img {
     letter-spacing: 0.1em;
 }
 
+/* --- Why Section (Pourquoi 1969) --- */
+.why-section {
+    padding: var(--space-xl) var(--space-md);
+    text-align: center;
+    background-color: var(--background);
+}
+
+.why-label {
+    display: inline-block;
+    font-family: var(--font-ui);
+    font-size: 0.75rem;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    color: var(--accent);
+    margin-bottom: var(--space-md);
+}
+
+.why-title {
+    font-family: var(--font-heading);
+    font-size: 2.4rem;
+    font-weight: 300;
+    color: var(--primary);
+    margin-bottom: var(--space-md);
+    line-height: 1.2;
+}
+
+.why-text {
+    font-size: 1.1rem;
+    color: var(--text-light);
+    line-height: 1.8;
+    margin-bottom: var(--space-sm);
+    max-width: 650px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.why-text:last-child {
+    margin-bottom: 0;
+}
+
+/* --- Approach Section (Notre Approche) --- */
+.approach-section {
+    padding: var(--space-xl) 0;
+    background-color: var(--primary);
+    color: var(--white);
+}
+
+.approach-section .section-title {
+    color: var(--white);
+}
+
+.approach-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 1px;
+    background-color: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.approach-item {
+    background-color: var(--primary);
+    padding: var(--space-md);
+    text-align: center;
+}
+
+.approach-number {
+    display: block;
+    font-family: var(--font-heading);
+    font-size: 2rem;
+    font-weight: 300;
+    color: var(--accent);
+    margin-bottom: var(--space-sm);
+    line-height: 1;
+}
+
+.approach-item p {
+    font-family: var(--font-body);
+    font-size: 0.95rem;
+    font-weight: 300;
+    opacity: 0.85;
+    line-height: 1.6;
+}
+
+/* --- FAQ Section --- */
+.faq-section {
+    padding: var(--space-xl) var(--space-md);
+    background-color: var(--background-alt);
+}
+
+.faq-label {
+    display: block;
+    text-align: center;
+    font-family: var(--font-ui);
+    font-size: 0.75rem;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    color: var(--accent);
+    margin-bottom: var(--space-sm);
+}
+
+.faq-title {
+    font-family: var(--font-heading);
+    font-size: 2rem;
+    font-weight: 300;
+    color: var(--primary);
+    text-align: center;
+    margin-bottom: var(--space-lg);
+}
+
+.faq-list {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-xs);
+}
+
+.faq-item {
+    border: 1px solid var(--border);
+    background-color: var(--white);
+    overflow: hidden;
+}
+
+.faq-item[open] {
+    border-color: var(--accent);
+}
+
+.faq-item summary {
+    font-family: var(--font-heading);
+    font-size: 1.1rem;
+    font-weight: 500;
+    color: var(--text);
+    padding: var(--space-sm) var(--space-md);
+    cursor: pointer;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    transition: background-color 0.2s, color 0.2s;
+}
+
+.faq-item summary::-webkit-details-marker {
+    display: none;
+}
+
+.faq-item summary::after {
+    content: '+';
+    font-family: var(--font-ui);
+    font-size: 1.4rem;
+    font-weight: 300;
+    color: var(--text-light);
+    transition: transform 0.2s;
+    flex-shrink: 0;
+    margin-left: var(--space-sm);
+}
+
+.faq-item[open] summary::after {
+    content: '\2212';
+    color: var(--accent);
+}
+
+.faq-item summary:hover {
+    background-color: var(--background-alt);
+    color: var(--accent);
+}
+
+.faq-item[open] summary {
+    background-color: var(--background-alt);
+    color: var(--accent);
+    border-bottom: 1px solid var(--border);
+}
+
+.faq-answer {
+    padding: var(--space-sm) var(--space-md);
+}
+
+.faq-answer p {
+    font-size: 0.95rem;
+    color: var(--text-light);
+    line-height: 1.7;
+}
+
+/* --- CTA Section --- */
+.cta-section {
+    padding: var(--space-lg) var(--space-md);
+    text-align: center;
+    background-color: var(--background);
+}
+
+.cta-link {
+    font-family: var(--font-ui);
+    font-size: 0.85rem;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    color: var(--accent);
+    padding: 0.8rem 2.5rem;
+    border: 1px solid var(--accent);
+    transition: all 0.2s;
+    display: inline-block;
+}
+
+.cta-link:hover {
+    background-color: var(--accent);
+    color: var(--white);
+}
+
 /* --- List page --- */
 .list-header {
     background-color: var(--primary);
@@ -1028,6 +1235,18 @@ img {
         max-width: 100%;
         text-align: left;
     }
+
+    .why-title {
+        font-size: 1.8rem;
+    }
+
+    .approach-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .faq-title {
+        font-size: 1.6rem;
+    }
 }
 
 @media (max-width: 480px) {
@@ -1041,5 +1260,17 @@ img {
 
     .section-title {
         font-size: 1.4rem;
+    }
+
+    .why-title {
+        font-size: 1.5rem;
+    }
+
+    .faq-title {
+        font-size: 1.3rem;
+    }
+
+    .faq-item summary {
+        font-size: 1rem;
     }
 }
