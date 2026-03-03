@@ -8,7 +8,6 @@ enableRobotsTXT = false
 [taxonomies]
   category = 'categories'
 
-disableKinds = ['taxonomy', 'term']
 
 [languages]
   [languages.fr]
