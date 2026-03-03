@@ -95,13 +95,20 @@ img {
 }
 
 .site-logo {
-    display: flex;
-    align-items: center;
+    font-family: var(--font-heading);
+    font-size: 1.2rem;
+    font-weight: 300;
+    color: var(--white);
+    letter-spacing: 0.25em;
+    text-transform: uppercase;
 }
 
-.site-logo img {
-    height: 40px;
-    width: auto;
+.site-logo strong {
+    font-weight: 600;
+}
+
+.site-logo:hover {
+    color: var(--accent);
 }
 
 .site-nav {
@@ -129,26 +136,21 @@ img {
 
 /* Language switcher */
 .lang-switch {
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
     font-family: var(--font-ui);
-    font-size: 0.85rem;
+    font-size: 0.8rem;
+    color: rgba(255, 255, 255, 0.5);
     margin-left: var(--space-sm);
     padding-left: var(--space-sm);
     border-left: 1px solid rgba(255, 255, 255, 0.2);
 }
 
-.lang-active {
-    color: var(--white);
-    font-weight: 500;
+.lang-switch a {
+    color: rgba(255, 255, 255, 0.5);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
 }
 
-.lang-link {
-    color: rgba(255, 255, 255, 0.4);
-}
-
-.lang-link:hover {
+.lang-switch a:hover, .lang-switch a.active {
     color: var(--white);
 }
 
@@ -847,7 +849,6 @@ img {
         padding-left: 0;
         padding-top: var(--space-sm);
         border-top: 1px solid rgba(255, 255, 255, 0.1);
-        justify-content: center;
     }
 
     .hero h1 {
