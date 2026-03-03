@@ -16,18 +16,14 @@
             {{ end }}
 
             <span class="lang-switch">
-                {{ if .Translations }}
-                    {{ range .Translations }}
-                    <a href="{{ .RelPermalink }}" title="{{ .Language.LanguageName }}">
-                        {{- if eq .Language.Lang "en" }}EN{{ else }}FR{{ end -}}
-                    </a>
-                    {{ end }}
+                {{ if eq $.Site.Language.Lang "fr" }}
+                    {{ $url := "en/" | relURL }}
+                    {{ range .Translations }}{{ if eq .Language.Lang "en" }}{{ $url = .RelPermalink }}{{ end }}{{ end }}
+                    <a href="{{ $url }}" title="English">EN</a>
                 {{ else }}
-                    {{ if eq $.Site.Language.Lang "fr" }}
-                    <a href="{{ "en/" | relURL }}" title="English">EN</a>
-                    {{ else }}
-                    <a href="{{ "/" | relURL }}" title="Français">FR</a>
-                    {{ end }}
+                    {{ $url := "/" | relURL }}
+                    {{ range .Translations }}{{ if eq .Language.Lang "fr" }}{{ $url = .RelPermalink }}{{ end }}{{ end }}
+                    <a href="{{ $url }}" title="Français">FR</a>
                 {{ end }}
             </span>
         </nav>
