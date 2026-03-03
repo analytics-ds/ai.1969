@@ -795,6 +795,15 @@ img {
     color: var(--primary);
 }
 
+/* Article images */
+.article-content img {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin: var(--space-lg) 0;
+    border: 1px solid var(--border);
+}
+
 /* FAQ Accordion */
 .article-content details {
     border: 1px solid var(--border);
