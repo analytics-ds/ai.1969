@@ -1,7 +1,7 @@
 <header class="site-header">
     <div class="header-container">
         <a href="{{ "/" | relLangURL }}" class="site-logo">
-            <strong>1969</strong> — {{ if eq .Site.Language.Lang "en" }}The Art of Desire{{ else }}L'Art du Désir{{ end }}
+            <img src="{{ "logo.svg" | relURL }}" alt="1969 — The Art of loving" height="40">
         </a>
 
         <button class="menu-toggle" aria-label="Menu" aria-expanded="false">
@@ -15,13 +15,15 @@
             </a>
             {{ end }}
 
-            <span class="lang-switch">
+            <div class="lang-switch">
                 {{ if eq $.Site.Language.Lang "fr" }}
-                    <a href="{{ replace $.RelPermalink "/" "/en/" 1 }}" title="English">EN</a>
+                    <span class="lang-active" title="Fran&ccedil;ais">&#127467;&#127479; FR</span>
+                    <a href="{{ replace $.RelPermalink "/" "/en/" 1 }}" class="lang-link" title="English">&#127468;&#127463; EN</a>
                 {{ else }}
-                    <a href="{{ replace $.RelPermalink "/en/" "/" 1 }}" title="Français">FR</a>
+                    <a href="{{ replace $.RelPermalink "/en/" "/" 1 }}" class="lang-link" title="Fran&ccedil;ais">&#127467;&#127479; FR</a>
+                    <span class="lang-active" title="English">&#127468;&#127463; EN</span>
                 {{ end }}
-            </span>
+            </div>
         </nav>
     </div>
 </header>
