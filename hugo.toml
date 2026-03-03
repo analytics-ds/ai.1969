@@ -1,0 +1,101 @@
+baseURL = 'https://ai.1969.fr/'
+title = "1969 — L'Art du Désir"
+theme = 'art-du-desir'
+
+defaultContentLanguage = 'fr'
+defaultContentLanguageInSubdir = false
+
+enableRobotsTXT = false
+
+[taxonomies]
+  category = 'categories'
+
+[sitemap]
+  changefreq = 'weekly'
+  filename = 'sitemap.xml'
+  priority = 0.5
+
+[outputs]
+  home = ['html', 'rss']
+  section = ['html', 'rss']
+
+# ==============================
+# LANGUES
+# ==============================
+
+[languages]
+  [languages.fr]
+    languageCode = 'fr'
+    languageName = 'Français'
+    weight = 1
+
+    [languages.fr.params]
+      description = "Le guide BDSM et vie de couple par 1969. Explorez l'art du désir, la sexualité épanouie et les dynamiques de couple."
+
+    [[languages.fr.menus.main]]
+      name = 'Accueil'
+      url = '/'
+      weight = 1
+
+    [[languages.fr.menus.main]]
+      name = 'BDSM'
+      url = '/categories/bdsm/'
+      weight = 2
+
+    [[languages.fr.menus.main]]
+      name = 'Vie de couple'
+      url = '/categories/vie-de-couple/'
+      weight = 3
+
+    [[languages.fr.menus.main]]
+      name = 'Sexualité'
+      url = '/categories/sexualite/'
+      weight = 4
+
+    [[languages.fr.menus.main]]
+      name = 'Le Blog'
+      url = '/blog/'
+      weight = 5
+
+  [languages.en]
+    languageCode = 'en'
+    languageName = 'English'
+    weight = 2
+
+    [languages.en.params]
+      description = 'The BDSM and couples guide by 1969. Explore the art of desire, fulfilling sexuality and relationship dynamics.'
+
+    [[languages.en.menus.main]]
+      name = 'Home'
+      url = '/en/'
+      weight = 1
+
+    [[languages.en.menus.main]]
+      name = 'BDSM'
+      url = '/en/categories/bdsm/'
+      weight = 2
+
+    [[languages.en.menus.main]]
+      name = 'Relationships'
+      url = '/en/categories/relationships/'
+      weight = 3
+
+    [[languages.en.menus.main]]
+      name = 'Sexuality'
+      url = '/en/categories/sexuality/'
+      weight = 4
+
+    [[languages.en.menus.main]]
+      name = 'Blog'
+      url = '/en/blog/'
+      weight = 5
+
+# ==============================
+# PARAMS GLOBAUX
+# ==============================
+
+[params]
+  author_name = 'Camille Lefèvre'
+  author_url = 'https://ai.1969.fr/a-propos/'
+  author_job_title = 'Journaliste spécialisée en sexualité et vie de couple'
+  theme_name = 'art-du-desir'

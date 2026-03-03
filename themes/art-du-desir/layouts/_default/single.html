@@ -1,0 +1,57 @@
+{{ define "main" }}
+
+<article class="single-article">
+    <header class="article-header">
+        <div class="container">
+            <div class="article-meta">
+                {{ with .Params.categories }}
+                <a href="{{ "/categories/" | relLangURL }}{{ index . 0 | urlize }}/" class="article-category">{{ index . 0 }}</a>
+                {{ end }}
+                <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time>
+                <span class="reading-time">{{ .ReadingTime }} min {{ if eq .Site.Language.Lang "en" }}read{{ else }}de lecture{{ end }}</span>
+            </div>
+            <h1>{{ .Title }}</h1>
+            {{ with .Description }}
+            <p class="article-description">{{ . }}</p>
+            {{ end }}
+            {{ with .Params.author }}
+            <div class="article-author">
+                <span class="author-label">{{ if eq $.Site.Language.Lang "en" }}By{{ else }}Par{{ end }}</span>
+                <span class="author-name">{{ . }}</span>
+            </div>
+            {{ end }}
+            <div class="article-tags">
+                {{ range .Params.tags }}
+                <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}/" class="tag">#{{ . }}</a>
+                {{ end }}
+            </div>
+        </div>
+    </header>
+
+    <div class="article-content">
+        <div class="container container-narrow">
+            {{ .Content }}
+        </div>
+    </div>
+
+    <footer class="article-footer">
+        <div class="container container-narrow">
+            <nav class="article-nav">
+                {{ with .PrevInSection }}
+                <a href="{{ .RelPermalink }}" class="nav-prev">
+                    <span class="nav-label">{{ if eq $.Site.Language.Lang "en" }}Previous article{{ else }}Article précédent{{ end }}</span>
+                    <span class="nav-title">{{ .Title }}</span>
+                </a>
+                {{ end }}
+                {{ with .NextInSection }}
+                <a href="{{ .RelPermalink }}" class="nav-next">
+                    <span class="nav-label">{{ if eq $.Site.Language.Lang "en" }}Next article{{ else }}Article suivant{{ end }}</span>
+                    <span class="nav-title">{{ .Title }}</span>
+                </a>
+                {{ end }}
+            </nav>
+        </div>
+    </footer>
+</article>
+
+{{ end }}

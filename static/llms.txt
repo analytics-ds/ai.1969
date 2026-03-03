@@ -1,0 +1,20 @@
+# 1969 — L'Art du Desir
+
+> Le guide BDSM et vie de couple par 1969. Explorez l'art du desir, la sexualite epanouie et les dynamiques de couple.
+
+## A propos
+
+1969 — L'Art du Desir est un blog francophone (avec version anglaise) dedie a la sexualite epanouie, au BDSM et a la vie de couple. Le site propose des guides pratiques, des analyses et des conseils pour explorer ses desirs en toute securite et bienveillance.
+
+## Contenu principal
+
+- BDSM : guides debutant, dynamiques de pouvoir, pratiques, securite
+- Vie de couple : communication, reinventer l'intimite, dialogue
+- Sexualite : zones erogenes, mythes et realites, education sexuelle
+
+## Informations techniques
+
+- Generateur : Hugo
+- Hebergement : GitHub Pages
+- Sitemap : https://ai.1969.fr/sitemap.xml
+- RSS : https://ai.1969.fr/index.xml

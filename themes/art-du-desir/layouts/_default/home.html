@@ -1,0 +1,50 @@
+{{ define "main" }}
+
+<!-- Hero Section -->
+<section class="hero">
+    <div class="hero-content">
+        <span class="hero-badge">{{ if eq .Site.Language.Lang "en" }}Explore your desires{{ else }}Explorez vos désirs{{ end }}</span>
+        <h1>{{ if eq .Site.Language.Lang "en" }}The Art of <span>Desire</span>{{ else }}L'Art du <span>Désir</span>{{ end }}</h1>
+        <p class="hero-description">{{ if eq .Site.Language.Lang "en" }}The BDSM and couples guide by 1969. Explore fulfilling sexuality, relationship dynamics and the art of desire.{{ else }}Le guide BDSM et vie de couple par 1969. Explorez la sexualité épanouie, les dynamiques de couple et l'art du désir.{{ end }}</p>
+        <a href="{{ "blog/" | relLangURL }}" class="btn-primary">{{ if eq .Site.Language.Lang "en" }}Explore the blog{{ else }}Explorer le blog{{ end }}</a>
+    </div>
+</section>
+
+<!-- Categories Section -->
+<section class="categories-section">
+    <div class="container">
+        <h2 class="section-title">{{ if eq .Site.Language.Lang "en" }}Categories{{ else }}Nos catégories{{ end }}</h2>
+        <div class="grid-categories">
+            {{ range .Site.Taxonomies.categories }}
+            <a href="{{ .Page.RelPermalink }}" class="category-card">
+                <h3>{{ .Page.Title }}</h3>
+                <span class="category-count">{{ .Count }} {{ if eq $.Site.Language.Lang "en" }}{{ if gt .Count 1 }}articles{{ else }}article{{ end }}{{ else }}{{ if gt .Count 1 }}articles{{ else }}article{{ end }}{{ end }}</span>
+            </a>
+            {{ end }}
+        </div>
+    </div>
+</section>
+
+<!-- Latest Articles Section -->
+<section class="latest-section">
+    <div class="container">
+        <h2 class="section-title">{{ if eq .Site.Language.Lang "en" }}Latest articles{{ else }}Derniers articles{{ end }}</h2>
+        <div class="grid-articles">
+            {{ range first 6 (where .Site.RegularPages "Section" "blog") }}
+            <article class="article-card">
+                <div class="article-meta">
+                    {{ with .Params.categories }}
+                    <span class="article-category">{{ index . 0 }}</span>
+                    {{ end }}
+                    <time>{{ .Date.Format "2 January 2006" }}</time>
+                </div>
+                <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+                <p>{{ .Description }}</p>
+                <a href="{{ .RelPermalink }}" class="read-more">{{ if eq $.Site.Language.Lang "en" }}Read more{{ else }}Lire la suite{{ end }}</a>
+            </article>
+            {{ end }}
+        </div>
+    </div>
+</section>
+
+{{ end }}
