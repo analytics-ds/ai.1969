@@ -77,7 +77,7 @@ Installé en Occitanie depuis 2014, l'atelier **Caresse de Cuir** est spécialis
 
 Savoir **où acheter une cravache BDSM** est souvent la première question que se posent les personnes souhaitant explorer les jeux d'impact. Détournée de l'univers équestre, la **cravache BDSM** est devenue un accessoire incontournable dans les pratiques de domination et de soumission. Sa forme allongée, terminée par une languette en cuir ou en silicone, permet de délivrer des sensations précises allant de la simple caresse à la frappe sèche.
 
-Contrairement au martinet ou au fouet, la cravache offre un contrôle exceptionnel sur l'intensité et la localisation de chaque coup. C'est cette précision qui en fait un instrument privilégié aussi bien par les débutants que par les pratiquants confirmés. La cravache est également un puissant symbole de domination : sa simple présence dans une scène suffit souvent à instaurer une dynamique de pouvoir entre les partenaires.
+Contrairement au martinet ou au fouet, la cravache offre un contrôle exceptionnel sur l'intensité et la localisation de chaque coup. C'est cette précision qui en fait un instrument privilégié aussi bien par les débutants que par les pratiquants confirmés. La cravache est également un puissant symbole de domination : sa simple présence dans une scène suffit souvent à instaurer une dynamique de pouvoir entre les partenaires. Associée à un [harnais BDSM]({{< relref "/blog/meilleure-marque-harnais-bdsm" >}}), elle forme le duo d'accessoires le plus emblématique des jeux de pouvoir.
 
 ### Un accessoire adapté à tous les niveaux
 

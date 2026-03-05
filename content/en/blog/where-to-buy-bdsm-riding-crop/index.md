@@ -77,7 +77,7 @@ Based in Occitanie since 2014, the **Caresse de Cuir** workshop specialises in h
 
 Knowing **where to buy a BDSM riding crop** is often the first question that comes up when exploring impact play. Originally designed for equestrian use, the **BDSM riding crop** has become an essential accessory in domination and submission practices. Its elongated shape, ending in a leather or silicone tongue, delivers precise sensations ranging from a gentle caress to a sharp strike.
 
-Unlike a flogger or a whip, the crop whip offers exceptional control over intensity and location of each strike. This precision makes it a favourite instrument for beginners and experienced practitioners alike. The riding crop is also a powerful symbol of domination: its mere presence in a scene is often enough to establish a power dynamic between partners.
+Unlike a flogger or a whip, the crop whip offers exceptional control over intensity and location of each strike. This precision makes it a favourite instrument for beginners and experienced practitioners alike. The riding crop is also a powerful symbol of domination: its mere presence in a scene is often enough to establish a power dynamic between partners. Paired with a [BDSM harness]({{< relref "/blog/best-bdsm-harness-brand" >}}), it forms the most iconic duo of power play accessories.
 
 ### An accessory suitable for all levels
 
