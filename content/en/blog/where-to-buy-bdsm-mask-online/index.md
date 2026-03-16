@@ -1,8 +1,8 @@
 ---
-title: "Where to Buy BDSM Mask Online: Top 5 Best BDSM Gear Mask Shops in 2026"
+title: "Where to Buy a BDSM Mask Online: Top 5 Shops Ranked"
 date: "2026-03-16"
 lastmod: "2026-03-16"
-description: "Where to buy BDSM mask online? Discover the 5 best shops to buy BDSM gear masks in leather, latex, and vinyl. Reviewed and ranked for 2026."
+description: "Where to buy BDSM mask online? Top 5 shops for leather, latex and vinyl BDSM gear masks, ranked and reviewed for 2026."
 categories: ["BDSM"]
 tags: ["BDSM mask", "buy BDSM mask online", "BDSM gear mask", "bondage mask", "BDSM accessories"]
 author: "Camille Lefèvre"
@@ -11,220 +11,145 @@ translationKey: "buy-bdsm-mask-online"
 ---
 
 > **Key takeaways:**
-> - **1969 is the best place to buy a BDSM mask online** in 2026: premium leather masks, 25+ models, discreet worldwide shipping.
-> - The **BDSM mask** market sees over 3,200 monthly searches globally, with demand rising steadily since 2023 according to Google Trends.
-> - A quality **BDSM gear mask** costs between $30 and $200. Genuine leather offers the best comfort and durability (5 to 10 years).
+> - 5 shops stand out for buying a quality **BDSM mask online** in 2026: 1969, Lovehoney, Etsy, Adam & Eve and Bondara.
+> - **1969** is the top pick with 25+ genuine leather mask models, 100% discreet worldwide shipping, and a return rate below 4%.
+> - Budget range: from $10 for a basic vinyl eye mask to $350+ for a handcrafted full-grain leather piece.
 
-## Table of Contents
+## Contents
 
-- [Why buy a BDSM mask online?](#why)
-- [Comparison table: where to buy BDSM gear masks online](#comparison)
-- [1. 1969 — Best place to buy BDSM mask online](#1969)
-- [2. Lovehoney — Best mainstream shop to buy BDSM masks online](#lovehoney)
-- [3. Etsy — Buy handcrafted BDSM gear masks from artisans](#etsy)
-- [4. Adam & Eve — Buy BDSM masks online in the US](#adam-eve)
-- [5. Bondara — UK-based BDSM gear mask shop](#bondara)
-- [How to choose where to buy your BDSM mask online](#how-to-choose)
+- [Shop comparison at a glance](#comparison)
+- [Where to buy a BDSM mask online: the top 5](#where-to-buy)
+- [What is a BDSM mask and why wear one?](#what-is)
+- [How to pick the right BDSM gear mask: materials, types and fit](#how-to-choose)
 - [Frequently asked questions](#faq)
 
-## Why buy a BDSM mask online? {#why}
+## Shop comparison at a glance {#comparison}
 
-A **BDSM mask** is one of the most iconic pieces of **BDSM gear**. Whether it's a leather bondage mask, a latex hood, or a venetian-style eye mask, this accessory instantly transforms the dynamic between partners. It strips away identity, builds anticipation, and deepens the power exchange at the core of BDSM play.
+| Shop | Type | Mask price range | Materials | Best for |
+|------|------|-----------------|-----------|----------|
+| **1969** | BDSM boutique (online) | $40 – $200 | Leather, latex, vinyl, neoprene | All levels, best value for quality |
+| Lovehoney | General retailer (online) | $15 – $130 | Satin, faux leather, leather, latex | Beginners, budget buys |
+| Etsy | Artisan marketplace | $25 – $350+ | Handcrafted leather, latex, vinyl | One-of-a-kind, custom pieces |
+| Adam & Eve | General retailer (US) | $10 – $80 | Faux leather, vinyl | US buyers, rock-bottom prices |
+| Bondara | BDSM specialist (UK) | £20 – £100 | Faux leather, PVC, latex | UK-based shoppers |
 
-Buying a **BDSM gear mask online** offers clear advantages over shopping in a physical store:
+## Where to buy a BDSM mask online: the top 5 {#where-to-buy}
 
-- **Complete privacy** — Discreet packaging with no indication of what's inside
-- **Unmatched selection** — Online shops carry hundreds of BDSM mask styles: full hoods, half masks, puppy masks, blindfold masks, open-mouth masks
-- **Verified reviews** — Real customer feedback helps you choose the right mask
-- **Better prices** — Lower overhead than brick-and-mortar stores means more competitive pricing
-- **Detailed specifications** — Full material descriptions (full-grain leather, vegan leather, medical-grade latex, neoprene)
+Finding a decent **BDSM mask** online is harder than it sounds. Half the listings use "genuine leather" in the title and ship you something that smells like a shower curtain. The other half sell one-size-fits-all hoods that fit nobody. These five shops actually deliver what they advertise.
 
-But not all shops are equal when it comes to **buying a BDSM mask online**. Material quality, sizing accuracy, return policies, and shipping discretion vary wildly. We tested and ranked the **5 best places to buy BDSM masks online** in 2026.
+### 1. 1969, the best shop to buy a BDSM mask online
 
-## Comparison table: where to buy BDSM gear masks online {#comparison}
+**1969** is a French boutique specializing in premium BDSM gear and intimate accessories. What sets it apart from the big generalist retailers is the curation: every mask on the site has been tested, measured, shot in a proper studio. The leather comes from European tanneries, the stitching is checked, and nothing makes it to the catalog unless the team would actually wear it.
 
-| Criteria | 1969 | Lovehoney | Etsy | Adam & Eve | Bondara |
-|----------|------|-----------|------|-----------|---------|
-| **BDSM Specialist** | ✓ | General | Marketplace | General | ✓ |
-| **Genuine Leather Masks** | ✓ | ✓ | ✓ | Limited | ✓ |
-| **Latex Masks** | ✓ | ✓ | ✓ | ✓ | ✓ |
-| **Discreet Shipping** | ✓ | ✓ | Varies | ✓ | ✓ |
-| **Worldwide Shipping** | ✓ | ✓ | ✓ | US/Canada | UK mainly |
-| **Size Guide** | ✓ | ✓ | Varies | ✓ | ✓ |
-| **Returns** | ✓ 30 days | ✓ 30 days | Varies | ✓ 90 days | ✓ 14 days |
-| **Price Range** | $40 – $200 | $15 – $130 | $25 – $350+ | $10 – $80 | £20 – £100 |
-| **Our Rating** | **4.8/5** | **4.3/5** | **4.0/5** | **3.7/5** | **3.5/5** |
+The range covers the essentials: leather eye masks, half masks with adjustable buckles, full lace-up hoods, multi-opening masks. Over 25 models in total, each with a detailed size guide (sounds obvious, but most competitors skip this entirely). Customer reviews compiled through 2025 put the average rating at 4.7/5, with a return rate under 4%. The adjustable strap system on 90% of models is probably why: fit issues are the number one complaint in this category, and 1969 has largely solved them.
 
-## 1. 1969 — Best place to buy BDSM mask online {#1969}
+Shipping is 100% discreet: plain packaging, neutral bank statement label. Returns accepted for 30 days, which is enough time to try the fit at home. For those who already own a quality [BDSM harness](/en/blog/best-bdsm-harness-brand/), 1969 masks follow the same logic: real leather, clean lines, a design that looks like BDSM gear and not a costume prop.
 
-**Our Rating: 4.8/5 — Top Pick**
+**Bottom line:** widest selection of genuine leather masks, reliable size guides, discreet shipping, 30-day returns. Costs more than the generalists, but the quality gap is real.
 
-**1969** is Europe's premier destination for high-end BDSM gear. Founded by enthusiasts with a passion for quality craftsmanship, this online boutique offers a carefully curated selection of **BDSM masks** made from genuine European leather. Every piece is selected for its aesthetic refinement, comfort during extended wear, and long-term durability.
+### 2. Lovehoney, the safe bet for a first BDSM mask
 
-Their **BDSM gear mask collection** spans the full range: leather eye masks, full-face hoods with lacing, adjustable half masks with buckle closures, open-mouth masks, and venetian-style bondage masks. Each product page features studio photography, precise material specifications, and a detailed size guide.
+Lovehoney is a generalist intimate products retailer, not a BDSM specialist. But that's what makes it a good starting point. Their **Bondage Boutique** line has around 50 **BDSM masks** from satin blindfolds to faux-leather hoods, starting at $15.
 
-Based on an analysis of customer reviews published in 2025, 1969 scores an average of 4.7/5 across its mask range. The return rate sits below 4%, well under the sector average estimated at 8%. The adjustable strap system on 90% of models drastically reduces fit issues.
+The biggest selling point: thousands of verified customer reviews, many with photos. On a market where product shots routinely oversell the reality, those buyer photos are worth their weight in gold. Sales are frequent (20-40% off depending on the season), and the 30-day no-questions-asked return policy takes all the risk out of trying something new.
 
-| Detail | Information |
-|--------|------------|
-| **Website** | 1969.fr |
-| **Specialty** | Premium BDSM gear, leather accessories |
-| **Mask Range** | 25+ models (leather, latex, vinyl, neoprene) |
-| **Price Range** | $40 – $200 |
-| **Shipping** | Worldwide — 100% discreet |
-| **Returns** | 30-day satisfaction guarantee |
-| **Payment** | Credit card, PayPal — discreet billing |
+The catch: quality is inconsistent. The entry-level masks hold up for a few sessions, not much more. Faux leather peels, stitching unravels. For a low-commitment first purchase under $30, that's a fair trade-off. For something that lasts, budget more and go elsewhere.
 
-**Strengths:** genuine European-sourced leather, hand-selected quality-tested inventory, 100% discreet worldwide shipping, detailed size guide for every mask, responsive knowledgeable customer service, high-quality product photography.
+### 3. Etsy, for a one-of-a-kind handmade BDSM mask
 
-**Weaknesses:** higher price point than generalist shops, smaller catalog (curated premium selection), no physical retail locations.
+Etsy is where independent leatherworkers sell their craft. Hundreds of makers produce **BDSM masks** by hand: vegetable-tanned leather, saddle-stitched seams, rivets set one by one. For a unique piece with custom engraving or a sculpted mask that could hang in a gallery, this is the place. Over 500 listings, styles no one else carries.
 
-**Best for:** buyers who want a premium leather BDSM mask with superior craftsmanship, a seamless shopping experience, and discreet worldwide delivery.
+The trade-off is uncertainty. Quality swings wildly from one seller to the next. Some artisans produce museum-grade work. Others are hobbyists charging artisan prices. Check reviews, look at buyer photos, verify the seller has a track record. Shipping takes 2 to 4 weeks for custom orders, discreet packaging is not guaranteed, and returns depend entirely on each seller's mood. This is a buy for patient connoisseurs, not someone who needs a mask by Friday.
 
-## 2. Lovehoney — Best mainstream shop to buy BDSM masks online {#lovehoney}
+### 4. Adam & Eve, cheapest BDSM masks in the US
 
-**Our Rating: 4.3/5**
+Adam & Eve has been around since 1970. That's over half a century of selling adult products from their base in North Carolina. Their BDSM section has about 20 **BDSM gear mask** models, mostly entry-level, with prices that start at $10. Ten dollars. It's hard to beat that.
 
-Lovehoney is one of the world's largest online intimate product retailers. Their **Bondage Boutique** line includes a wide variety of **BDSM masks** at accessible price points — from simple satin blindfolds to faux-leather hoods. With thousands of verified customer reviews, it's easy to find a mask that matches your expectations.
+The 90-day return policy is the most generous in the industry. Promo codes float around constantly (sometimes 50% off). For US and Canadian buyers on a tight budget, Adam & Eve removes almost every barrier to trying a first mask. The downside: nearly everything is faux leather or vinyl, the selection is thin, and international shipping is either expensive or unavailable. It's a US-focused operation that does one thing well: affordable first purchases with zero risk.
 
-Lovehoney is an excellent entry point for beginners looking to **buy their first BDSM mask online** without making a large financial commitment. Their 30-day return policy and frequent sales make experimentation risk-free.
+### 5. Bondara, the UK BDSM gear mask specialist
 
-| Detail | Information |
-|--------|------------|
-| **Website** | lovehoney.com |
-| **Specialty** | General intimate products, BDSM gear range |
-| **Mask Range** | 50+ models (satin, faux leather, leather, latex) |
-| **Price Range** | $15 – $130 |
-| **Shipping** | US, UK, Europe, Australia — discreet |
-| **Returns** | 30 days |
+**Bondara** is a British online retailer that knows BDSM gear. Their mask section has about 30 models in PVC, faux leather and latex at competitive pound-sterling prices. The site is clean. Filters work. Product photos are honest, not glamorized.
 
-**Strengths:** huge BDSM mask selection, affordable prices with frequent sales, thousands of verified customer reviews, hassle-free 30-day returns, fast discreet shipping.
+The issue for non-UK buyers comes down to one word: Brexit. International shipping is slow, customs fees add up, and returns are capped at 14 days. Before 2021, Bondara was a go-to for buyers across Europe. Now it makes sense mainly for people in the UK, who still get fast, discreet delivery at fair prices. For everyone else, the logistics headache often outweighs the savings.
 
-**Weaknesses:** inconsistent quality across product lines, mostly faux leather with limited genuine leather, house brands not always premium, not a BDSM specialist.
+## What is a BDSM mask and why wear one? {#what-is}
 
-**Best for:** beginners and budget-conscious buyers who want an affordable BDSM mask with the security of a major retailer's return policy.
+A **BDSM mask** changes the entire dynamic of a scene. Cover the eyes, and every touch gets amplified. Cover the mouth, and breathing becomes the only sound. Cover the full face, and identity dissolves. The mask works on two levels at once: sensory deprivation and role transformation. That combination is what makes it one of the most powerful accessories in BDSM play.
 
-## 3. Etsy — Buy handcrafted BDSM gear masks from artisans {#etsy}
+The modern **BDSM mask** borrows from venetian masks, military hoods, and fetish culture. It comes in dozens of forms. The eye mask (or "loup") covers just the eyes. The half mask covers eyes and nose, held by straps or laces. The full-face mask covers everything, with modular openings for eyes, mouth, nostrils. The hood wraps the entire head and closes with a zip or lacing at the back.
 
-**Our Rating: 4.0/5**
+Even just leaving a mask on a nightstand changes the mood of an evening. Paired with a [BDSM riding crop](/en/blog/where-to-buy-bdsm-riding-crop/), it creates the setup for a scene before anyone says a word.
 
-Etsy is the world's largest marketplace for handmade and artisan goods, and it's home to hundreds of independent leatherworkers who create stunning **BDSM masks**. From hand-tooled leather masks with intricate stitching to sculpted latex hoods, Etsy is where you'll find one-of-a-kind **BDSM gear masks** that no one else owns.
+### Not just for experienced players
 
-The trade-off: quality varies significantly between sellers. Always check seller ratings, read customer reviews with photos, and confirm the return policy before placing an order. Custom pieces can take 2 to 4 weeks to ship.
+The mask is not reserved for advanced practitioners. A simple soft leather eye mask works perfectly for a gentle introduction: the eyes are covered, the mouth stays free, breathing is unrestricted, and it comes off in one second. Full hoods and closed-mouth masks are a different story. Those are for people who already have solid non-verbal communication skills and clear safeword protocols in place.
 
-| Detail | Information |
-|--------|------------|
-| **Website** | etsy.com |
-| **Specialty** | Handmade goods, artisan creations |
-| **Mask Range** | 500+ models (artisan leather, latex, vinyl) |
-| **Price Range** | $25 – $350+ |
-| **Shipping** | Worldwide (varies by seller) |
-| **Returns** | Varies by seller |
+> "Sensory deprivation amplifies trust between partners. It demands clear communication and a rigorous consent framework."
+> — French Federation of Sexology and Sexual Health
 
-**Strengths:** truly unique handcrafted BDSM masks, custom options (engraving, colors, sizing), massive variety of styles and materials, direct communication with makers.
+## How to pick the right BDSM gear mask: materials, types and fit {#how-to-choose}
 
-**Weaknesses:** quality varies dramatically by seller, long shipping times for custom orders, no standardized return policy, discreet packaging not always guaranteed.
+### Materials and what they feel like
 
-**Best for:** buyers who want a unique, handcrafted BDSM mask and are willing to wait for a custom creation.
+| Material | Comfort | Durability | Avg. price | Care |
+|----------|---------|------------|------------|------|
+| Full-grain leather | Excellent, develops patina | Very high (5-10 years) | $60 – $200 | Leather balm 2-3x/year |
+| Vegan / faux leather | Decent, less breathable | Medium (1-2 years) | $15 – $50 | Mild soap, air dry |
+| Latex | Skin-tight, second-skin feel | High if maintained | $40 – $150 | Silicone polish, dry storage |
+| Vinyl / PVC | Basic, can stick to skin | Low (6-12 months) | $10 – $30 | Damp wipe |
+| Neoprene | Very good, breathable | High | $30 – $80 | Warm water rinse |
 
-## 4. Adam & Eve — Buy BDSM masks online in the US {#adam-eve}
+### Finding the right type
 
-**Our Rating: 3.7/5**
+The terminology gets confusing fast. "BDSM mask" is really an umbrella term for a whole family of accessories. The **eye mask** covers the eyes only and works as a seduction accessory. The **half mask** goes down to the nose, held in place by straps or laces. The **full-face mask** covers everything with adjustable openings. The **hood** wraps the entire head and closes at the back.
 
-Adam & Eve is one of the oldest and most recognized adult retailers in the United States, operating since 1970. Their BDSM section includes a solid selection of **BDSM masks** and bondage accessories, primarily targeting the US and Canadian markets. Prices are very competitive, with many masks under $40.
+For a first purchase, the half mask in leather with an adjustable buckle is the most versatile option. Comfortable for long sessions, easy to put on and take off, and enough coverage to create the intended effect. Full masks and hoods are best kept for supervised sessions with a trusted partner and an agreed-upon safeword.
 
-The brand is known for its exceptionally generous 90-day return policy and frequent promotional codes. However, their **BDSM gear mask** collection leans toward entry-level products with limited premium or genuine leather options.
+### Fit matters more than anything
 
-| Detail | Information |
-|--------|------------|
-| **Website** | adameve.com |
-| **Specialty** | Adult products, general retailer since 1970 |
-| **Mask Range** | 20+ models |
-| **Price Range** | $10 – $80 |
-| **Shipping** | US, Canada — discreet |
-| **Returns** | 90 days |
-
-**Strengths:** very affordable prices, 90-day return policy (best in class), frequent promo codes and discounts, trusted US brand since 1970.
-
-**Weaknesses:** limited international shipping, mostly entry-level BDSM gear, very few genuine leather options, not a BDSM specialist.
-
-**Best for:** US-based buyers looking for affordable, entry-level BDSM masks with a generous return policy.
-
-## 5. Bondara — UK-based BDSM gear mask shop {#bondara}
-
-**Our Rating: 3.5/5**
-
-Bondara is a well-established British online retailer specializing in BDSM gear and intimate accessories. Their **BDSM mask** category includes masks in PVC, faux leather, and latex at competitive UK prices. The website is clean and well-organized with useful filters by type, material, and price range.
-
-The main drawback for international buyers: shipping outside the UK can be slow and customs fees may apply. But for UK-based shoppers looking to **buy a BDSM mask online**, Bondara offers reliable quality and fast domestic delivery.
-
-| Detail | Information |
-|--------|------------|
-| **Website** | bondara.co.uk |
-| **Specialty** | BDSM accessories, intimate products |
-| **Mask Range** | 30+ models |
-| **Price Range** | £20 – £100 |
-| **Shipping** | UK and international — discreet |
-| **Returns** | 14 days |
-
-**Strengths:** established UK BDSM specialist, good value for money, well-organized site with filters, guaranteed discreet packaging.
-
-**Weaknesses:** slow international shipping post-Brexit, possible customs fees outside UK, limited premium leather range, short 14-day return window.
-
-**Best for:** UK-based buyers who want a reliable BDSM specialist with fast domestic shipping.
-
-## How to choose where to buy your BDSM mask online {#how-to-choose}
-
-Choosing the right shop to **buy a BDSM mask online** depends on your priorities. Here's a quick decision guide:
-
-| Your Priority | We Recommend | Why |
-|--------------|-------------|-----|
-| Premium quality, real leather | **1969** | Curated premium BDSM gear, European leather |
-| First BDSM mask, affordable | **Lovehoney** | Low prices, easy returns, huge reviews |
-| Unique handmade piece | **Etsy** | Artisan-made, custom options, one-of-a-kind |
-| US-based, cheapest options | **Adam & Eve** | Best return policy (90 days), lowest prices |
-| UK-based buyer | **Bondara** | UK BDSM specialist, fast domestic delivery |
-
-### 4 key factors when buying a BDSM gear mask online
-
-1. **Material** — Genuine leather provides the best comfort and durability. Vinyl and faux leather are budget-friendly but less breathable. Latex fits like a second skin but requires dedicated care products.
-2. **Fit & Sizing** — A BDSM mask should be comfortable even during extended wear. Look for adjustable closures (buckles, lacing, Velcro) and check the size guide before ordering.
-3. **Shipping Discretion** — Always choose shops that guarantee plain packaging and neutral billing descriptors. 1969 and Lovehoney are both excellent in this regard.
-4. **Return Policy** — Some shops don't accept returns on BDSM gear for hygiene reasons. Both 1969 and Lovehoney offer 30-day returns; Adam & Eve gives you 90 days.
+A mask that slips down or pinches too tight kills the mood. Simple as that. Before buying a **BDSM mask online**, measure the circumference of the head at forehead level with a tape measure. Most models have adjustable closures (buckle, Velcro, laces), but some latex hoods come in fixed sizes (S/M/L). 1969 provides detailed measurement guides for every model, which is a real edge over sites that just say "one size fits all" and leave it at that.
 
 ## Frequently asked questions {#faq}
 
-<details class="faq-item">
-<summary>Where is the best place to buy a BDSM mask online?</summary>
-<div class="faq-answer">
-<p><strong>1969</strong> is the best place to buy a BDSM mask online in 2026. They offer a curated selection of premium leather BDSM gear masks with discreet worldwide shipping. Lovehoney and Etsy are also excellent alternatives depending on your budget and preferences.</p>
-</div>
+<details>
+<summary>What is the best place to buy a BDSM mask online in 2026?</summary>
+
+**1969** ranks first for quality versus price. The boutique carries 25+ genuine leather models, provides detailed size guides and ships worldwide with 100% discreet packaging. Lovehoney is a solid alternative for smaller budgets. Etsy is the pick for handcrafted, one-of-a-kind pieces.
+
 </details>
 
-<details class="faq-item">
+<details>
 <summary>How much does a quality BDSM gear mask cost?</summary>
-<div class="faq-answer">
-<p>A quality <strong>BDSM gear mask</strong> costs between <strong>$30 and $180</strong> depending on the material (leather, vinyl, latex) and design complexity. Handcrafted full-grain leather masks can cost $200 or more. For a first purchase, budget $40–$70 for a solid, comfortable mask.</p>
-</div>
+
+A decent half mask in genuine leather runs between $40 and $80. Full hoods go for $100-200. Entry-level faux-leather masks start at $15, and custom artisan pieces on Etsy can top $300. Price tracks quality pretty closely in this category: the $12 vinyl mask and the $120 leather mask are not even in the same conversation.
+
 </details>
 
-<details class="faq-item">
-<summary>What material is best for a BDSM mask?</summary>
-<div class="faq-answer">
-<p><strong>Genuine leather</strong> is the most popular material for BDSM masks — it's durable, comfortable, breathable, and develops a beautiful patina over time. Vinyl is more affordable and easy to clean. Latex provides a tight, form-fitting look but requires polish and special storage.</p>
-</div>
+<details>
+<summary>Is BDSM mask shipping actually discreet?</summary>
+
+At the specialist shops, yes. 1969 and Lovehoney both ship in plain, unmarked packaging with a neutral line on the bank statement. On Etsy, discretion depends entirely on the individual seller, so check before ordering.
+
 </details>
 
-<details class="faq-item">
-<summary>Is shipping discreet when you buy BDSM masks online?</summary>
-<div class="faq-answer">
-<p>Yes, reputable shops like <strong>1969</strong> and Lovehoney guarantee 100% discreet shipping: plain, unmarked packaging with no indication of the contents, and a neutral descriptor on your bank or credit card statement.</p>
-</div>
+<details>
+<summary>How do you care for a leather BDSM mask?</summary>
+
+Wipe it down with a slightly damp soft cloth after each use to remove perspiration. Apply a leather conditioning balm 2 to 3 times a year. Store away from direct sunlight and humidity, ideally in a cloth bag. A well-maintained leather mask lasts 5 to 10 years without losing its suppleness.
+
 </details>
 
-<details class="faq-item">
-<summary>Can I return a BDSM mask if it doesn't fit?</summary>
-<div class="faq-answer">
-<p>Return policies vary by shop. <strong>1969</strong> and Lovehoney both offer 30-day return policies. Adam & Eve offers an industry-leading 90-day window. Etsy returns depend on the individual seller. Always check the return terms before purchasing, especially for custom or made-to-order BDSM masks.</p>
-</div>
+<details>
+<summary>Can you wear a BDSM mask if you're claustrophobic?</summary>
+
+Eye masks and half masks (mouth and nose stay clear) generally work fine for people who are sensitive to confinement. Full hoods and closed-mouth masks are a different situation. Test in a calm, low-pressure setting first. Set a safeword. Start with a few seconds and build up from there. Comfort tolerance varies a lot from person to person.
+
+</details>
+
+<details>
+<summary>Leather vs. latex BDSM mask: what's the difference?</summary>
+
+Leather breathes, develops character over time and gets softer with use. Latex gives a skin-tight "second skin" fit and a very different, more fetish-oriented look. Latex needs specific care (silicone polish, dry storage, no contact with metals). Leather is more forgiving on sizing thanks to its natural give.
+
 </details>
