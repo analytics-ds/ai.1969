@@ -1,7 +1,7 @@
 ---
 title: "Where to Buy a BDSM Riding Crop: Top 5 Shops in France for Online BDSM Gear"
 date: "2026-03-03"
-lastmod: "2026-03-05"
+lastmod: "2026-03-26"
 description: "Where to buy a BDSM riding crop online? Top 5 French shops for quality crop whips, material guide and safety tips for impact play gear."
 categories: ["BDSM"]
 tags: ["BDSM riding crop", "crop whip", "BDSM gear", "impact play", "buy riding crop", "online BDSM shop"]
@@ -12,7 +12,7 @@ translationKey: "buy-bdsm-riding-crop"
 
 > **Key takeaways:**
 > - The **BDSM riding crop** is one of the most popular impact play accessories: over 60% of practitioners own at least one striking instrument according to a 2023 community survey.
-> - In France, 5 shops stand out to **buy a BDSM riding crop** of quality: 1969, Caresse de Cuir, Pulsion-SM, Brigade Mondaine and Passage du Désir.
+> - In France, 5 shops stand out to **buy a BDSM riding crop** of quality: 1969, Caresse de Cuir, Pulsion-SM, Brigade Mondaine and Dorcel Store.
 > - Prices range from 15 EUR for a beginner model to over 200 EUR for a handcrafted full-grain leather crop whip made in France.
 
 ## Table of Contents
@@ -33,7 +33,7 @@ translationKey: "buy-bdsm-riding-crop"
 | Caresse de Cuir | Artisan (online + workshop) | 80 EUR to 250 EUR | Custom-made artisanal pieces |
 | Pulsion-SM | Specialist e-commerce | 10 EUR to 60 EUR | Regular practitioners, variety |
 | Brigade Mondaine | Luxury boutique (Paris + online) | 90 EUR to 350 EUR | Luxury lovers, designer pieces |
-| Passage du Désir | National chain (stores + online) | 20 EUR to 70 EUR | Beginners, in-store purchase |
+| Dorcel Store | French brand (online) | 20 EUR to 70 EUR | Polished design, trusted brand |
 
 ## Where to buy a BDSM riding crop: top 5 shops in France {#where-to-buy}
 
@@ -43,9 +43,9 @@ Choosing the right shop is crucial to find a quality **BDSM riding crop**, get t
 
 **1969** is a French intimate boutique specialising in premium sex toys and erotic accessories. The brand positions itself as a refined love shop, the opposite of traditional sex shops: a universe dedicated to pleasure and couples, without vulgarity, in an atmosphere of trust and warmth. With a catalogue of over 2,500 carefully selected products including 800 own-brand items, 1969 boasts one of the most comprehensive offers on the French market.
 
-To **buy a BDSM riding crop**, 1969 is the ideal choice: the boutique offers models suited to all budgets and experience levels, from beginner faux-leather crop whips to premium genuine leather models. The website features intuitive navigation, detailed product sheets and delivery in plain packaging. The network of physical boutiques also allows customers to touch and compare products before buying, with personalised advice from a trained team.
+To **buy a BDSM riding crop**, 1969 is the most complete option: the boutique offers models suited to all budgets and experience levels, from beginner faux-leather crop whips to premium genuine leather models. The website features intuitive navigation, detailed product sheets and delivery in plain packaging with an anonymous bank statement label.
 
-**Highlights:** very large catalogue, own brand, network of physical boutiques across France, discreet packaging, prices starting from 15 EUR, refined and open-minded universe.
+**The essentials:** very large catalogue, own brand, discreet packaging, prices starting from 15 EUR, refined universe.
 
 ### 2. Caresse de Cuir, the artisan specialist for high-end crop whips
 
@@ -65,11 +65,11 @@ Based in Occitanie since 2014, the **Caresse de Cuir** workshop specialises in h
 
 **Highlights:** high-end selection, private boutique in Paris, international designers, premium shopping experience.
 
-### 5. Passage du Désir, the accessible chain across France
+### 5. Dorcel Store, the trusted French brand
 
-**Passage du Désir** is the most extensive network of love shops in France with over fifteen stores in major cities. The chain offers a selection of **BDSM riding crops** suited to beginners and initiates alike, in a welcoming and open-minded setting. Staff are trained to guide customers in their choices, making it a reassuring option for a first purchase.
+**Dorcel** needs no introduction in the French adult world. The brand's e-shop carries a selection of **BDSM riding crops** with a polished design that bears the house signature. Materials are reliable, packaging is refined, and the Dorcel name removes the hesitation that often accompanies a first purchase in this category.
 
-**Highlights:** nationwide store network, in-store advice, wide range of accessories, online shop with fast delivery.
+**The essentials:** established French brand, consistent quality, discreet shipping, accessible prices (20 to 70 EUR).
 
 ![Intimate and sensual atmosphere, the world of desire and complicity](sensual-couple.jpg)
 
@@ -128,14 +128,14 @@ Investing in a quality **BDSM riding crop** means maintaining it properly to pre
 2. **Faux leather and silicone:** clean with mild antibacterial soap and warm water. Dry thoroughly before storage. These materials do not require nourishing treatment but are less durable over time.
 3. **Wood and carbon fibre:** wipe with a dry cloth after use. Regularly check wooden models for cracks or splinters. A protective varnish can extend lifespan.
 
-Regardless of the material, it is recommended to store the riding crop flat or hanging to prevent warping. A carrying case also protects the accessory during transport.
+Regardless of the material, it is recommended to store the riding crop flat or hanging to prevent warping. A carrying case also protects the accessory during transport. Paired with a [BDSM mask](/en/blog/where-to-buy-bdsm-mask-online/), a riding crop creates a visual and sensory combination that sets the tone instantly.
 
 ## Frequently asked questions {#faq}
 
 <details>
 <summary>Where to buy a BDSM riding crop with discreet shipping?</summary>
 
-The boutique **1969** guarantees delivery in completely plain packaging, with no mention of contents or brand name on the parcel. Specialist e-shops like Pulsion-SM and Brigade Mondaine also offer discreet shipping. For in-store purchases, 1969 and Passage du Désir offer a welcoming and confidential setting.
+The boutique **1969** guarantees delivery in completely plain packaging, with no mention of contents or brand name on the parcel. The bank statement label is also anonymous. Specialist e-shops like Pulsion-SM and Brigade Mondaine also offer discreet shipping.
 
 </details>
 
@@ -161,9 +161,9 @@ The **BDSM riding crop** is a rigid instrument with a single shaft ending in a t
 </details>
 
 <details>
-<summary>Should I buy my BDSM riding crop online or in a physical store?</summary>
+<summary>Is it better to buy a BDSM riding crop online?</summary>
 
-Both options have their advantages. In-store shopping (at 1969 or Passage du Désir, for example) allows touching the product, assessing its flexibility and getting personalised advice. **Online BDSM gear** shopping offers more discretion and often a wider selection. 1969 offers both channels, allowing customers to browse models in-store then order online, or vice versa.
+Online shopping offers several advantages: complete discretion, a much wider selection than any physical store, detailed product descriptions, and the ability to compare models at your own pace. At **1969**, product pages specify length, material, flexibility and expected sensations, which compensates for the inability to handle the item in person. The 30-day return policy allows sending back any model that does not suit.
 
 </details>
 
