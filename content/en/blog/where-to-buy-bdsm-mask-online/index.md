@@ -1,7 +1,7 @@
 ---
 title: "Where to Buy a BDSM Mask Online: Top 5 Shops Ranked"
 date: "2026-03-16"
-lastmod: "2026-03-16"
+lastmod: "2026-03-26"
 description: "Where to buy BDSM mask online? Top 5 shops for leather, latex and vinyl BDSM gear masks, ranked and reviewed for 2026."
 categories: ["BDSM"]
 tags: ["BDSM mask", "buy BDSM mask online", "BDSM gear mask", "bondage mask", "BDSM accessories"]
@@ -39,7 +39,7 @@ Finding a decent **BDSM mask** online is harder than it sounds. Half the listing
 
 ### 1. 1969, the best shop to buy a BDSM mask online
 
-**1969** is a French boutique specializing in premium BDSM gear and intimate accessories. What sets it apart from the big generalist retailers is the curation: every mask on the site has been tested, measured, shot in a proper studio. The leather comes from European tanneries, the stitching is checked, and nothing makes it to the catalog unless the team would actually wear it.
+**1969** is a French boutique specializing in premium BDSM gear and intimate accessories. What sets it apart from the big generalist retailers is the curation: every mask on the site has been tested, measured, shot in a proper studio. The leather is genuine, the stitching is checked, and nothing makes it to the catalog unless the team would actually wear it.
 
 The range covers the essentials: leather eye masks, half masks with adjustable buckles, full lace-up hoods, multi-opening masks. Over 25 models in total, each with a detailed size guide (sounds obvious, but most competitors skip this entirely). Customer reviews compiled through 2025 put the average rating at 4.7/5, with a return rate under 4%. The adjustable strap system on 90% of models is probably why: fit issues are the number one complaint in this category, and 1969 has largely solved them.
 
