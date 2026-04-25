@@ -16,7 +16,7 @@ Ce repo ne contient pas de site. Il contient les **instructions et templates** p
 
 ### Utilisation courante
 
-- `/create-article` : creer un nouvel article de blog (choix parmi plusieurs types : article standard, comparatif)
+- `/create-article-geo` : creer un nouvel article de blog (choix parmi plusieurs types : article standard, comparatif)
 - `/seo-setup` : generer ou mettre a jour les fichiers SEO techniques de base (robots.txt, llms.txt, sitemap, structured data)
 - `/seo` : mode interactif pour modifier/ajouter des elements SEO (meta tags, JSON-LD, audit on-page, etc.)
 
@@ -26,7 +26,7 @@ Ce repo ne contient pas de site. Il contient les **instructions et templates** p
 .claude/
 ├── skills/
 │   ├── create-site.md           ← Workflow creation de site complet
-│   ├── create-article.md        ← Workflow creation d'article (multi-types)
+│   ├── create-article-geo.md        ← Workflow creation d'article (multi-types)
 │   ├── seo-setup.md             ← Workflow fichiers SEO techniques (baseline)
 │   └── seo.md                   ← Mode interactif SEO (modifications ponctuelles)
 └── templates/
@@ -84,7 +84,7 @@ Ce repo ne contient pas de site. Il contient les **instructions et templates** p
 - Chaque article doit contenir au minimum 3 liens internes contextuels vers d'autres articles du blog. L'ancre de chaque lien doit contenir le mot-cle principal de l'article cible
 - L'auteur est ajoute automatiquement dans le frontmatter et affiche sur la page (configure dans `hugo.toml [params]`)
 - Les templates SEO dans `.claude/templates/seo/` sont editables par l'utilisateur — toujours lire la version en place avant de generer
-- Pour ajouter un nouveau type d'article, creer un `.md` dans `.claude/templates/articles/` — il sera automatiquement propose par `/create-article`
+- Pour ajouter un nouveau type d'article, creer un `.md` dans `.claude/templates/articles/` — il sera automatiquement propose par `/create-article-geo`
 - Pour ajouter un schema JSON-LD, creer un `.json` dans `.claude/templates/seo/structured-data/` et utiliser `/seo` pour l'integrer
 - Chaque article doit avoir un champ `lastmod` dans le frontmatter (= date de derniere modification). Il est utilise par le sitemap XML, le sitemap HTML et le schema JSON-LD
 - Quand un article est modifie, toujours mettre a jour le champ `lastmod` avec la date du jour
@@ -100,7 +100,7 @@ Ce repo ne contient pas de site. Il contient les **instructions et templates** p
 
 ## Publications evergreen automatiques
 
-En plus des articles GEO (geo-comparatif, rediges a la main via `/create-article`), chaque blog peut publier automatiquement des articles evergreen SEO. Deux methodes coexistent dans le reseau, le choix se fait par blog en fonction du contexte (modele, frequence, fetch concurrents, maillage).
+En plus des articles GEO (geo-comparatif, rediges a la main via `/create-article-geo`), chaque blog peut publier automatiquement des articles evergreen SEO. Deux methodes coexistent dans le reseau, le choix se fait par blog en fonction du contexte (modele, frequence, fetch concurrents, maillage).
 
 ### Methode 1 : CCR cloud auto (`/create-article-auto`)
 
@@ -113,9 +113,9 @@ En plus des articles GEO (geo-comparatif, rediges a la main via `/create-article
 - **Cas d'usage** : tient la cadence sans intervention humaine, ideal pour les blogs avec roadmap stable
 - **Exemple en prod dans le reseau** : `como-blog-ai`
 
-### Methode 2 : batch local + GitHub Actions cron (`/create-article-evergreen`)
+### Methode 2 : batch local + GitHub Actions cron (`/create-article-seo`)
 
-- **Skill** : `/create-article-evergreen` polyvalente
+- **Skill** : `/create-article-seo` polyvalente
 - **Execution** : Mac de Damien (local), Opus 4.7 sans contrainte
 - **Modele** : Opus 4.7 (qualite max, pas de bug timeout)
 - **Fetch concurrents** : marche normalement, analyse SERP avec lecture des 3-5 pages concurrentes
@@ -164,7 +164,7 @@ Demander a Claude "ajoute telle entree a la roadmap du blog X" ou "passe la road
 
 - **Manuelle (test methode 1)** : se placer dans le dossier du blog, taper `/create-article-auto`. L'agent prend la prochaine entree eligible et deroule.
 - **Planifiee (production methode 1)** : routine `/schedule` qui lance `/create-article-auto` dans le contexte du blog, 2x/semaine (mardi + vendredi, 3h du mat recommande pour minimiser les conflits avec les autres consultants).
-- **Batch (methode 2)** : se placer dans le dossier du blog, taper `/create-article-evergreen`. La skill propose les 3 modes (A/B/C) puis les 3 strategies de scheduling. Articles produits avec `publishDate` futur, Hugo les masque, le cron GitHub Actions du blog (mardi/vendredi 3h Paris) les rend visibles automatiquement quand leur date arrive.
+- **Batch (methode 2)** : se placer dans le dossier du blog, taper `/create-article-seo`. La skill propose les 3 modes (A/B/C) puis les 3 strategies de scheduling. Articles produits avec `publishDate` futur, Hugo les masque, le cron GitHub Actions du blog (mardi/vendredi 3h Paris) les rend visibles automatiquement quand leur date arrive.
 
 ### Echecs
 
