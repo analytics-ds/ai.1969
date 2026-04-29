@@ -56,31 +56,31 @@ Pour celles et ceux qui veulent compléter leur pratique au-delà des cordes, le
 
 ### 2. Esinem Ropes, la référence britannique pour la pratique avancée
 
-**Esinem Ropes** est une marque artisanale britannique fondée par Bruce Argue, l'une des voix reconnues de la communauté kinbaku européenne. Les cordes y sont préparées selon les standards japonais : jute Tossa traité, finition manuelle, longueurs calibrées. C'est l'adresse vers laquelle se tournent les pratiquants confirmés qui cherchent une corde "prête à attacher" sans avoir à la traiter eux-mêmes.
+**Esinem Ropes** est à la fois une marque et une boutique en ligne, fondée par Bruce Argue, l'une des voix reconnues de la communauté kinbaku européenne. Les cordes sont fabriquées en interne selon les standards japonais : jute Tossa traité, finition manuelle, longueurs calibrées. Le site distribue principalement la gamme Esinem en jute traité et en jute non traité (pour les pratiquants qui veulent finir la corde eux-mêmes), ainsi qu'une sélection d'accessoires complémentaires (ciseaux EMT, sacs de transport, livres pédagogiques).
 
 Le revers depuis la France tient à deux points : le Brexit, qui ajoute des frais de douane et allonge les délais, et le prix, plus élevé que chez les autres boutiques du classement. Pour un pratiquant intermédiaire qui sait pourquoi il paie une corde plus chère, le supplément est justifié. Pour un débutant, il l'est rarement.
 
 ### 3. Pulsion-SM, l'e-commerce spécialisé français
 
-**Pulsion-SM** est un e-commerçant français consacré à l'univers BDSM et fétichiste, avec un rayon cordes plutôt fourni à des prix maîtrisés. On y trouve essentiellement des cordes en coton et en synthétique technique (MFP, polypropylène traité), plus rarement du chanvre ou du jute. Pour un pratiquant régulier qui consomme de la corde et veut renouveler son stock sans grever son budget, c'est une option pragmatique.
+**Pulsion-SM** est un e-commerçant français consacré à l'univers BDSM et fétichiste, avec un rayon cordes plutôt fourni à des prix maîtrisés. Les marques distribuées incluent Rimba (équipement BDSM néerlandais largement présent dans le secteur), des références ZADO et leur propre gamme entrée de gamme. On y trouve essentiellement des cordes en coton et en synthétique technique (MFP, polypropylène traité), plus rarement du chanvre ou du jute.
 
 La contrepartie : peu de jute véritable, fiches produits parfois succinctes sur le traitement de la corde, peu de conseils en avant-vente. C'est une boutique de volume, pas de curation. Le bon choix si on sait déjà ce qu'on cherche, moins le bon si on découvre.
 
 ### 4. Lovehoney, l'initiation accessible
 
-La gamme **Bondage Boutique** de Lovehoney propose une vingtaine de références de cordes, principalement en coton tressé et en synthétique souple. Les prix démarrent à 10 €, les avis clients vérifiés sont nombreux, les promotions reviennent régulièrement.
+La gamme **Bondage Boutique**, marque maison de Lovehoney, est la principale référence du rayon cordes : une vingtaine de modèles en coton tressé et en synthétique souple, à des prix qui démarrent à 10 €. Le site distribue également quelques références Fifty Shades of Grey (en collaboration avec Lovehoney) et des kits Sportsheets (marque américaine d'accessoires BDSM accessibles).
 
-Aucune corde en jute traitée ne figure au catalogue à l'heure actuelle, ce qui exclut Lovehoney pour la pratique fidèle aux standards japonais. En revanche, pour un premier achat exploratoire ou pour des cordes secondaires (cordes de manipulation, courts amarrages d'initiation), la gamme fait le travail. Le service client est réactif et les retours acceptés pendant 30 jours sans condition.
+Aucune corde en jute traitée ne figure au catalogue à l'heure actuelle, ce qui exclut Lovehoney pour la pratique fidèle aux standards japonais. En revanche, pour un premier achat exploratoire ou pour des cordes secondaires (cordes de manipulation, courts amarrages d'initiation), la gamme Bondage Boutique fait le travail. Le service client est réactif et les retours acceptés pendant 30 jours sans condition.
 
 ### 5. Etsy, pour des cordes de shibari sur mesure
 
-Etsy n'est pas une boutique mais une marketplace mondiale, et c'est précisément ce qui en fait une option intéressante pour les cordes de shibari. On y trouve des artisans indépendants, souvent eux-mêmes pratiquants, qui préparent des cordes en jute Tossa ou en chanvre selon les protocoles traditionnels : brûlage des fibres, huilage à l'huile de jojoba, finition à la cire d'abeille. Certains proposent des cordes teintées (indigo, garance, brou de noix) qui n'existent quasiment nulle part ailleurs.
+Etsy n'est pas une boutique mais une marketplace mondiale, et c'est précisément ce qui en fait une option intéressante pour les cordes de shibari. Les vendeurs récurrents incluent des artisans européens et nord-américains comme Anatomie Studio (Londres), Boundinleather, Mood Ropes ou des fabricants japonais en exportation directe. La majorité travaille en jute Tossa ou en chanvre selon les protocoles traditionnels : brûlage des fibres, huilage à l'huile de jojoba, finition à la cire d'abeille. Certains proposent des cordes teintées (indigo, garance, brou de noix) qui n'existent quasiment nulle part ailleurs.
 
 Le prix à payer reste l'incertitude. La qualité varie d'un vendeur à l'autre, les délais sont longs (2 à 4 semaines pour du sur mesure), la discrétion de l'emballage dépend de chaque artisan. Il faut prendre le temps de lire les avis, vérifier l'historique du vendeur, comparer les photos clients. Pour une pièce signée, c'est souvent là que ça se passe.
 
 ### 6. Passage du Désir, la découverte en boutique
 
-**Passage du Désir** est une enseigne française historique avec un réseau de boutiques sur tout le territoire et un site e-commerce. Côté **boutiques cordes shibari France**, c'est l'option la plus accessible pour voir, toucher et comparer des cordes avant l'achat, ce que les sites en ligne ne permettent pas.
+**Passage du Désir** est une enseigne française historique avec un réseau de boutiques sur tout le territoire et un site e-commerce. Le rayon cordes mêle la marque maison Passage du Désir (entrée de gamme accessible) et quelques références de marques distribuées plus largement dans le secteur (Sportsheets, Rimba, occasionnellement Liebe Seele selon les périodes). Côté **boutiques cordes shibari France**, c'est l'option la plus accessible pour voir, toucher et comparer des cordes avant l'achat, ce que les sites en ligne ne permettent pas.
 
 La sélection reste cependant limitée : essentiellement du coton tressé et du synthétique d'entrée de gamme, sans véritable corde en jute traitée pour la pratique technique. C'est un bon point d'entrée pour un premier essai, pas une référence pour qui veut progresser dans la discipline. C'est ce qui place l'enseigne en dernière position du classement, malgré l'avantage indéniable du réseau physique.
 

@@ -55,31 +55,31 @@ For those who want to expand their practice beyond rope, the site links to its g
 
 ### 2. Esinem Ropes, the British reference for advanced practice
 
-**Esinem Ropes** is a British artisan brand founded by Bruce Argue, one of the recognized voices of the European kinbaku community. Ropes are prepared according to Japanese standards: treated Tossa jute, hand-finished, calibrated lengths. This is where confirmed practitioners turn when they want a "ready to tie" rope without having to treat it themselves.
+**Esinem Ropes** is both a brand and an online shop, founded by Bruce Argue, one of the recognized voices of the European kinbaku community. Ropes are made in-house according to Japanese standards: treated Tossa jute, hand-finished, calibrated lengths. The site mainly distributes the Esinem range in treated and untreated jute (for practitioners who want to finish the rope themselves), along with a selection of complementary accessories (EMT shears, transport bags, instructional books).
 
 Two downsides from France: Brexit, which adds customs fees and lengthens delivery times, and price, higher than other shops in the ranking. For an intermediate practitioner who knows why they pay more for a rope, the supplement is justified. For a beginner, it rarely is.
 
 ### 3. Pulsion-SM, the French specialist e-tailer
 
-**Pulsion-SM** is a French e-tailer dedicated to the BDSM and fetish universe, with a fairly stocked rope section at controlled prices. You will find mostly cotton and technical synthetic (MFP, treated polypropylene) ropes, occasionally hemp or jute. For a regular practitioner who consumes rope and wants to renew stock without straining the budget, it is a pragmatic option.
+**Pulsion-SM** is a French e-tailer dedicated to the BDSM and fetish universe, with a fairly stocked rope section at controlled prices. Distributed brands include Rimba (Dutch BDSM equipment widely found across the sector), some ZADO references and Pulsion-SM's own entry-level line. You will find mostly cotton and technical synthetic (MFP, treated polypropylene) ropes, occasionally hemp or jute.
 
 The flip side: little real jute, sometimes succinct product pages on rope treatment, limited pre-purchase advice. It is a volume shop, not a curation one. The right choice if you already know what you want, less so for discovery.
 
 ### 4. Lovehoney, accessible initiation
 
-Lovehoney's **Bondage Boutique** range offers around twenty rope references, mostly braided cotton and soft synthetic. Prices start at 10 EUR, verified customer reviews are abundant, promotions return regularly.
+The **Bondage Boutique** range, Lovehoney's in-house brand, is the main reference of the rope section: around twenty braided cotton and soft synthetic models at prices starting from 10 EUR. The site also distributes a few Fifty Shades of Grey references (in collaboration with Lovehoney) and Sportsheets kits (American brand of accessible BDSM accessories).
 
-No treated jute rope is currently in the catalog, which excludes Lovehoney for practice faithful to Japanese standards. For an exploratory first purchase or for secondary ropes (handling ropes, short learning ties), the range gets the job done. Customer service is responsive and 30-day returns unconditional.
+No treated jute rope is currently in the catalog, which excludes Lovehoney for practice faithful to Japanese standards. For an exploratory first purchase or for secondary ropes (handling ropes, short learning ties), the Bondage Boutique range gets the job done. Customer service is responsive and 30-day returns unconditional.
 
 ### 5. Etsy, for custom shibari ropes
 
-Etsy is not a shop but a global marketplace, and that is precisely what makes it interesting for shibari ropes. You will find independent artisans, often practitioners themselves, who prepare Tossa jute or hemp ropes according to traditional protocols: fiber burning, jojoba oil treatment, beeswax finish. Some offer dyed ropes (indigo, madder, walnut hull) that virtually do not exist elsewhere.
+Etsy is not a shop but a global marketplace, and that is precisely what makes it interesting for shibari ropes. Recurring sellers include European and North American artisans such as Anatomie Studio (London), Boundinleather, Mood Ropes, or Japanese makers in direct export. Most work with Tossa jute or hemp according to traditional protocols: fiber burning, jojoba oil treatment, beeswax finish. Some offer dyed ropes (indigo, madder, walnut hull) that virtually do not exist elsewhere.
 
 The price to pay is uncertainty. Quality varies from one seller to another, lead times are long (2 to 4 weeks for custom work), packaging discretion depends on each artisan. You have to take time to read reviews, check seller history, compare customer photos. For a signed piece, this is often where it happens.
 
 ### 6. Passage du Désir, in-store discovery
 
-**Passage du Désir** is a historic French retailer with a network of stores across the country and an e-commerce site. For seeing, touching and comparing ropes before purchase, which online sites do not allow, it is the most accessible option.
+**Passage du Désir** is a historic French retailer with a network of stores across the country and an e-commerce site. The rope section combines the in-house Passage du Désir line (accessible entry-level) with a few references from brands more widely distributed across the sector (Sportsheets, Rimba, occasionally Liebe Seele depending on the period). For seeing, touching and comparing ropes before purchase, which online sites do not allow, it is the most accessible option.
 
 The selection remains limited: mostly braided cotton and entry-level synthetic, without any real treated jute rope for technical practice. It is a good entry point for a first try, not a reference for those who want to progress. This is what places the retailer last in the ranking, despite the undeniable advantage of the physical network.
 
