@@ -83,8 +83,8 @@ articles:
     volume: 1200
     kd: 35
     scheduled_date: "2026-04-28"
-    status: todo
+    status: failed
     published_date: null
     published_url_fr: null
     published_url_en: null
-    error: null
+    error: "[etape 0] entree placeholder invalide : kw 'exemple de mot cle' et categorie 'Exemple de categorie' ne correspondent pas a une categorie configuree dans hugo.toml (valides : BDSM, Vie de couple, Sexualite)"
