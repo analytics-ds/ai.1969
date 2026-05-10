@@ -4,7 +4,7 @@
     <div class="container">
         <h1>{{ .Title }}</h1>
         {{ with .Description }}<p class="list-description">{{ . }}</p>{{ end }}
-        <span class="list-count">{{ len .Pages }} {{ if gt (len .Pages) 1 }}articles{{ else }}article{{ end }}</span>
+        <span class="list-count">{{ len .Pages }} {{ if gt (len .Pages) 1 }}{{ if eq .Site.Language.Lang "en" }}articles{{ else }}articles{{ end }}{{ else }}{{ if eq .Site.Language.Lang "en" }}article{{ else }}article{{ end }}{{ end }}</span>
     </div>
 </section>
 
@@ -12,17 +12,25 @@
     <div class="container">
         <div class="articles-list">
             {{ range .Pages.ByDate.Reverse }}
+            {{ $cat := "" }}
+            {{ with .Params.categories }}{{ $cat = index . 0 }}{{ end }}
+            {{ $key := default .File.ContentBaseName .Params.translationKey }}
+            {{ $img := printf "images/%s.jpg" $key }}
             <article class="article-card-horizontal">
+                <a href="{{ .RelPermalink }}" class="article-card-media" aria-label="{{ .Title }}">
+                    <span class="article-card-cat">{{ $cat }}</span>
+                    <img src="{{ $img | relURL }}" alt="{{ .Title }}" loading="lazy" decoding="async">
+                </a>
                 <div class="article-body">
                     <div class="article-meta">
-                        {{ with .Params.categories }}
-                        <span class="article-category">{{ index . 0 }}</span>
-                        {{ end }}
                         <time>{{ .Date.Format "2 January 2006" }}</time>
                         <span class="reading-time">{{ .ReadingTime }} min</span>
                     </div>
                     <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
                     <p>{{ .Description }}</p>
+                    <div style="margin-top: auto; padding-top: 0.8rem;">
+                        <a href="{{ .RelPermalink }}" class="read-more">{{ if eq $.Site.Language.Lang "en" }}Read more &rarr;{{ else }}Lire la suite &rarr;{{ end }}</a>
+                    </div>
                 </div>
             </article>
             {{ end }}

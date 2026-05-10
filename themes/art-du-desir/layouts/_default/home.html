@@ -1,21 +1,32 @@
 {{ define "main" }}
 
-<!-- Hero Section -->
+<!-- Hero -->
 <section class="hero">
+    <div class="hero-bg">
+        <img src="{{ "images/hero.jpg" | relURL }}" alt="" loading="eager" decoding="async">
+    </div>
     <div class="hero-content">
-        {{ if eq .Site.Language.Lang "en" }}
-        <span class="hero-badge">BDSM and Couples Guide</span>
-        <h1>The Art of <span>Desire</span></h1>
-        <p class="hero-description">Because desire deserves to be explored without taboos. Practical guides, honest advice, and a caring space for all couples.</p>
-        <a href="{{ "blog/" | relLangURL }}" class="btn-hero">Explore our guides</a>
-        <p class="hero-reassurance">Free access, no account required</p>
-        {{ else }}
-        <span class="hero-badge">Guide BDSM et Couples</span>
-        <h1>L'Art du <span>D&eacute;sir</span></h1>
-        <p class="hero-description">Parce que le d&eacute;sir m&eacute;rite d'&ecirc;tre explor&eacute; sans tabou. Des guides concrets, des conseils honn&ecirc;tes et un espace bienveillant pour tous les couples.</p>
-        <a href="{{ "blog/" | relLangURL }}" class="btn-hero">Explorer nos guides</a>
-        <p class="hero-reassurance">Acc&egrave;s libre, aucun compte requis</p>
-        {{ end }}
+        <div class="hero-inner">
+            {{ if eq .Site.Language.Lang "en" }}
+            <span class="hero-badge">BDSM and Couples Guide</span>
+            <h1>The Art of <span>Desire</span>, without taboos</h1>
+            <p class="hero-description">Practical guides, honest advice, and a caring space to explore intimacy at your own pace. Free, anonymous, no account required.</p>
+            <div class="hero-actions">
+                <a href="{{ "blog/" | relLangURL }}" class="btn-hero">Explore the guides &rarr;</a>
+                <a href="{{ "categories/bdsm/" | relLangURL }}" class="btn-hero-ghost">Browse BDSM</a>
+            </div>
+            <p class="hero-reassurance">Free access &middot; No account required &middot; Inclusive content</p>
+            {{ else }}
+            <span class="hero-badge">Guide BDSM et Couples</span>
+            <h1>L'Art du <span>Désir</span>, sans tabou</h1>
+            <p class="hero-description">Des guides concrets, des conseils honnêtes et un espace bienveillant pour explorer l'intimité à votre rythme. Gratuit, anonyme, aucun compte requis.</p>
+            <div class="hero-actions">
+                <a href="{{ "blog/" | relLangURL }}" class="btn-hero">Explorer les guides &rarr;</a>
+                <a href="{{ "categories/bdsm/" | relLangURL }}" class="btn-hero-ghost">Découvrir le BDSM</a>
+            </div>
+            <p class="hero-reassurance">Accès libre &middot; Aucun compte requis &middot; Contenu inclusif</p>
+            {{ end }}
+        </div>
     </div>
 </section>
 
@@ -62,18 +73,24 @@
     </div>
 </section>
 
-<!-- Categories Section -->
+<!-- Categories -->
 <section class="categories-section">
     <div class="container">
-        <h2 class="section-title">{{ if eq .Site.Language.Lang "en" }}Our Categories{{ else }}Nos cat&eacute;gories{{ end }}</h2>
+        <div class="section-header">
+            <span class="section-badge">{{ if eq .Site.Language.Lang "en" }}Browse by theme{{ else }}Parcourir par thème{{ end }}</span>
+            <h2 class="section-title">{{ if eq .Site.Language.Lang "en" }}Our <span>categories</span>{{ else }}Nos <span>catégories</span>{{ end }}</h2>
+            <p class="section-intro">{{ if eq .Site.Language.Lang "en" }}Three universes to explore at your own pace, with content adapted to every level.{{ else }}Trois univers à explorer à votre rythme, avec du contenu adapté à chaque niveau.{{ end }}</p>
+        </div>
         <div class="grid-categories">
             {{ $index := 0 }}
             {{ range .Site.Taxonomies.categories }}
             {{ $index = add $index 1 }}
             <a href="{{ .Page.RelPermalink }}" class="category-card">
-                <span class="category-index">{{ printf "%02d" $index }}</span>
-                <h3>{{ .Page.Title }}</h3>
-                <p class="category-desc">{{ .Count }} {{ if gt .Count 1 }}articles{{ else }}article{{ end }}</p>
+                <div>
+                    <span class="category-index">{{ printf "%02d" $index }} &mdash; {{ if eq $.Site.Language.Lang "en" }}Category{{ else }}Catégorie{{ end }}</span>
+                    <h3>{{ .Page.Title }}</h3>
+                    <p class="category-desc">{{ .Count }} {{ if gt .Count 1 }}{{ if eq $.Site.Language.Lang "en" }}articles{{ else }}articles{{ end }}{{ else }}{{ if eq $.Site.Language.Lang "en" }}article{{ else }}article{{ end }}{{ end }}</p>
+                </div>
                 <span class="category-arrow">&rarr;</span>
             </a>
             {{ end }}
@@ -81,22 +98,59 @@
     </div>
 </section>
 
-<!-- Latest Articles Section -->
+<!-- How to explore -->
+<section class="howto-section">
+    <div class="container">
+        <div class="section-header">
+            <span class="section-badge">{{ if eq .Site.Language.Lang "en" }}Method{{ else }}Méthode{{ end }}</span>
+            <h2 class="section-title">{{ if eq .Site.Language.Lang "en" }}How to explore <span>safely</span>{{ else }}Comment explorer en <span>douceur</span>{{ end }}</h2>
+            <p class="section-intro">{{ if eq .Site.Language.Lang "en" }}A simple three-step approach to discover, learn and integrate at your own pace.{{ else }}Une approche simple en trois temps pour découvrir, apprendre et intégrer à votre rythme.{{ end }}</p>
+        </div>
+        <div class="howto-grid">
+            <div class="howto-card">
+                <div class="howto-icon">01</div>
+                <h3>{{ if eq .Site.Language.Lang "en" }}Discover{{ else }}Découvrir{{ end }}</h3>
+                <p>{{ if eq .Site.Language.Lang "en" }}Browse a category, find what catches your eye and read without pressure.{{ else }}Parcourez une catégorie, repérez ce qui vous attire et lisez sans pression.{{ end }}</p>
+            </div>
+            <div class="howto-card">
+                <div class="howto-icon">02</div>
+                <h3>{{ if eq .Site.Language.Lang "en" }}Learn{{ else }}Apprendre{{ end }}</h3>
+                <p>{{ if eq .Site.Language.Lang "en" }}Concrete advice, real examples and the safety basics to feel confident.{{ else }}Conseils concrets, exemples réels et bases de sécurité pour avancer en confiance.{{ end }}</p>
+            </div>
+            <div class="howto-card">
+                <div class="howto-icon">03</div>
+                <h3>{{ if eq .Site.Language.Lang "en" }}Integrate{{ else }}Intégrer{{ end }}</h3>
+                <p>{{ if eq .Site.Language.Lang "en" }}Talk about it together, agree on a safeword and try at your own rhythm.{{ else }}Échangez à deux, posez un safeword et essayez à votre propre rythme.{{ end }}</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Latest articles -->
 <section class="latest-section">
     <div class="container">
-        <h2 class="section-title">{{ if eq .Site.Language.Lang "en" }}Latest Articles{{ else }}Derniers articles{{ end }}</h2>
+        <div class="section-header">
+            <span class="section-badge">{{ if eq .Site.Language.Lang "en" }}Latest{{ else }}Récents{{ end }}</span>
+            <h2 class="section-title">{{ if eq .Site.Language.Lang "en" }}Stay inspired with our <span>latest insights</span>{{ else }}Restez inspiré avec nos <span>derniers articles</span>{{ end }}</h2>
+            <p class="section-intro">{{ if eq .Site.Language.Lang "en" }}Practical guides on BDSM, sexuality and relationships, written for everyone.{{ else }}Des guides concrets sur le BDSM, la sexualité et le couple, écrits pour tout le monde.{{ end }}</p>
+        </div>
 
         {{ $articles := where .Site.RegularPages "Section" "blog" }}
 
-        <!-- Featured Article -->
         {{ with index $articles 0 }}
+        {{ $slug := .File.ContentBaseName }}
+        {{ $img := printf "images/%s.jpg" $slug }}
         <article class="article-featured">
+            <div class="article-featured-bg">
+                <img src="{{ (printf "images/featured.jpg") | relURL }}" alt="" loading="lazy" decoding="async">
+            </div>
             <div class="featured-content">
                 <div class="article-meta">
                     {{ with .Params.categories }}
                     <span class="article-category">{{ index . 0 }}</span>
                     {{ end }}
                     <time>{{ .Date.Format "2 January 2006" }}</time>
+                    <span class="reading-time">{{ .ReadingTime }} min</span>
                 </div>
                 <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
                 <p>{{ .Description }}</p>
@@ -105,61 +159,68 @@
         </article>
         {{ end }}
 
-        <!-- Articles Grid -->
         {{ if gt (len $articles) 1 }}
         <div class="grid-articles">
             {{ range first 4 (after 1 $articles) }}
+            {{ $cat := "" }}
+            {{ with .Params.categories }}{{ $cat = index . 0 }}{{ end }}
+            {{ $key := default .File.ContentBaseName .Params.translationKey }}
+            {{ $img := printf "images/%s.jpg" $key }}
             <article class="article-card">
-                <div class="article-meta">
-                    {{ with .Params.categories }}
-                    <span class="article-category">{{ index . 0 }}</span>
-                    {{ end }}
-                    <time>{{ .Date.Format "2 January 2006" }}</time>
+                <a href="{{ .RelPermalink }}" class="article-card-media" aria-label="{{ .Title }}">
+                    <span class="article-card-cat">{{ $cat }}</span>
+                    <img src="{{ $img | relURL }}" alt="{{ .Title }}" loading="lazy" decoding="async">
+                </a>
+                <div class="article-card-body">
+                    <div class="article-meta">
+                        <time>{{ .Date.Format "2 January 2006" }}</time>
+                        <span class="reading-time">{{ .ReadingTime }} min</span>
+                    </div>
+                    <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+                    <p>{{ .Description }}</p>
+                    <a href="{{ .RelPermalink }}" class="read-more">{{ if eq $.Site.Language.Lang "en" }}Read more &rarr;{{ else }}Lire la suite &rarr;{{ end }}</a>
                 </div>
-                <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-                <p>{{ .Description }}</p>
-                <a href="{{ .RelPermalink }}" class="read-more">{{ if eq $.Site.Language.Lang "en" }}Read more &rarr;{{ else }}Lire la suite &rarr;{{ end }}</a>
             </article>
             {{ end }}
         </div>
         {{ end }}
 
         <div class="articles-cta">
-            <a href="{{ "blog/" | relLangURL }}" class="btn-outline">{{ if eq .Site.Language.Lang "en" }}View all articles{{ else }}Voir tous les articles{{ end }}</a>
+            <a href="{{ "blog/" | relLangURL }}" class="btn-outline">{{ if eq .Site.Language.Lang "en" }}View all articles{{ else }}Voir tous les articles{{ end }} &rarr;</a>
         </div>
     </div>
 </section>
 
-<!-- Pourquoi 1969 -->
+<!-- Why -->
 <section class="why-section">
     <div class="container">
         <div class="why-grid">
             <div class="why-text-col">
                 <span class="section-badge">{{ if eq .Site.Language.Lang "en" }}Why 1969?{{ else }}Pourquoi 1969 ?{{ end }}</span>
-                <h2>{{ if eq .Site.Language.Lang "en" }}Exploring desire, <span>together</span>{{ else }}Explorer le d&eacute;sir, <span>&agrave; deux</span>{{ end }}</h2>
-                <p>{{ if eq .Site.Language.Lang "en" }}Let's be honest: talking about desire isn't always easy. A lot of couples don't really know how to bring up the subject, and that's completely normal.{{ else }}Soyons honn&ecirc;tes : parler de d&eacute;sir, c'est pas toujours simple. Beaucoup de couples ne savent pas trop comment aborder le sujet, et c'est tout &agrave; fait normal.{{ end }}</p>
-                <p>{{ if eq .Site.Language.Lang "en" }}That's exactly why 1969 exists. A space where you can find reliable, inclusive content to help you explore your intimate life at your own pace, without pressure, without judgement.{{ else }}C'est justement pour &ccedil;a que 1969 existe. Un espace o&ugrave; trouver du contenu fiable et inclusif pour explorer sa vie intime &agrave; son rythme, sans pression, sans jugement.{{ end }}</p>
+                <h2>{{ if eq .Site.Language.Lang "en" }}Exploring desire, <span>together</span>{{ else }}Explorer le désir, <span>à deux</span>{{ end }}</h2>
+                <p>{{ if eq .Site.Language.Lang "en" }}Let's be honest: talking about desire isn't always easy. A lot of couples don't really know how to bring up the subject, and that's completely normal.{{ else }}Soyons honnêtes : parler de désir, ce n'est pas toujours simple. Beaucoup de couples ne savent pas trop comment aborder le sujet, et c'est tout à fait normal.{{ end }}</p>
+                <p>{{ if eq .Site.Language.Lang "en" }}That's exactly why 1969 exists. A space where you can find reliable, inclusive content to help you explore your intimate life at your own pace, without pressure, without judgement.{{ else }}C'est justement pour ça que 1969 existe. Un espace où trouver du contenu fiable et inclusif pour explorer sa vie intime à son rythme, sans pression, sans jugement.{{ end }}</p>
             </div>
             <div class="why-values-col">
                 <div class="value-item">
                     <span class="value-number">01</span>
                     <div>
-                        <h4>{{ if eq .Site.Language.Lang "en" }}No judgement{{ else }}Z&eacute;ro jugement{{ end }}</h4>
-                        <p>{{ if eq .Site.Language.Lang "en" }}Every desire is valid, as long as everyone involved says yes{{ else }}Chaque d&eacute;sir est valide, tant que tout le monde est d'accord{{ end }}</p>
+                        <h4>{{ if eq .Site.Language.Lang "en" }}No judgement{{ else }}Zéro jugement{{ end }}</h4>
+                        <p>{{ if eq .Site.Language.Lang "en" }}Every desire is valid, as long as everyone involved says yes.{{ else }}Chaque désir est valide, tant que tout le monde est d'accord.{{ end }}</p>
                     </div>
                 </div>
                 <div class="value-item">
                     <span class="value-number">02</span>
                     <div>
-                        <h4>{{ if eq .Site.Language.Lang "en" }}Safety first{{ else }}La s&eacute;curit&eacute; d'abord{{ end }}</h4>
-                        <p>{{ if eq .Site.Language.Lang "en" }}Straightforward advice on consent and setting boundaries{{ else }}Des conseils concrets sur le consentement et les limites{{ end }}</p>
+                        <h4>{{ if eq .Site.Language.Lang "en" }}Safety first{{ else }}La sécurité d'abord{{ end }}</h4>
+                        <p>{{ if eq .Site.Language.Lang "en" }}Straightforward advice on consent and setting boundaries.{{ else }}Des conseils concrets sur le consentement et les limites.{{ end }}</p>
                     </div>
                 </div>
                 <div class="value-item">
                     <span class="value-number">03</span>
                     <div>
                         <h4>{{ if eq .Site.Language.Lang "en" }}For everyone{{ else }}Pour tout le monde{{ end }}</h4>
-                        <p>{{ if eq .Site.Language.Lang "en" }}Whatever your orientation or relationship style, you're welcome here{{ else }}Quelle que soit votre orientation ou votre type de relation, vous &ecirc;tes les bienvenus{{ end }}</p>
+                        <p>{{ if eq .Site.Language.Lang "en" }}Whatever your orientation or relationship style, you're welcome here.{{ else }}Quelle que soit votre orientation ou votre type de relation, vous êtes les bienvenus.{{ end }}</p>
                     </div>
                 </div>
             </div>
@@ -167,100 +228,105 @@
     </div>
 </section>
 
-<!-- Notre Approche -->
+<!-- Approach -->
 <section class="approach-section">
     <div class="container">
-        <h2 class="section-title">{{ if eq .Site.Language.Lang "en" }}Our approach{{ else }}Notre approche{{ end }}</h2>
+        <div class="section-header center">
+            <span class="section-badge">{{ if eq .Site.Language.Lang "en" }}Our principles{{ else }}Nos principes{{ end }}</span>
+            <h2 class="section-title">{{ if eq .Site.Language.Lang "en" }}Our <span>approach</span>{{ else }}Notre <span>approche</span>{{ end }}</h2>
+        </div>
         <div class="approach-grid">
             <div class="approach-card">
                 <span class="approach-icon">&#9829;</span>
                 <h3>{{ if eq .Site.Language.Lang "en" }}Consent{{ else }}Consentement{{ end }}</h3>
-                <p>{{ if eq .Site.Language.Lang "en" }}Everything starts with a clear, enthusiastic yes that can be withdrawn at any time{{ else }}Tout commence par un oui clair et enthousiaste, r&eacute;vocable &agrave; tout moment{{ end }}</p>
+                <p>{{ if eq .Site.Language.Lang "en" }}Everything starts with a clear, enthusiastic yes that can be withdrawn at any time.{{ else }}Tout commence par un oui clair et enthousiaste, révocable à tout moment.{{ end }}</p>
             </div>
             <div class="approach-card">
                 <span class="approach-icon">&#10038;</span>
-                <h3>{{ if eq .Site.Language.Lang "en" }}Inclusivity{{ else }}Inclusivit&eacute;{{ end }}</h3>
-                <p>{{ if eq .Site.Language.Lang "en" }}Our guides are written for all genders, orientations and types of relationships{{ else }}Nos guides s'adressent &agrave; tous les genres, toutes les orientations, tous les types de relations{{ end }}</p>
+                <h3>{{ if eq .Site.Language.Lang "en" }}Inclusivity{{ else }}Inclusivité{{ end }}</h3>
+                <p>{{ if eq .Site.Language.Lang "en" }}Our guides are written for all genders, orientations and types of relationships.{{ else }}Nos guides s'adressent à tous les genres, toutes les orientations, tous les types de relations.{{ end }}</p>
             </div>
             <div class="approach-card">
                 <span class="approach-icon">&#9733;</span>
                 <h3>{{ if eq .Site.Language.Lang "en" }}Expertise{{ else }}Expertise{{ end }}</h3>
-                <p>{{ if eq .Site.Language.Lang "en" }}Our content is informed by sexologists, therapists and real-life experiences{{ else }}Nos contenus s'appuient sur des sexologues, des th&eacute;rapeutes et des exp&eacute;riences v&eacute;cues{{ end }}</p>
+                <p>{{ if eq .Site.Language.Lang "en" }}Our content is informed by sexologists, therapists and real-life experiences.{{ else }}Nos contenus s'appuient sur des sexologues, des thérapeutes et des expériences vécues.{{ end }}</p>
             </div>
             <div class="approach-card">
                 <span class="approach-icon">&#9998;</span>
                 <h3>{{ if eq .Site.Language.Lang "en" }}Hands-on{{ else }}Concret{{ end }}</h3>
-                <p>{{ if eq .Site.Language.Lang "en" }}Real tips you can try tonight, not vague theory{{ else }}De vrais conseils applicables ce soir, pas de la th&eacute;orie vague{{ end }}</p>
+                <p>{{ if eq .Site.Language.Lang "en" }}Real tips you can try tonight, not vague theory.{{ else }}De vrais conseils applicables ce soir, pas de la théorie vague.{{ end }}</p>
             </div>
         </div>
     </div>
 </section>
 
-<!-- FAQ Section -->
+<!-- FAQ -->
 <section class="faq-section">
     <div class="container-narrow">
-        <span class="section-badge">{{ if eq .Site.Language.Lang "en" }}Frequently asked questions{{ else }}Questions fr&eacute;quentes{{ end }}</span>
-        <h2 class="faq-title">{{ if eq .Site.Language.Lang "en" }}Your questions about desire{{ else }}Vos questions sur le d&eacute;sir{{ end }}</h2>
-        <div class="faq-list">
+        <span class="section-badge">{{ if eq .Site.Language.Lang "en" }}Frequently asked questions{{ else }}Questions fréquentes{{ end }}</span>
+        <h2 class="faq-title">{{ if eq .Site.Language.Lang "en" }}Your questions about desire{{ else }}Vos questions sur le désir{{ end }}</h2>
+        <div class="faq-list" style="margin-top: 2rem;">
             <details class="faq-item">
                 <summary>{{ if eq .Site.Language.Lang "en" }}How do you bring up fantasies with your partner?{{ else }}Comment aborder ses fantasmes avec son ou sa partenaire ?{{ end }}</summary>
                 <div class="faq-answer">
-                    <p>{{ if eq .Site.Language.Lang "en" }}Pick a quiet moment outside the bedroom, when you're both relaxed. Start by sharing a curiosity rather than a demand. Listen to each other without judgement, and remember that talking about it is already a big step.{{ else }}Choisissez un moment calme en dehors de la chambre, quand vous &ecirc;tes d&eacute;tendus tous les deux. Commencez par partager une curiosit&eacute; plut&ocirc;t qu'une demande. &Eacute;coutez-vous sans jugement, et rappelez-vous qu'en parler c'est d&eacute;j&agrave; un grand pas.{{ end }}</p>
+                    <p>{{ if eq .Site.Language.Lang "en" }}Pick a quiet moment outside the bedroom, when you're both relaxed. Start by sharing a curiosity rather than a demand. Listen to each other without judgement, and remember that talking about it is already a big step.{{ else }}Choisissez un moment calme en dehors de la chambre, quand vous êtes détendus tous les deux. Commencez par partager une curiosité plutôt qu'une demande. Écoutez-vous sans jugement, et rappelez-vous qu'en parler c'est déjà un grand pas.{{ end }}</p>
                 </div>
             </details>
             <details class="faq-item">
                 <summary>{{ if eq .Site.Language.Lang "en" }}Is BDSM dangerous?{{ else }}Le BDSM, c'est dangereux ?{{ end }}</summary>
                 <div class="faq-answer">
-                    <p>{{ if eq .Site.Language.Lang "en" }}Not when it's practised with clear consent, good communication and respect for each other's limits. Like any activity, it requires learning the basics and knowing the safety rules. That's exactly what our guides are here for.{{ else }}Pas quand c'est pratiqu&eacute; avec un consentement clair, une bonne communication et le respect des limites de chacun. Comme toute activit&eacute;, &ccedil;a demande d'apprendre les bases et de conna&icirc;tre les r&egrave;gles de s&eacute;curit&eacute;. C'est justement l&agrave; que nos guides interviennent.{{ end }}</p>
+                    <p>{{ if eq .Site.Language.Lang "en" }}Not when it's practised with clear consent, good communication and respect for each other's limits. Like any activity, it requires learning the basics and knowing the safety rules. That's exactly what our guides are here for.{{ else }}Pas quand c'est pratiqué avec un consentement clair, une bonne communication et le respect des limites de chacun. Comme toute activité, ça demande d'apprendre les bases et de connaître les règles de sécurité. C'est justement là que nos guides interviennent.{{ end }}</p>
                 </div>
             </details>
             <details class="faq-item">
-                <summary>{{ if eq .Site.Language.Lang "en" }}How do you rekindle desire in a long-term relationship?{{ else }}Comment raviver le d&eacute;sir quand on est ensemble depuis longtemps ?{{ end }}</summary>
+                <summary>{{ if eq .Site.Language.Lang "en" }}How do you rekindle desire in a long-term relationship?{{ else }}Comment raviver le désir quand on est ensemble depuis longtemps ?{{ end }}</summary>
                 <div class="faq-answer">
-                    <p>{{ if eq .Site.Language.Lang "en" }}Routine is the main enemy of desire. Try something new together, talk openly about what you want, and pay attention to the small things. Sometimes just changing the context is enough to rediscover each other.{{ else }}La routine est le principal ennemi du d&eacute;sir. Essayez quelque chose de nouveau ensemble, parlez ouvertement de ce dont vous avez envie, et soignez les petits gestes. Parfois il suffit de changer le contexte pour se red&eacute;couvrir.{{ end }}</p>
+                    <p>{{ if eq .Site.Language.Lang "en" }}Routine is the main enemy of desire. Try something new together, talk openly about what you want, and pay attention to the small things. Sometimes just changing the context is enough to rediscover each other.{{ else }}La routine est le principal ennemi du désir. Essayez quelque chose de nouveau ensemble, parlez ouvertement de ce dont vous avez envie, et soignez les petits gestes. Parfois il suffit de changer le contexte pour se redécouvrir.{{ end }}</p>
                 </div>
             </details>
             <details class="faq-item">
-                <summary>{{ if eq .Site.Language.Lang "en" }}I'm curious about BDSM but I don't know where to start{{ else }}Le BDSM m'intrigue mais je ne sais pas par o&ugrave; commencer{{ end }}</summary>
+                <summary>{{ if eq .Site.Language.Lang "en" }}I'm curious about BDSM but I don't know where to start{{ else }}Le BDSM m'intrigue mais je ne sais pas par où commencer{{ end }}</summary>
                 <div class="faq-answer">
-                    <p>{{ if eq .Site.Language.Lang "en" }}Start by reading a few guides to understand the basics. Talk about it with your partner, agree on a safeword and start gently. There's no rush, everyone goes at their own pace.{{ else }}Commencez par lire quelques guides pour comprendre les bases. Parlez-en avec votre partenaire, d&eacute;finissez un safeword et d&eacute;butez en douceur. Rien ne presse, chacun avance &agrave; son rythme.{{ end }}</p>
+                    <p>{{ if eq .Site.Language.Lang "en" }}Start by reading a few guides to understand the basics. Talk about it with your partner, agree on a safeword and start gently. There's no rush, everyone goes at their own pace.{{ else }}Commencez par lire quelques guides pour comprendre les bases. Parlez-en avec votre partenaire, définissez un safeword et débutez en douceur. Rien ne presse, chacun avance à son rythme.{{ end }}</p>
                 </div>
             </details>
             <details class="faq-item">
                 <summary>{{ if eq .Site.Language.Lang "en" }}What is a safeword and why does it matter?{{ else }}C'est quoi un safeword et pourquoi c'est important ?{{ end }}</summary>
                 <div class="faq-answer">
-                    <p>{{ if eq .Site.Language.Lang "en" }}A safeword is a word agreed upon in advance that immediately stops the action. It's a safety net that allows both partners to explore freely while knowing they can hit the brakes at any time. Without it, there's no real trust.{{ else }}Un safeword, c'est un mot convenu &agrave; l'avance qui stoppe imm&eacute;diatement l'action. C'est un filet de s&eacute;curit&eacute; qui permet aux deux partenaires d'explorer librement en sachant qu'ils peuvent freiner &agrave; tout moment. Sans &ccedil;a, pas de vraie confiance.{{ end }}</p>
+                    <p>{{ if eq .Site.Language.Lang "en" }}A safeword is a word agreed upon in advance that immediately stops the action. It's a safety net that allows both partners to explore freely while knowing they can hit the brakes at any time. Without it, there's no real trust.{{ else }}Un safeword, c'est un mot convenu à l'avance qui stoppe immédiatement l'action. C'est un filet de sécurité qui permet aux deux partenaires d'explorer librement en sachant qu'ils peuvent freiner à tout moment. Sans ça, pas de vraie confiance.{{ end }}</p>
                 </div>
             </details>
             <details class="faq-item">
                 <summary>{{ if eq .Site.Language.Lang "en" }}Is this site really free?{{ else }}Ce site est vraiment gratuit ?{{ end }}</summary>
                 <div class="faq-answer">
-                    <p>{{ if eq .Site.Language.Lang "en" }}Yes, all our guides and articles are completely free to access. No subscription, no hidden fees, no account needed. We believe quality information about sexuality should be accessible to everyone.{{ else }}Oui, tous nos guides et articles sont en acc&egrave;s libre et gratuit. Pas d'abonnement, pas de frais cach&eacute;s, pas de compte &agrave; cr&eacute;er. On estime que l'information de qualit&eacute; sur la sexualit&eacute; devrait &ecirc;tre accessible &agrave; tout le monde.{{ end }}</p>
+                    <p>{{ if eq .Site.Language.Lang "en" }}Yes, all our guides and articles are completely free to access. No subscription, no hidden fees, no account needed. We believe quality information about sexuality should be accessible to everyone.{{ else }}Oui, tous nos guides et articles sont en accès libre et gratuit. Pas d'abonnement, pas de frais cachés, pas de compte à créer. On estime que l'information de qualité sur la sexualité devrait être accessible à tout le monde.{{ end }}</p>
                 </div>
             </details>
             <details class="faq-item">
-                <summary>{{ if eq .Site.Language.Lang "en" }}Can I explore BDSM if I'm single?{{ else }}On peut explorer le BDSM en &eacute;tant c&eacute;libataire ?{{ end }}</summary>
+                <summary>{{ if eq .Site.Language.Lang "en" }}Can I explore BDSM if I'm single?{{ else }}On peut explorer le BDSM en étant célibataire ?{{ end }}</summary>
                 <div class="faq-answer">
-                    <p>{{ if eq .Site.Language.Lang "en" }}Absolutely. You can learn about it, discover what appeals to you and understand your own boundaries. Many people start exploring on their own before bringing it into a relationship. Knowledge is valuable regardless of your situation.{{ else }}Tout &agrave; fait. On peut s'informer, d&eacute;couvrir ce qui nous attire et comprendre ses propres limites. Beaucoup de gens commencent &agrave; explorer seuls avant d'en parler dans une relation. Se conna&icirc;tre, c'est d&eacute;j&agrave; un atout pr&eacute;cieux.{{ end }}</p>
+                    <p>{{ if eq .Site.Language.Lang "en" }}Absolutely. You can learn about it, discover what appeals to you and understand your own boundaries. Many people start exploring on their own before bringing it into a relationship. Knowledge is valuable regardless of your situation.{{ else }}Tout à fait. On peut s'informer, découvrir ce qui nous attire et comprendre ses propres limites. Beaucoup de gens commencent à explorer seuls avant d'en parler dans une relation. Se connaître, c'est déjà un atout précieux.{{ end }}</p>
                 </div>
             </details>
             <details class="faq-item">
                 <summary>{{ if eq .Site.Language.Lang "en" }}How do you know if your partner is into BDSM?{{ else }}Comment savoir si son ou sa partenaire est ouvert(e) au BDSM ?{{ end }}</summary>
                 <div class="faq-answer">
-                    <p>{{ if eq .Site.Language.Lang "en" }}There's only one way: talk about it. Bring up the topic casually, maybe by referencing something you've read or watched. Pay attention to their reaction and never push. If they're curious, explore together. If not, that's perfectly fine too.{{ else }}Il n'y a qu'un moyen : en parler. Amenez le sujet naturellement, peut-&ecirc;tre en &eacute;voquant quelque chose que vous avez lu ou vu. Observez la r&eacute;action et ne forcez jamais. Si la curiosit&eacute; est l&agrave;, explorez ensemble. Sinon, c'est tout aussi valable.{{ end }}</p>
+                    <p>{{ if eq .Site.Language.Lang "en" }}There's only one way: talk about it. Bring up the topic casually, maybe by referencing something you've read or watched. Pay attention to their reaction and never push. If they're curious, explore together. If not, that's perfectly fine too.{{ else }}Il n'y a qu'un moyen : en parler. Amenez le sujet naturellement, peut-être en évoquant quelque chose que vous avez lu ou vu. Observez la réaction et ne forcez jamais. Si la curiosité est là, explorez ensemble. Sinon, c'est tout aussi valable.{{ end }}</p>
                 </div>
             </details>
         </div>
     </div>
 </section>
 
-<!-- CTA Section -->
+<!-- CTA -->
 <section class="cta-section">
-    <div class="container-narrow">
-        <h2>{{ if eq .Site.Language.Lang "en" }}Ready to explore?{{ else }}Envie d'en savoir plus ?{{ end }}</h2>
-        <p class="cta-description">{{ if eq .Site.Language.Lang "en" }}All our guides on BDSM, relationships and sexuality are waiting for you. Take your time, go at your own pace.{{ else }}Tous nos guides sur le BDSM, la vie de couple et la sexualit&eacute; vous attendent. Prenez votre temps, allez &agrave; votre rythme.{{ end }}</p>
-        <a href="{{ "blog/" | relLangURL }}" class="btn-cta">{{ if eq .Site.Language.Lang "en" }}Browse our guides{{ else }}Parcourir nos guides{{ end }}</a>
-        <p class="cta-reassurance">{{ if eq .Site.Language.Lang "en" }}Free, anonymous, no account needed{{ else }}Gratuit, anonyme, aucun compte requis{{ end }}</p>
+    <div class="container">
+        <div class="cta-card">
+            <h2>{{ if eq .Site.Language.Lang "en" }}Ready to <span>explore</span>?{{ else }}Envie d'en savoir <span>plus</span> ?{{ end }}</h2>
+            <p class="cta-description">{{ if eq .Site.Language.Lang "en" }}All our guides on BDSM, relationships and sexuality are waiting for you. Take your time, go at your own pace.{{ else }}Tous nos guides sur le BDSM, la vie de couple et la sexualité vous attendent. Prenez votre temps, allez à votre rythme.{{ end }}</p>
+            <a href="{{ "blog/" | relLangURL }}" class="btn-cta">{{ if eq .Site.Language.Lang "en" }}Browse our guides{{ else }}Parcourir les guides{{ end }} &rarr;</a>
+            <p class="cta-reassurance">{{ if eq .Site.Language.Lang "en" }}Free, anonymous, no account needed{{ else }}Gratuit, anonyme, aucun compte requis{{ end }}</p>
+        </div>
     </div>
 </section>
 

@@ -65,7 +65,7 @@ Ce repo ne contient pas de site. Il contient les **instructions et templates** p
 - **Nom du site** : 1969 — L'Art du Desir
 - **Description** : Le guide BDSM et vie de couple par 1969. Explorez l'art du desir, la sexualite epanouie et les dynamiques de couple.
 - **URL** : https://ai.1969.fr/
-- **Couleurs** : Primary #1e1c1c, Accent #cc5500, Background #fffcfa, Background-alt #f7f3f0, Border #e0d8d0
+- **Couleurs** : Mode sombre — Background #0a0a0a, Background-elev #141414, Cards #181818, Accent #e45213 (orange 1969), Text #f4f1ee, Border rgba(255,255,255,0.08)
 - **Polices** : Headings: Outfit (300-600), Body/UI: Inter (300-500)
 - **Categories** : BDSM, Vie de couple, Sexualite (EN: BDSM, Relationships, Sexuality)
 - **Langue** : Francais (principal) + Anglais (sous-dossier /en/)
