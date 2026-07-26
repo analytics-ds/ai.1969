@@ -1,0 +1,313 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - button "Aller directement au contenu" [ref=e4]
+    - generic [ref=e6]:
+      - img
+      - img
+      - banner [ref=e7]:
+        - generic [ref=e8]:
+          - generic [ref=e11]:
+            - generic [ref=e15]:
+              - generic [ref=e16]:
+                - combobox "Saisissez votre tâche, site Web ou mot clé" [ref=e17]: pantalon droit homme
+                - generic: pantalon droit homme
+              - button "Effacer" [ref=e19] [cursor=pointer]:
+                - generic [ref=e20]:
+                  - generic:
+                    - img
+            - button "Recherche" [ref=e22] [cursor=pointer]:
+              - generic [ref=e23]:
+                - generic:
+                  - img
+          - generic [ref=e24]:
+            - generic [ref=e25]:
+              - button "Ouvrir la barre latérale de navigation" [ref=e26] [cursor=pointer]
+              - link "Page d'accueil de Semrush" [ref=e27] [cursor=pointer]:
+                - /url: /
+                - img [ref=e28]
+            - navigation [ref=e30]:
+              - menubar [ref=e31]:
+                - menuitem "Entreprises" [ref=e32] [cursor=pointer]
+                - menuitem "Plus" [ref=e33] [cursor=pointer]
+                - menuitem "Mon profil" [ref=e34] [cursor=pointer]:
+                  - generic: p
+    - generic [ref=e35]:
+      - main [ref=e36]:
+        - generic [ref=e38]:
+          - region "En-tête de Vue d’ensemble des mots clés" [ref=e39]:
+            - generic [ref=e40]:
+              - generic [ref=e41]:
+                - navigation "Breadcrumbs" [ref=e42]:
+                  - list [ref=e43]:
+                    - listitem [ref=e44]:
+                      - link "Accueil" [ref=e45] [cursor=pointer]:
+                        - /url: https://fr.semrush.com/home
+                    - img [ref=e47]
+                    - listitem [ref=e49]:
+                      - link "SEO" [ref=e50] [cursor=pointer]:
+                        - /url: https://fr.semrush.com/seo
+                    - img [ref=e52]
+                    - listitem [ref=e54]:
+                      - generic [ref=e55]: Vue d'ensemble des mots clés
+                - generic [ref=e56]:
+                  - link "Cours sur la recherche de mots clés" [ref=e57] [cursor=pointer]:
+                    - /url: https://www.semrush.com/academy/courses/keyword-research-with-semrush-step-by-step-guide/
+                    - generic:
+                      - img
+                    - text: Cours sur la recherche de mots clés
+                  - link "Manuel de l'utilisateur" [ref=e58] [cursor=pointer]:
+                    - /url: /kb/257-keyword-overview
+                    - generic:
+                      - img
+                    - text: Manuel de l'utilisateur
+                  - button "Envoyer des commentaires" [ref=e59] [cursor=pointer]:
+                    - generic:
+                      - img
+                    - text: Envoyer des commentaires
+              - 'heading "Vue d''ensemble des mots clés: pantalon droit homme" [level=1] [ref=e62]':
+                - generic [ref=e63]: "Vue d'ensemble des mots clés:"
+                - generic [ref=e64]: pantalon droit homme
+              - generic [ref=e66]:
+                - button "France" [ref=e68] [cursor=pointer]:
+                  - generic [ref=e71]: France
+                  - img [ref=e73]
+                - button "Ordinateur" [ref=e76] [cursor=pointer]:
+                  - img [ref=e78]
+                  - generic [ref=e81]: Ordinateur
+                  - img [ref=e83]
+                - button "17 juil. 2026" [ref=e86] [cursor=pointer]:
+                  - generic [ref=e87]: 17 juil. 2026
+                  - img [ref=e89]
+                - link "USD" [ref=e92] [cursor=pointer]:
+                  - generic [ref=e93]: USD
+                  - img [ref=e95]
+          - navigation "Rapports" [ref=e97]:
+            - tablist [ref=e98]:
+              - tab "Vue d'ensemble" [selected] [ref=e99] [cursor=pointer]:
+                - generic [ref=e100]: Vue d'ensemble
+              - tab "Analyse par lots" [ref=e101] [cursor=pointer]:
+                - generic [ref=e102]: Analyse par lots
+          - generic [ref=e109]:
+            - heading "Métriques au niveau national" [level=2] [ref=e110]
+            - generic [ref=e111]:
+              - generic [ref=e112]:
+                - generic [ref=e115]:
+                  - img [ref=e117]
+                  - combobox "Saisissez un domaine" [ref=e119]
+                - combobox "Sélectionner un lieu" [ref=e123] [cursor=pointer]:
+                  - generic [ref=e124]:
+                    - generic:
+                      - img
+                    - generic [ref=e125]: Sélectionnez un lieu
+                    - img
+              - generic [ref=e126]:
+                - img "Loading…" [ref=e129]
+                - generic [ref=e131]:
+                  - button "Exporter vers PDF" [disabled]:
+                    - generic:
+                      - generic:
+                        - img
+                      - generic: Exporter vers PDF
+            - generic [ref=e132]:
+              - region "Récapitulatif des mots clés" [ref=e133]:
+                - heading "Récapitulatif des mots clés" [level=3] [ref=e134]: Récapitulatif des mots clés
+                - generic [ref=e139]:
+                  - generic [ref=e141]:
+                    - generic [ref=e146]: Volume
+                    - img "Loading…" [ref=e148]
+                  - generic [ref=e151]:
+                    - generic [ref=e156]: Difficulté du mot clé
+                    - generic [ref=e157]:
+                      - img "Loading…" [ref=e159]
+                      - img "Loading…" [ref=e162]
+                      - img "Loading…" [ref=e164]
+                  - generic [ref=e167]:
+                    - img "Loading…" [ref=e169]
+                    - img "Loading…" [ref=e172]
+                    - img "Loading…" [ref=e175]
+                    - img "Loading…" [ref=e178]
+                - generic [ref=e184]:
+                  - generic [ref=e189]: Volume total
+                  - generic [ref=e190]:
+                    - img "Loading…" [ref=e192]
+                    - generic [ref=e194]:
+                      - img "Loading…" [ref=e196]
+                      - img "Loading…" [ref=e199]
+                      - img "Loading…" [ref=e202]
+                      - img "Loading…" [ref=e205]
+                      - img "Loading…" [ref=e208]
+                      - img "Loading…" [ref=e211]
+                      - img "Loading…" [ref=e215]
+                - generic [ref=e217]:
+                  - generic [ref=e221]:
+                    - generic [ref=e227]: Intention
+                    - img "Loading…" [ref=e230]
+                  - generic [ref=e235]:
+                    - generic [ref=e240]: Tendance
+                    - generic [ref=e242]:
+                      - img [ref=e244]
+                      - img [ref=e247]
+                      - img [ref=e250]
+                      - img [ref=e253]
+                      - img [ref=e256]
+                      - img [ref=e259]
+                      - img [ref=e262]
+                      - img [ref=e265]
+                      - img [ref=e268]
+                      - img [ref=e271]
+                      - img [ref=e274]
+                      - img [ref=e277]
+                - generic [ref=e281]:
+                  - generic [ref=e283]:
+                    - generic [ref=e289]: CPC
+                    - img "Loading…" [ref=e291]
+                  - generic [ref=e294]:
+                    - generic [ref=e300]: Densité de la concurrence
+                    - img "Loading…" [ref=e302]
+                  - generic [ref=e304]:
+                    - generic [ref=e305]:
+                      - generic [ref=e311]: PLA
+                      - img "Loading…" [ref=e313]
+                    - generic [ref=e315]:
+                      - generic [ref=e321]: Annonces
+                      - img "Loading…" [ref=e323]
+              - region "Idées de mots clés" [ref=e325]:
+                - generic [ref=e326]:
+                  - heading "Idées de mots clés" [level=3] [ref=e328]: Idées de mots clés
+                  - generic [ref=e331]:
+                    - generic [ref=e333]:
+                      - generic [ref=e339]: Variantes de mots clés
+                      - generic [ref=e341]:
+                        - generic [ref=e344]:
+                          - link "Afficher tous les 671 mots clés" [ref=e346] [cursor=pointer]:
+                            - /url: https://fr.semrush.com/analytics/keywordmagic?q=pantalon%20droit%20homme&db=fr
+                            - text: "671"
+                          - generic [ref=e347]:
+                            - text: "Volume total:"
+                            - generic [ref=e348]: 5,7K
+                        - table [ref=e349]:
+                          - row "Mots clés Volume KD %" [ref=e350]:
+                            - columnheader "Mots clés" [ref=e351]:
+                              - generic [ref=e352]: Mots clés
+                            - columnheader "Volume" [ref=e353]
+                            - columnheader "KD %" [ref=e354]
+                          - row "pantalon droit homme 880 19" [ref=e355]:
+                            - cell "pantalon droit homme" [ref=e356]:
+                              - link "pantalon droit homme" [ref=e357] [cursor=pointer]:
+                                - /url: https://fr.semrush.com/analytics/keywordoverview?q=pantalon%20droit%20homme&db=fr&date=202607&device=0
+                            - cell "880" [ref=e358]:
+                              - generic [ref=e359]: "880"
+                            - cell "19" [ref=e360]:
+                              - generic [ref=e363]: "19"
+                          - row "pantalon coupe droite homme 590 17" [ref=e365]:
+                            - cell "pantalon coupe droite homme" [ref=e366]:
+                              - link "pantalon coupe droite homme" [ref=e367] [cursor=pointer]:
+                                - /url: https://fr.semrush.com/analytics/keywordoverview?q=pantalon%20coupe%20droite%20homme&db=fr&date=202607&device=0
+                            - cell "590" [ref=e368]:
+                              - generic [ref=e369]: "590"
+                            - cell "17" [ref=e370]:
+                              - generic [ref=e373]: "17"
+                          - row "pantalon homme coupe droite 480 19" [ref=e375]:
+                            - cell "pantalon homme coupe droite" [ref=e376]:
+                              - link "pantalon homme coupe droite" [ref=e377] [cursor=pointer]:
+                                - /url: https://fr.semrush.com/analytics/keywordoverview?q=pantalon%20homme%20coupe%20droite&db=fr&date=202607&device=0
+                            - cell "480" [ref=e378]:
+                              - generic [ref=e379]: "480"
+                            - cell "19" [ref=e380]:
+                              - generic [ref=e383]: "19"
+                          - row "pantalon coupe droit homme 320 16" [ref=e385]:
+                            - cell "pantalon coupe droit homme" [ref=e386]:
+                              - link "pantalon coupe droit homme" [ref=e387] [cursor=pointer]:
+                                - /url: https://fr.semrush.com/analytics/keywordoverview?q=pantalon%20coupe%20droit%20homme&db=fr&date=202607&device=0
+                            - cell "320" [ref=e388]:
+                              - generic [ref=e389]: "320"
+                            - cell "16" [ref=e390]:
+                              - generic [ref=e393]: "16"
+                          - row "pantalon homme droit 320 17" [ref=e395]:
+                            - cell "pantalon homme droit" [ref=e396]:
+                              - link "pantalon homme droit" [ref=e397] [cursor=pointer]:
+                                - /url: https://fr.semrush.com/analytics/keywordoverview?q=pantalon%20homme%20droit&db=fr&date=202607&device=0
+                            - cell "320" [ref=e398]:
+                              - generic [ref=e399]: "320"
+                            - cell "17" [ref=e400]:
+                              - generic [ref=e403]: "17"
+                        - link "Afficher tous les 671 mots clés" [ref=e406] [cursor=pointer]:
+                          - /url: https://fr.semrush.com/analytics/keywordmagic?q=pantalon%20droit%20homme&db=fr
+                          - generic [ref=e408]: Afficher tous les 671 mots clés
+                    - generic [ref=e410]:
+                      - generic [ref=e416]: Questions
+                      - generic [ref=e418]:
+                        - generic [ref=e421]:
+                          - link "Afficher tous les 1 mots clés" [ref=e423] [cursor=pointer]:
+                            - /url: https://fr.semrush.com/analytics/keywordmagic?q=pantalon%20droit%20homme&db=fr&questions=true
+                            - text: "1"
+                          - generic [ref=e424]:
+                            - text: "Volume total:"
+                            - generic [ref=e425]: "0"
+                        - table [ref=e426]:
+                          - row "Mots clés Volume KD %" [ref=e427]:
+                            - columnheader "Mots clés" [ref=e428]:
+                              - generic [ref=e429]: Mots clés
+                            - columnheader "Volume" [ref=e430]
+                            - columnheader "KD %" [ref=e431]
+                          - row "quelle chaussure avec un pantalon coupe droite homme 0 n/a" [ref=e432]:
+                            - cell "quelle chaussure avec un pantalon coupe droite homme" [ref=e433]:
+                              - link "quelle chaussure avec un pantalon coupe droite homme" [ref=e434] [cursor=pointer]:
+                                - /url: https://fr.semrush.com/analytics/keywordoverview?q=quelle%20chaussure%20avec%20un%20pantalon%20coupe%20droite%20homme&db=fr&date=202607&device=0
+                            - cell "0" [ref=e435]:
+                              - generic [ref=e436]: "0"
+                            - cell "n/a" [ref=e437]:
+                              - generic [ref=e440]: n/a
+                        - link "Afficher tous les 1 mots clés" [ref=e443] [cursor=pointer]:
+                          - /url: https://fr.semrush.com/analytics/keywordmagic?q=pantalon%20droit%20homme&db=fr&questions=true
+                          - generic [ref=e445]: Afficher tous les 1 mots clés
+                    - generic [ref=e447]:
+                      - generic [ref=e451]: Stratégie des mots clés
+                      - generic [ref=e453]:
+                        - generic [ref=e454]: Obtenez automatiquement des sujets, des pages de base et des pages de sous-sujet
+                        - generic [ref=e457]: pantalon droit homme
+                        - generic [ref=e458]:
+                          - generic [ref=e459]:
+                            - generic [ref=e464]: "Intentions: Informationnelle 78 %, Commerciale 22 %"
+                            - generic [ref=e466]: pantalon de ville homme
+                          - generic [ref=e467]:
+                            - generic [ref=e472]: "Intentions: Informationnelle 50 %, Commerciale 50 %"
+                            - generic [ref=e474]: pantalon taille haute pour homme
+                          - generic [ref=e475]:
+                            - generic [ref=e480]: "Intentions: Informationnelle 75 %, Transactionnelle 25 %"
+                            - generic [ref=e482]: pantalons pour homme
+                          - generic [ref=e483]:
+                            - generic [ref=e488]: "Intentions: Informationnelle 50 %, Transactionnelle 50 %"
+                            - generic [ref=e490]: chino straight homme
+                          - generic [ref=e491]:
+                            - generic [ref=e496]: "Intentions: Informationnelle 50 %, Transactionnelle 50 %"
+                            - generic [ref=e498]: pantalon slim homme
+                        - link "Afficher tous les groupes" [ref=e499] [cursor=pointer]:
+                          - /url: https://fr.semrush.com/analytics/keywordmanager/list/autosetup?seed=pantalon%20droit%20homme&db=fr
+                          - generic [ref=e501]: Afficher tous les groupes
+              - banner [ref=e503]:
+                - heading "Do you know how to rewrite your content for AI Overviews?" [level=3] [ref=e505]
+                - generic [ref=e506]:
+                  - generic [ref=e507]: Get editor-style suggestions
+                  - heading "LLM Gap Analyzer" [level=3] [ref=e509]
+                - link "Get Suggestions" [ref=e510] [cursor=pointer]:
+                  - /url: https://semrush.com/apps/llm-gap-analyzer?utm_source=internal&utm_medium=projectwidget&utm_campaign=llm-gap-analyzer
+                  - generic [ref=e512]: Get Suggestions
+                - button "Close" [ref=e513] [cursor=pointer]:
+                  - img [ref=e514]
+              - region "Analyse des SERP"
+              - region "Idées publicitaires" [ref=e517]
+      - contentinfo [ref=e523]:
+        - button "Français" [ref=e527] [cursor=pointer]
+        - generic [ref=e528]:
+          - generic [ref=e529]:
+            - link "Contactez-nous" [ref=e530] [cursor=pointer]:
+              - /url: /company/contacts/
+            - link "Paramètres des cookies" [ref=e531] [cursor=pointer]:
+              - /url: javascript:window.showConsentSettings();
+          - generic [ref=e533]: © 2026 Semrush Holdings. Tous droits réservés.
+  - region "Notifications"
+  - button "Ouvrir le panneau d’aide" [ref=e534] [cursor=pointer]
+  - iframe [ref=e536]:
+    
+  - status

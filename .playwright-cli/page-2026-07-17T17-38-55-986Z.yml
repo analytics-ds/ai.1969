@@ -1,0 +1,18 @@
+- generic [ref=e2]:
+  - separator [ref=e3]
+  - iframe [ref=e8]:
+    - generic [ref=f16e2]:
+      - generic [ref=f16e3]:
+        - checkbox "Je ne suis pas un robot" [ref=f16e7]
+        - generic [ref=f16e11]: Je ne suis pas un robot
+      - generic [ref=f16e15]: reCAPTCHA
+  - separator [ref=e9]
+  - generic [ref=e10]:
+    - text: À propos de cette page
+    - text: Nos systèmes ont détecté un trafic exceptionnel sur votre réseau informatique. Cette page permet de vérifier que c'est bien vous qui envoyez des requêtes, et non un robot.
+    - link "Que s'est-il passé ?" [ref=e11] [cursor=pointer]:
+      - /url: "#"
+    - generic [ref=e12]:
+      - text: "Adresse IP : 2a02:8424:7685:2001:88c:c37e:7401:8e7c"
+      - text: "Heure : 2026-07-17T17:38:55Z"
+      - text: "URL : https://www.google.com/search?q=pantalon+droit+homme&gl=fr&hl=fr&num=20&sei=r2haapSdD_WrkdUPzNHVkQs"

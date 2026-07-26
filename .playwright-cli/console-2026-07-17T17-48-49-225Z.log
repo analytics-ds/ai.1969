@@ -1,0 +1,10 @@
+[     399ms] [WARNING] dataLayerProxy:  prop [[getByName]] is not supported @ https://fr.semrush.com/__static__/webpack/sentry.d820cdb60b1aabd8.js:1
+[     399ms] [WARNING] dataLayerProxy:  method call is not supported @ https://fr.semrush.com/__static__/webpack/sentry.d820cdb60b1aabd8.js:1
+[     399ms] [WARNING] dataLayerProxy:  prop [[getByName]] is not supported @ https://fr.semrush.com/__static__/webpack/sentry.d820cdb60b1aabd8.js:1
+[     399ms] [WARNING] dataLayerProxy:  method call is not supported @ https://fr.semrush.com/__static__/webpack/sentry.d820cdb60b1aabd8.js:1
+[     400ms] [WARNING] dataLayerProxy:  prop [[getByName]] is not supported @ https://fr.semrush.com/__static__/webpack/sentry.d820cdb60b1aabd8.js:1
+[     400ms] [WARNING] dataLayerProxy:  method call is not supported @ https://fr.semrush.com/__static__/webpack/sentry.d820cdb60b1aabd8.js:1
+[     400ms] [WARNING] dataLayerProxy:  prop [[getByName]] is not supported @ https://fr.semrush.com/__static__/webpack/sentry.d820cdb60b1aabd8.js:1
+[     400ms] [WARNING] dataLayerProxy:  method call is not supported @ https://fr.semrush.com/__static__/webpack/sentry.d820cdb60b1aabd8.js:1
+[     579ms] [LOG] isAllowedPage:  true @ https://fr.semrush.com/__static__/webpack/sentry.d820cdb60b1aabd8.js:1
+[     579ms] [LOG] isPaid:         true @ https://fr.semrush.com/__static__/webpack/sentry.d820cdb60b1aabd8.js:1

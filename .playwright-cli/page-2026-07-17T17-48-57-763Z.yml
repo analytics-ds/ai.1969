@@ -1,0 +1,257 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - button "Aller directement au contenu" [ref=e4]
+    - generic [ref=e6]:
+      - img
+      - img
+      - banner [ref=e7]:
+        - generic [ref=e8]:
+          - generic [ref=e11]:
+            - generic [ref=e15]:
+              - generic [ref=e16]:
+                - combobox "Saisissez votre tâche, site Web ou mot clé" [ref=e17]: pantalon droit homme
+                - generic: pantalon droit homme
+              - button "Effacer" [ref=e19] [cursor=pointer]:
+                - generic [ref=e20]:
+                  - generic:
+                    - img
+            - button "Recherche" [ref=e22] [cursor=pointer]:
+              - generic [ref=e23]:
+                - generic:
+                  - img
+          - generic [ref=e24]:
+            - generic [ref=e25]:
+              - button "Ouvrir la barre latérale de navigation" [ref=e26] [cursor=pointer]
+              - link "Page d'accueil de Semrush" [ref=e27] [cursor=pointer]:
+                - /url: /
+                - img [ref=e28]
+            - navigation [ref=e30]:
+              - menubar [ref=e31]:
+                - menuitem "Entreprises" [ref=e32] [cursor=pointer]
+                - menuitem "Plus" [ref=e33] [cursor=pointer]
+                - menuitem "Mon profil" [ref=e34] [cursor=pointer]:
+                  - generic: p
+    - generic [ref=e35]:
+      - main [ref=e36]:
+        - generic [ref=e38]:
+          - region "En-tête de Vue d’ensemble des mots clés" [ref=e39]:
+            - generic [ref=e40]:
+              - generic [ref=e41]:
+                - navigation "Breadcrumbs" [ref=e42]:
+                  - list [ref=e43]:
+                    - listitem [ref=e44]:
+                      - link "Accueil" [ref=e45] [cursor=pointer]:
+                        - /url: https://fr.semrush.com/home
+                    - img [ref=e47]
+                    - listitem [ref=e49]:
+                      - link "SEO" [ref=e50] [cursor=pointer]:
+                        - /url: https://fr.semrush.com/seo
+                    - img [ref=e52]
+                    - listitem [ref=e54]:
+                      - generic [ref=e55]: Vue d'ensemble des mots clés
+                - generic [ref=e56]:
+                  - link "Cours sur la recherche de mots clés" [ref=e57] [cursor=pointer]:
+                    - /url: https://www.semrush.com/academy/courses/keyword-research-with-semrush-step-by-step-guide/
+                    - generic:
+                      - img
+                    - text: Cours sur la recherche de mots clés
+                  - link "Manuel de l'utilisateur" [ref=e58] [cursor=pointer]:
+                    - /url: /kb/257-keyword-overview
+                    - generic:
+                      - img
+                    - text: Manuel de l'utilisateur
+                  - button "Envoyer des commentaires" [ref=e59] [cursor=pointer]:
+                    - generic:
+                      - img
+                    - text: Envoyer des commentaires
+              - 'heading "Vue d''ensemble des mots clés: pantalon droit homme" [level=1] [ref=e62]':
+                - generic [ref=e63]: "Vue d'ensemble des mots clés:"
+                - generic [ref=e64]: pantalon droit homme
+              - generic [ref=e66]:
+                - button "France" [ref=e68] [cursor=pointer]:
+                  - generic [ref=e71]: France
+                  - img [ref=e73]
+                - button "Ordinateur" [ref=e76] [cursor=pointer]:
+                  - img [ref=e78]
+                  - generic [ref=e81]: Ordinateur
+                  - img [ref=e83]
+                - button "17 juil. 2026" [ref=e86] [cursor=pointer]:
+                  - generic [ref=e87]: 17 juil. 2026
+                  - img [ref=e89]
+                - link "USD" [ref=e92] [cursor=pointer]:
+                  - generic [ref=e93]: USD
+                  - img [ref=e95]
+          - navigation "Rapports" [ref=e97]:
+            - tablist [ref=e98]:
+              - tab "Vue d'ensemble" [selected] [ref=e99] [cursor=pointer]:
+                - generic [ref=e100]: Vue d'ensemble
+              - tab "Analyse par lots" [ref=e101] [cursor=pointer]:
+                - generic [ref=e102]: Analyse par lots
+          - generic [ref=e109]:
+            - heading "Métriques au niveau national" [level=2] [ref=e110]
+            - generic [ref=e111]:
+              - generic [ref=e112]:
+                - generic [ref=e115]:
+                  - img [ref=e117]
+                  - combobox "Saisissez un domaine" [ref=e119]
+                - combobox "Sélectionner un lieu" [ref=e123] [cursor=pointer]:
+                  - generic [ref=e124]:
+                    - generic:
+                      - img
+                    - generic [ref=e125]: Sélectionnez un lieu
+                    - img
+              - generic [ref=e126]:
+                - img "Loading…" [ref=e129]
+                - generic [ref=e131]:
+                  - button "Exporter vers PDF" [disabled]:
+                    - generic:
+                      - generic:
+                        - img
+                      - generic: Exporter vers PDF
+            - generic [ref=e132]:
+              - region "Récapitulatif des mots clés" [ref=e133]:
+                - heading "Récapitulatif des mots clés" [level=3] [ref=e134]: Récapitulatif des mots clés
+                - generic [ref=e139]:
+                  - generic [ref=e141]:
+                    - generic [ref=e146]: Volume
+                    - img "Loading…" [ref=e148]
+                  - generic [ref=e151]:
+                    - generic [ref=e156]: Difficulté du mot clé
+                    - generic [ref=e157]:
+                      - img "Loading…" [ref=e159]
+                      - img "Loading…" [ref=e162]
+                      - img "Loading…" [ref=e164]
+                  - generic [ref=e167]:
+                    - img "Loading…" [ref=e169]
+                    - img "Loading…" [ref=e172]
+                    - img "Loading…" [ref=e175]
+                    - img "Loading…" [ref=e178]
+                - generic [ref=e184]:
+                  - generic [ref=e189]: Volume total
+                  - generic [ref=e190]:
+                    - img "Loading…" [ref=e192]
+                    - generic [ref=e194]:
+                      - img "Loading…" [ref=e196]
+                      - img "Loading…" [ref=e199]
+                      - img "Loading…" [ref=e202]
+                      - img "Loading…" [ref=e205]
+                      - img "Loading…" [ref=e208]
+                      - img "Loading…" [ref=e211]
+                      - img "Loading…" [ref=e215]
+                - generic [ref=e217]:
+                  - generic [ref=e221]:
+                    - generic [ref=e227]: Intention
+                    - img "Loading…" [ref=e230]
+                  - generic [ref=e235]:
+                    - generic [ref=e240]: Tendance
+                    - generic [ref=e242]:
+                      - img [ref=e244]
+                      - img [ref=e247]
+                      - img [ref=e250]
+                      - img [ref=e253]
+                      - img [ref=e256]
+                      - img [ref=e259]
+                      - img [ref=e262]
+                      - img [ref=e265]
+                      - img [ref=e268]
+                      - img [ref=e271]
+                      - img [ref=e274]
+                      - img [ref=e277]
+                - generic [ref=e281]:
+                  - generic [ref=e283]:
+                    - generic [ref=e289]: CPC
+                    - img "Loading…" [ref=e291]
+                  - generic [ref=e294]:
+                    - generic [ref=e300]: Densité de la concurrence
+                    - img "Loading…" [ref=e302]
+                  - generic [ref=e304]:
+                    - generic [ref=e305]:
+                      - generic [ref=e311]: PLA
+                      - img "Loading…" [ref=e313]
+                    - generic [ref=e315]:
+                      - generic [ref=e321]: Annonces
+                      - img "Loading…" [ref=e323]
+              - region "Idées de mots clés" [ref=e325]:
+                - generic [ref=e326]:
+                  - heading "Idées de mots clés" [level=3] [ref=e328]: Idées de mots clés
+                  - generic [ref=e331]:
+                    - generic [ref=e333]:
+                      - generic [ref=e339]: Variantes de mots clés
+                      - generic [ref=e342]:
+                        - img "Loading…" [ref=e346]
+                        - table [ref=e348]:
+                          - row "Mots clés Volume KD %" [ref=e349]:
+                            - columnheader "Mots clés" [ref=e350]:
+                              - generic [ref=e351]: Mots clés
+                            - columnheader "Volume" [ref=e352]
+                            - columnheader "KD %" [ref=e353]
+                          - row "Loading… Loading… Loading…" [ref=e354]:
+                            - cell "Loading…" [ref=e355]:
+                              - img "Loading…" [ref=e357]
+                            - cell "Loading…" [ref=e359]:
+                              - img "Loading…" [ref=e361]
+                            - cell "Loading…" [ref=e363]:
+                              - img "Loading…" [ref=e365]
+                          - row "Loading… Loading… Loading…" [ref=e367]:
+                            - cell "Loading…" [ref=e368]:
+                              - img "Loading…" [ref=e370]
+                            - cell "Loading…" [ref=e372]:
+                              - img "Loading…" [ref=e374]
+                            - cell "Loading…" [ref=e376]:
+                              - img "Loading…" [ref=e378]
+                          - row "Loading… Loading… Loading…" [ref=e380]:
+                            - cell "Loading…" [ref=e381]:
+                              - img "Loading…" [ref=e383]
+                            - cell "Loading…" [ref=e385]:
+                              - img "Loading…" [ref=e387]
+                            - cell "Loading…" [ref=e389]:
+                              - img "Loading…" [ref=e391]
+                    - generic [ref=e394]:
+                      - generic [ref=e400]: Questions
+                      - generic [ref=e402]:
+                        - generic [ref=e405]:
+                          - link "Afficher tous les 1 mots clés" [ref=e407] [cursor=pointer]:
+                            - /url: https://fr.semrush.com/analytics/keywordmagic?q=pantalon%20droit%20homme&db=fr&questions=true
+                            - text: "1"
+                          - generic [ref=e408]:
+                            - text: "Volume total:"
+                            - generic [ref=e409]: "0"
+                        - table [ref=e410]:
+                          - row "Mots clés Volume KD %" [ref=e411]:
+                            - columnheader "Mots clés" [ref=e412]:
+                              - generic [ref=e413]: Mots clés
+                            - columnheader "Volume" [ref=e414]
+                            - columnheader "KD %" [ref=e415]
+                          - row "quelle chaussure avec un pantalon coupe droite homme 0 n/a" [ref=e416]:
+                            - cell "quelle chaussure avec un pantalon coupe droite homme" [ref=e417]:
+                              - link "quelle chaussure avec un pantalon coupe droite homme" [ref=e418] [cursor=pointer]:
+                                - /url: https://fr.semrush.com/analytics/keywordoverview?q=quelle%20chaussure%20avec%20un%20pantalon%20coupe%20droite%20homme&db=fr&date=202607&device=0
+                            - cell "0" [ref=e419]:
+                              - generic [ref=e420]: "0"
+                            - cell "n/a" [ref=e421]:
+                              - generic [ref=e424]: n/a
+                        - link "Afficher tous les 1 mots clés" [ref=e427] [cursor=pointer]:
+                          - /url: https://fr.semrush.com/analytics/keywordmagic?q=pantalon%20droit%20homme&db=fr&questions=true
+                          - generic [ref=e429]: Afficher tous les 1 mots clés
+                    - generic [ref=e431]:
+                      - generic [ref=e435]: Stratégie des mots clés
+                      - generic [ref=e437]:
+                        - img "Loading…" [ref=e439]
+                        - img "Loading…" [ref=e442]
+                        - img "Loading…" [ref=e445]
+                        - img "Loading…" [ref=e448]
+              - region "Analyse des SERP"
+              - region "Idées publicitaires" [ref=e451]
+      - contentinfo [ref=e457]:
+        - button "Français" [ref=e461] [cursor=pointer]
+        - generic [ref=e462]:
+          - generic [ref=e463]:
+            - link "Contactez-nous" [ref=e464] [cursor=pointer]:
+              - /url: /company/contacts/
+            - link "Paramètres des cookies" [ref=e465] [cursor=pointer]:
+              - /url: javascript:window.showConsentSettings();
+          - generic [ref=e467]: © 2026 Semrush Holdings. Tous droits réservés.
+  - region "Notifications"
+  - button "Ouvrir le panneau d’aide" [ref=e468] [cursor=pointer]
+  - iframe [ref=e470]:
+    

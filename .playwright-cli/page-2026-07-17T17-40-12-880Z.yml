@@ -1,0 +1,59 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - button "Passer au contenu" [ref=e3] [cursor=pointer]:
+      - generic [ref=e5]: Passer au contenu
+    - button "Commentaires sur l’accessibilité" [ref=e6] [cursor=pointer]:
+      - generic [ref=e8]: Commentaires sur l’accessibilité
+    - generic [ref=e9]:
+      - link "Retour à la recherche Bing" [ref=e10] [cursor=pointer]:
+        - /url: /?FORM=Z9FD1
+        - heading "Retour à la recherche Bing" [level=1] [ref=e11]
+      - search [ref=e12]:
+        - button "Rechercher" [ref=e15] [cursor=pointer]
+        - searchbox "Entrez votre recherche ici - Les suggestions de recherche s’affichera au fur et à mesure de la frappe" [ref=e16]: jean homme
+        - button "Rechercher à l’aide d’une image" [ref=e19] [cursor=pointer]
+    - complementary "Récompenses et préférences du compte" [ref=e21]:
+      - button "Microsoft Rewards"
+      - link "Connexion" [ref=e22] [cursor=pointer]:
+        - /url: javascript:void(0)
+        - generic "Connexion" [ref=e23]
+    - navigation "Filtre de recherche" [ref=e24]:
+      - list [ref=e25]:
+        - listitem [ref=e26]:
+          - link "Tout" [ref=e27] [cursor=pointer]:
+            - /url: /?scope=web&FORM=HDRSC1
+        - listitem [ref=e28]:
+          - link "Rechercher" [ref=e29] [cursor=pointer]:
+            - /url: /copilotsearch?q=jean+homme&FORM=CSSCOP
+            - img [ref=e30]
+            - text: Rechercher
+        - listitem [ref=e32]:
+          - link "Images" [ref=e33] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=e5207cdaaf5083c19f7bfde97bd82f0d1ddf31e789ecf9baea95836d74f0876cJmltdHM9MTc4NDI0NjQwMA&ptn=3&ver=2&hsh=4&fclid=0433feb9-6ae9-634c-255c-e9206b19626e&u=a1L2ltYWdlcy9zZWFyY2g_cT1qZWFuK2hvbW1lJkZPUk09SERSU0My&ntb=1
+        - listitem [ref=e34]:
+          - link "Vidéos" [ref=e35] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=82b4c086e41dfe2780eefc16842b252b4836fdd497c1e8a05da0c071b354f454JmltdHM9MTc4NDI0NjQwMA&ptn=3&ver=2&hsh=4&fclid=0433feb9-6ae9-634c-255c-e9206b19626e&u=a1L3ZpZGVvcy9zZWFyY2g_cT1qZWFuK2hvbW1lJkZPUk09SERSU0Mz&ntb=1
+        - listitem [ref=e36]:
+          - link "Cartes" [ref=e37] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=f708153a571b7b6b730ca9378e9a76c7ed25a116de164c5ca2502cb316c2402eJmltdHM9MTc4NDI0NjQwMA&ptn=3&ver=2&hsh=4&fclid=0433feb9-6ae9-634c-255c-e9206b19626e&u=a1L21hcHM_cT1qZWFuK2hvbW1lJkZPUk09SERSU0M0&ntb=1
+        - listitem [ref=e38]:
+          - link "Actualités" [ref=e39] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=f38dad834359779796bc343ac1aa4b6cd14665dd93697b6830dbdd97523dce0fJmltdHM9MTc4NDI0NjQwMA&ptn=3&ver=2&hsh=4&fclid=0433feb9-6ae9-634c-255c-e9206b19626e&u=a1L25ld3Mvc2VhcmNoP3E9amVhbitob21tZSZGT1JNPUhEUlNDNg&ntb=1
+        - listitem [ref=e40]:
+          - button "Plus" [ref=e41] [cursor=pointer]:
+            - img [ref=e43]
+            - text: Plus
+        - listitem [ref=e45]:
+          - link "À propos des résultats de rechercheÀ propos des résultats de recherche" [ref=e48] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=eaf33782140c55eccf7585fd890a01c22cef3c61e552e333b7b2135ee6c6de0fJmltdHM9MTc4NDI0NjQwMA&ptn=3&ver=2&hsh=4&fclid=0433feb9-6ae9-634c-255c-e9206b19626e&u=a1aHR0cHM6Ly9oZWxwLmJpbmcubWljcm9zb2Z0LmNvbS8jYXBleC8xOC9mci8xMDAyMC8tMQ&ntb=1
+            - text: À propos des résultats de recherche
+            - img "À propos des résultats de recherche" [ref=e50]
+  - contentinfo [ref=e51]:
+    - generic [ref=e52]:
+      - list:
+        - listitem [ref=e53]:
+          - link "Confidentialité" [ref=e54] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=f9e97e4e3df80518a7d3f3a476848a7c9c1dcd4f31e4f91c92c197413ea80e82JmltdHM9MTc4NDI0NjQwMA&ptn=3&ver=2&hsh=4&fclid=0433feb9-6ae9-634c-255c-e9206b19626e&u=a1aHR0cDovL2dvLm1pY3Jvc29mdC5jb20vZndsaW5rLz9MaW5rSWQ9NTIxODM5&ntb=1
+        - listitem [ref=e55]:
+          - link "Conditions générales" [ref=e56] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=c7c7fca58ddbd0d068e7756ac3396294c9dd16515b96520ca052b65ddc5ba9c0JmltdHM9MTc4NDI0NjQwMA&ptn=3&ver=2&hsh=4&fclid=0433feb9-6ae9-634c-255c-e9206b19626e&u=a1aHR0cDovL2dvLm1pY3Jvc29mdC5jb20vZndsaW5rLz9MaW5rSUQ9MjQ2MzM4&ntb=1
