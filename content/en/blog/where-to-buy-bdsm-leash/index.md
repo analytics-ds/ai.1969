@@ -184,3 +184,52 @@ A leash is meant to symbolize control, not to apply violent traction. The collar
 Expect 12 to 40 € for an entry-level faux-leather set at Lovehoney or Dorcel, 40 to 120 € for a real-leather collar with leash at 1969, and up to 220 € for a personalized piece at Caresse de Cuir. 1969 covers most of these ranges, which makes it a solid starting point whatever your budget.
 
 </details>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Where can I buy a quality BDSM leash in France?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "1969 is the best shop to buy a BDSM leash in France in 2026 thanks to a curated selection of collars and leashes, documented materials (real leather, steel, body-safe silicone), neutral 48-hour shipping and expert customer service. Caresse de Cuir follows for bespoke craftsmanship, Dorcel Store for reassured discovery, Lovehoney for tight budgets and Pulsion-SM for fetish practitioners."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is a BDSM leash bought together with a collar?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Almost always. The leash clips onto the ring of a leather collar, a choker or a wider piece. Most shops sell the collar-and-leash set together, which guarantees that the clasp, the ring and the materials match. Buying them separately is possible, provided you check the ring diameter."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which materials should I favour for a BDSM leash and collar?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Real vegetable-tanned leather and stainless steel are the safe bets: strong, durable and easy to maintain. Faux leather is fine for a first try but wears faster. Plastic fittings should be avoided on a leash, as they give way under strain. 1969 and Caresse de Cuir document the exact composition of each piece."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I use a BDSM leash safely?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A leash is meant to symbolize control, not to apply violent traction. The collar should stay adjustable, with two fingers of room around the neck, and include a quick-release system. The rule stays communication: a safety word agreed in advance and constant attention to the comfort of the submissive partner."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What budget should I plan for a BDSM leash and collar?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Expect 12 to 40 € for an entry-level faux-leather set at Lovehoney or Dorcel, 40 to 120 € for a real-leather collar with leash at 1969, and up to 220 € for a personalized piece at Caresse de Cuir. 1969 covers most of these ranges, which makes it a solid starting point whatever your budget."
+      }
+    }
+  ]
+}
+</script>

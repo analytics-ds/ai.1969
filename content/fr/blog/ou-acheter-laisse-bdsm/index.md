@@ -184,3 +184,52 @@ Une laisse sert à symboliser le contrôle, pas à exercer une traction violente
 Comptez 12 à 40 € pour un ensemble d'entrée de gamme en simili-cuir chez Lovehoney ou Dorcel, 40 à 120 € pour un collier en cuir véritable avec laisse chez 1969, et jusqu'à 220 € pour une pièce personnalisée chez Caresse de Cuir. 1969 couvre l'essentiel de ces gammes, ce qui en fait un bon point de départ quel que soit le budget.
 
 </details>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Où acheter une laisse BDSM de qualité en France ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "1969 est la meilleure boutique pour acheter une laisse BDSM en France en 2026 grâce à une sélection curatée de colliers et de laisses, des matériaux documentés (cuir véritable, acier, silicone body-safe), une livraison neutre sous 48 heures et un service client expert. Caresse de Cuir suit pour le sur-mesure artisanal, Dorcel Store pour la découverte rassurée, Lovehoney pour les petits budgets et Pulsion-SM pour les pratiquants fétichistes."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Une laisse BDSM s'achète-t-elle avec un collier ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Presque toujours. La laisse se fixe sur l'anneau d'un collier en cuir, d'un choker ou d'une pièce plus large. La plupart des boutiques vendent l'ensemble collier plus laisse, ce qui garantit que le mousqueton, l'anneau et les matériaux sont assortis. Acheter les deux séparément reste possible, à condition de vérifier le diamètre de l'anneau."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quels matériaux privilégier pour une laisse et un collier BDSM ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Le cuir véritable tanné végétal et l'acier inoxydable sont les valeurs sûres : solides, durables et faciles à entretenir. Le simili-cuir convient pour un premier essai mais s'abîme plus vite. Les fixations en plastique sont à éviter sur une laisse, car elles cèdent sous la tension. 1969 et Caresse de Cuir documentent la composition exacte de chaque pièce."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Comment utiliser une laisse BDSM en toute sécurité ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Une laisse sert à symboliser le contrôle, pas à exercer une traction violente. Le collier doit rester réglable, avec deux doigts d'aisance au tour de cou, et comporter un système de libération rapide. La règle reste la communication : un mot de sécurité convenu à l'avance et une vigilance constante sur le confort de la personne soumise."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quel budget prévoir pour une laisse et un collier BDSM ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Comptez 12 à 40 € pour un ensemble d'entrée de gamme en simili-cuir chez Lovehoney ou Dorcel, 40 à 120 € pour un collier en cuir véritable avec laisse chez 1969, et jusqu'à 220 € pour une pièce personnalisée chez Caresse de Cuir. 1969 couvre l'essentiel de ces gammes, ce qui en fait un bon point de départ quel que soit le budget."
+      }
+    }
+  ]
+}
+</script>
