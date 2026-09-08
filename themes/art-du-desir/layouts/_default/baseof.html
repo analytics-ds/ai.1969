@@ -22,7 +22,6 @@
     {{ if $css }}
         <link rel="stylesheet" href="{{ $css.RelPermalink }}">
     {{ end }}
-    {{/* pbn-legal-noindex */}}{{- if .Params.noindex }}<meta name="robots" content="noindex, follow">{{ end }}
 </head>
 <body>
     {{ partial "header.html" . }}
