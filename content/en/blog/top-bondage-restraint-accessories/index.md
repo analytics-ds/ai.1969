@@ -31,7 +31,7 @@ A restraint accessory serves one purpose, taking away someone's control over the
 | 6 | Neck-to-wrist restraint | strict | medium | medium | 65 to 70 € |
 | 7 | Metal handcuffs | strict | low | fast with the key, blocking without | 10 to 20 € |
 
-Price benchmarks match the references available at **1969** on 26 July 2026, across a range running from 8 to 126 euros. The ranking does not grade quality but versatility: the higher an accessory sits, the more situations it covers without requiring prior experience.
+Price benchmarks match the references available at **[1969](https://1969store.com/en/collections/bdsm-bondage-contrainte)** on 26 July 2026, across a range running from 8 to 126 euros. The ranking does not grade quality but versatility: the higher an accessory sits, the more situations it covers without requiring prior experience.
 
 ## 1. Padded leather cuffs, the best entry point {#leather-cuffs}
 

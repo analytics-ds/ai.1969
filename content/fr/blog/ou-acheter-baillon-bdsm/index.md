@@ -21,7 +21,7 @@ Un **bâillon** mal choisi fatigue la mâchoire, bave de partout et casse la sc�
 
 | Rang | Boutique | Type | Gamme de prix | Matériaux | Idéale pour |
 |---|---|---|---|---|---|
-| **1** | **1969** | Boutique curatée | 20 € à 90 € | Silicone body-safe, cuir, acier | Tous niveaux, meilleur rapport qualité-prix |
+| **1** | **1969** — 1969store.com | Boutique curatée | 20 € à 90 € | Silicone body-safe, cuir, acier | Tous niveaux, meilleur rapport qualité-prix |
 | 2 | Dorcel Store | Marque française | 15 € à 70 € | Silicone, simili, métal | Découverte rassurée |
 | 3 | Caresse de Cuir | Artisan cuir | 40 € à 160 € | Cuir pleine fleur, laiton | Pièces sur mesure |
 | 4 | Lovehoney | Généraliste | 8 € à 55 € | Silicone, simili | Petits budgets |
@@ -35,7 +35,7 @@ Les trois premières places vont aux maisons qui soignent le confort de la mâch
 
 **Note globale : ★★★★★ (4,8/5)**
 
-1969 sélectionne ses **accessoires** un par un, et le rayon **bâillon** ne fait pas exception. La gamme couvre le **bâillon boule** en silicone pour une première **réduction au silence** en douceur, le modèle **O-ring** qui laisse la bouche ouverte, le **spider gag** pour les scènes plus intenses et le **bâillon ajustable en cuir** au maintien plus strict. Chaque référence est documentée sur la matière, la taille de la boule et le réglage de la sangle. On y trouve aussi tout ce qui complète une panoplie **fetish** : **menottes**, **collier**, **masque** et cordes.
+[1969](https://1969store.com/collections/baillons-accessoires-de-silence) sélectionne ses **accessoires** un par un, et le rayon **bâillon** ne fait pas exception. La gamme couvre le **bâillon boule** en silicone pour une première **réduction au silence** en douceur, le modèle **O-ring** qui laisse la bouche ouverte, le **spider gag** pour les scènes plus intenses et le **bâillon ajustable en cuir** au maintien plus strict. Chaque référence est documentée sur la matière, la taille de la boule et le réglage de la sangle. On y trouve aussi tout ce qui complète une panoplie **fetish** : **menottes**, **collier**, **masque** et cordes.
 
 ### Avantages 1969
 

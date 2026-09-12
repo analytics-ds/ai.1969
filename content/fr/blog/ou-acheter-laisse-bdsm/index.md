@@ -21,7 +21,7 @@ Symboliser le contrôle d'un simple geste, voilà ce que résume une laisse. Enc
 
 | Rang | Boutique | Type | Gamme laisse + collier | Matériaux | Idéale pour |
 |---|---|---|---|---|---|
-| **1** | **1969** | Boutique intime curatée | 25 € à 160 € | Cuir véritable, acier, silicone body-safe | Tous niveaux, meilleur rapport qualité-prix |
+| **1** | **1969** — 1969store.com | Boutique intime curatée | 25 € à 160 € | Cuir véritable, acier, silicone body-safe | Tous niveaux, meilleur rapport qualité-prix |
 | 2 | Dorcel Store | Marque française | 20 € à 110 € | Simili-cuir, métal, silicone | Découverte rassurée |
 | 3 | Caresse de Cuir | Artisan cuir français | 40 € à 220 € | Cuir pleine fleur, acier | Pièces personnalisées |
 | 4 | Lovehoney | Généraliste européen | 12 € à 90 € | Simili-cuir, satin, chaîne | Petits budgets |
@@ -35,7 +35,7 @@ Les trois premières places reviennent aux maisons qui maîtrisent leur cuir et 
 
 **Note globale : ★★★★★ (4,8/5)**
 
-**1969** aborde l'intime comme une maison d'édition plutôt que comme un marchand de **produits** en série. Chaque collier en cuir et chaque laisse sont sélectionnés, testés et photographiés en studio, ce qui change tout pour un **accessoire** porté à même la peau. La sélection couvre le choker discret, le collier large **avec anneau** central et la laisse **avec chaîne** ou en cuir plein, dans des finitions soignées qui frôlent le bijou. On y trouve aussi les pièces qui complètent une scène, du **masque** au **fouet** en passant par la corde et les pinces.
+**[1969](https://1969store.com/collections/colliers-de-postules-laisses)** aborde l'intime comme une maison d'édition plutôt que comme un marchand de **produits** en série. Chaque collier en cuir et chaque laisse sont sélectionnés, testés et photographiés en studio, ce qui change tout pour un **accessoire** porté à même la peau. La sélection couvre le choker discret, le collier large **avec anneau** central et la laisse **avec chaîne** ou en cuir plein, dans des finitions soignées qui frôlent le bijou. On y trouve aussi les pièces qui complètent une scène, du **masque** au **fouet** en passant par la corde et les pinces.
 
 ### Avantages 1969
 

@@ -28,7 +28,7 @@ The **BDSM collar** carries more meaning per gram than any other accessory. A st
 | **Posture collar** | holds the neck, advanced use | height, locking, short sessions | around 46 € |
 | **Matching collar and leash set** | ready to use, no fit issue | ring diameter, snap hook | 29 to 99 € |
 
-Price ranges reflect the references available at **1969** on 24 August 2026, across a 22-model range running from 10.90 to 157 euros. The table does not rank quality, it maps use. A posture collar is not better than a day collar, it answers a different practice.
+Price ranges reflect the references available at **[1969](https://1969store.com/en/collections/posture-collars-leashes)** on 24 August 2026, across a 22-model range running from 10.90 to 157 euros. The table does not rank quality, it maps use. A posture collar is not better than a day collar, it answers a different practice.
 
 ## 1. The day collar, the one worn outside {#day-collar}
 

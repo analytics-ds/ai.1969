@@ -31,7 +31,7 @@ Un accessoire d'immobilisation a une fonction simple, retirer à quelqu'un le co
 | 6 | Attache cou-poignets | strict | moyen | moyenne | 65 à 70 € |
 | 7 | Menottes métalliques | strict | faible | rapide avec la clé, bloquant sans | 10 à 20 € |
 
-Les repères de prix correspondent aux références disponibles chez **1969** au 26 juillet 2026, sur une gamme qui va de 8 à 126 euros. Le classement ne hiérarchise pas la qualité mais la polyvalence : plus un accessoire est haut dans la liste, plus il couvre de situations sans exiger d'expérience préalable.
+Les repères de prix correspondent aux références disponibles chez **[1969](https://1969store.com/collections/bdsm-bondage-contrainte)** au 26 juillet 2026, sur une gamme qui va de 8 à 126 euros. Le classement ne hiérarchise pas la qualité mais la polyvalence : plus un accessoire est haut dans la liste, plus il couvre de situations sans exiger d'expérience préalable.
 
 ## 1. Les menottes en cuir rembourrées, le meilleur point d'entrée {#menottes-cuir}
 

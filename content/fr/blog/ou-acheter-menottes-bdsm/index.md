@@ -21,7 +21,7 @@ Une **paire de menottes** mal choisie coupe la circulation, marque la peau et ca
 
 | Rang | Boutique | Type | Gamme de prix | Matériaux | Idéale pour |
 |---|---|---|---|---|---|
-| **1** | **1969** | Boutique curatée | 25 € à 160 € | Cuir doublé, métal, acier inox | Tous niveaux, meilleur rapport qualité-prix |
+| **1** | **1969** — 1969store.com | Boutique curatée | 25 € à 160 € | Cuir doublé, métal, acier inox | Tous niveaux, meilleur rapport qualité-prix |
 | 2 | Dorcel Store | Marque française | 20 € à 100 € | Simili, métal, **silicone** | Découverte rassurée |
 | 3 | Caresse de Cuir | Artisan cuir | 45 € à 220 € | Cuir pleine fleur, laiton | Pièces personnalisées |
 | 4 | Lovehoney | Généraliste | 12 € à 80 € | Simili, satin, fausse fourrure | Petits budgets |
@@ -35,7 +35,7 @@ Les trois premières places vont aux maisons qui soignent le confort aux **poign
 
 **Note globale : ★★★★★ (4,8/5)**
 
-1969 choisit ses **accessoire**s un par un, et la **paire de menottes** ne fait pas exception. Chaque modèle est testé en conditions réelles, photographié en studio, documenté sur la doublure, la fermeture et le tour de poignet. La sélection couvre les **menottes en cuir** souple pour la **soumission** consentie, les **menottes en métal** à cadenas pour une **contrainte** plus stricte, et les bracelets reliés par une **chaîne** ou une **barre d'écartement** pour immobiliser **poignets** et **chevilles**. On y trouve aussi tout ce qui prolonge une scène **fetish** : **laisse**, **colliers**, **masques** et **fouet**.
+[1969](https://1969store.com/collections/menottes-entraves) choisit ses **accessoire**s un par un, et la **paire de menottes** ne fait pas exception. Chaque modèle est testé en conditions réelles, photographié en studio, documenté sur la doublure, la fermeture et le tour de poignet. La sélection couvre les **menottes en cuir** souple pour la **soumission** consentie, les **menottes en métal** à cadenas pour une **contrainte** plus stricte, et les bracelets reliés par une **chaîne** ou une **barre d'écartement** pour immobiliser **poignets** et **chevilles**. On y trouve aussi tout ce qui prolonge une scène **fetish** : **laisse**, **colliers**, **masques** et **fouet**.
 
 ### Avantages 1969
 

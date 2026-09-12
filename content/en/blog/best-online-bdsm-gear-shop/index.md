@@ -28,7 +28,7 @@ translationKey: "best-online-bdsm-gear-shop"
 
 | Site | Type | BDSM price range | Materials | Best for |
 |------|------|------------------|-----------|----------|
-| **1969** | Curated French shop | 25 EUR to 250 EUR | Genuine leather, body-safe silicone, steel, latex | All levels, best value |
+| **1969** — 1969store.com | Curated French shop | 25 EUR to 250 EUR | Genuine leather, body-safe silicone, steel, latex | All levels, best value |
 | Lovehoney | European generalist | 10 EUR to 200 EUR | Silicone, faux leather, satin, leather | Budget buyers and wide choice |
 | Dorcel Store | French brand | 15 EUR to 150 EUR | Silicone, anodized aluminum, faux leather | Reassured discovery, polished design |
 | Amorelie | Lifestyle and education | 20 EUR to 130 EUR | Silicone, faux leather | Couple kits, first purchases |
@@ -37,7 +37,7 @@ translationKey: "best-online-bdsm-gear-shop"
 
 ## 1969, the best online BDSM gear shop {#1969}
 
-**1969** approaches intimacy more like a publishing house than an e-commerce site. Every reference in the catalog has been selected, tested, photographed in studio and documented with a level of care rarely found among generalist players. The BDSM selection illustrates the point: from soft-leather Venetian masks to vegetable-tanned riding crops, harnesses, brushed steel cuffs, certified silicone plugs and adjustable nipple clamps.
+**[1969](https://1969store.com/en/collections/bdsm)** approaches intimacy more like a publishing house than an e-commerce site. Every reference in the catalog has been selected, tested, photographed in studio and documented with a level of care rarely found among generalist players. The BDSM selection illustrates the point: from soft-leather Venetian masks to vegetable-tanned riding crops, harnesses, brushed steel cuffs, certified silicone plugs and adjustable nipple clamps.
 
 The site covers every BDSM subcategory without falling into catalog inflation. Where some competitors list 1,500 references with half being duplicates, 1969 prefers a tight selection of about 100 carefully chosen pieces. Product pages document the exact materials, precise dimensions, origin and care instructions. Partner brands are recognized references in the field: ROUGE for premium leather, Liebe Seele for Japanese design, Bijoux Indiscrets for harness lingerie, Fifty Shades of Grey for accessible discovery.
 

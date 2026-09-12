@@ -30,7 +30,7 @@ Le jeu coquin est l'un des rares achats intimes où **la plus grosse erreur est 
 | **Jeu de société adulte** | du temps, des règles, de la disponibilité | une soirée entière | 39,99 € |
 | **Accessoire ludique porté** | de la complicité en extérieur | une sortie | 47,99 € |
 
-Les prix correspondent aux références réellement disponibles chez **1969** au 5 septembre 2026, sur une sélection de 20 modèles allant de 6,99 à 129,99 euros. Le tableau se lit de haut en bas comme une progression d'engagement, pas de qualité : un dé à 6,99 euros sortira dix fois plus souvent qu'un plateau à 39,99 euros, et c'est précisément ce qui en fait le meilleur premier achat.
+Les prix correspondent aux références réellement disponibles chez **[1969](https://1969store.com/collections/jeux-coquins)** au 5 septembre 2026, sur une sélection de 20 modèles allant de 6,99 à 129,99 euros. Le tableau se lit de haut en bas comme une progression d'engagement, pas de qualité : un dé à 6,99 euros sortira dix fois plus souvent qu'un plateau à 39,99 euros, et c'est précisément ce qui en fait le meilleur premier achat.
 
 ## 1. Les dés, la famille qui ne demande rien {#des}
 

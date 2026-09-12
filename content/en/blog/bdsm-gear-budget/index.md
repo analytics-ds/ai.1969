@@ -11,7 +11,7 @@ translationKey: "bdsm-gear-budget"
 ---
 
 > **In short:**
-> - A coherent first set of five accessories comes to around **47 €**. That is not a cautious estimate but an actual basket: cuffs, blindfold, flogger, rope and clamps, from **1969**, whose BDSM range holds 215 items from 5.20 € to 366.00 €.
+> - A coherent first set of five accessories comes to around **47 €**. That is not a cautious estimate but an actual basket: cuffs, blindfold, flogger, rope and clamps, from **[1969](https://1969store.com/en/collections/bdsm-accessories)**, whose BDSM range holds 215 items from 5.20 € to 366.00 €.
 > - The next tier, for an established practice, sits around **150 €**. The leather and steel tier starts near **350 €**.
 > - The classic mistake is not overspending, it is spending all at once. Three accessories that get used beat an eight-piece kit half of which stays in the box.
 > - A 151 € basket costs less than a 149 € one: crossing 150 € triggers a 15 % discount and free shipping.

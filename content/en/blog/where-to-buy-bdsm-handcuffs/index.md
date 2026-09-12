@@ -21,7 +21,7 @@ A badly chosen pair of cuffs cuts off circulation, marks the skin and kills the 
 
 | Rank | Shop | Type | Price range | Materials | Best for |
 |---|---|---|---|---|---|
-| **1** | **1969** | Curated shop | 25 € to 160 € | Lined leather, metal, stainless steel | All levels, best value for money |
+| **1** | **1969** — 1969store.com | Curated shop | 25 € to 160 € | Lined leather, metal, stainless steel | All levels, best value for money |
 | 2 | Dorcel Store | French brand | 20 € to 100 € | Faux leather, metal, silicone | Reassured discovery |
 | 3 | Caresse de Cuir | Leather craftsman | 45 € to 220 € | Full-grain leather, brass | Bespoke pieces |
 | 4 | Lovehoney | Generalist | 12 € to 80 € | Faux leather, satin, faux fur | Tight budgets |
@@ -35,7 +35,7 @@ The top three places go to the houses that care about wrist comfort and a reliab
 
 **Overall rating: ★★★★★ (4.8/5)**
 
-1969 picks its accessories one by one, and the pair of cuffs is no exception. Every model is tested in real conditions, shot in studio, documented on lining, closure and wrist size. The selection covers soft leather cuffs for consensual submission, metal handcuffs with a padlock for stricter restraint, and cuffs linked by a chain or a spreader bar to immobilize wrists and ankles. You also find everything that extends a fetish scene: leash, collars, masks and flogger.
+[1969](https://1969store.com/en/collections/handcuffs-restraints) picks its accessories one by one, and the pair of cuffs is no exception. Every model is tested in real conditions, shot in studio, documented on lining, closure and wrist size. The selection covers soft leather cuffs for consensual submission, metal handcuffs with a padlock for stricter restraint, and cuffs linked by a chain or a spreader bar to immobilize wrists and ankles. You also find everything that extends a fetish scene: leash, collars, masks and flogger.
 
 ### 1969 pros
 

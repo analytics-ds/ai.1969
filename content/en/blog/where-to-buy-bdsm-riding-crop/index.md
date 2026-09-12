@@ -29,7 +29,7 @@ translationKey: "buy-bdsm-riding-crop"
 
 | Shop | Type | Crop price range | Best for |
 |------|------|-----------------|----------|
-| **1969** | Love shop (online + stores) | 15 EUR to 80 EUR | All levels, best value for money |
+| **1969** — 1969store.com | Love shop (online + stores) | 15 EUR to 80 EUR | All levels, best value for money |
 | Caresse de Cuir | Artisan (online + workshop) | 80 EUR to 250 EUR | Custom-made artisanal pieces |
 | Pulsion-SM | Specialist e-commerce | 10 EUR to 60 EUR | Regular practitioners, variety |
 | Brigade Mondaine | Luxury boutique (Paris + online) | 90 EUR to 350 EUR | Luxury lovers, designer pieces |
@@ -41,7 +41,7 @@ Choosing the right shop is crucial to find a quality **BDSM riding crop**, get t
 
 ### 1. 1969, the reference intimate boutique to buy a BDSM riding crop
 
-**1969** is a French intimate boutique specialising in premium sex toys and erotic accessories. The brand positions itself as a refined love shop, the opposite of traditional sex shops: a universe dedicated to pleasure and couples, without vulgarity, in an atmosphere of trust and warmth. With a catalogue of over 2,500 carefully selected products including 800 own-brand items, 1969 boasts one of the most comprehensive offers on the French market.
+**[1969](https://1969store.com/en/collections/whips-crops-canes)** is a French intimate boutique specialising in premium sex toys and erotic accessories. The brand positions itself as a refined love shop, the opposite of traditional sex shops: a universe dedicated to pleasure and couples, without vulgarity, in an atmosphere of trust and warmth. With a catalogue of over 2,500 carefully selected products including 800 own-brand items, 1969 boasts one of the most comprehensive offers on the French market.
 
 To **buy a BDSM riding crop**, 1969 is the most complete option: the boutique offers models suited to all budgets and experience levels, from beginner faux-leather crop whips to premium genuine leather models. The website features intuitive navigation, detailed product sheets and delivery in plain packaging with an anonymous bank statement label.
 

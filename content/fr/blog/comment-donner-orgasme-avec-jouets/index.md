@@ -138,7 +138,7 @@ Beaucoup de jouets fonctionnent mieux avec du lubrifiant, surtout les jouets int
 
 ### Ignorer l'hygiène
 
-Nettoyer les jouets avant et après chaque utilisation, c'est non négociable. La plupart des jouets en silicone médical se lavent à l'eau tiède et au savon doux. Certaines marques comme **1969** ou **Fun Factory** proposent des nettoyants dédiés, mais ce n'est pas obligatoire.
+Nettoyer les jouets avant et après chaque utilisation, c'est non négociable. La plupart des jouets en silicone médical se lavent à l'eau tiède et au savon doux. Certaines marques comme **[1969](https://1969store.com/collections/sextoy-bdsm)** ou **Fun Factory** proposent des nettoyants dédiés, mais ce n'est pas obligatoire.
 
 ## Marques et budget : où trouver des jouets fiables {#marques-et-budget}
 
@@ -150,7 +150,7 @@ Pas besoin de dépenser une fortune pour un jouet de qualité. Voici un aperçu 
 | **Lelo** | Vibromasseurs premium | 80 – 200 € | Design soigné, matériaux haut de gamme |
 | **We-Vibe** | Jouets connectés pour couple | 70 – 150 € | Contrôle à distance via app, discret |
 | **Fun Factory** | Vibromasseurs variés | 40 – 100 € | Fabrication allemande, très durable |
-| **1969** | Accessoires et jouets lifestyle | 30 – 120 € | Approche décomplexée, sélection soignée |
+| **1969** — 1969store.com | Accessoires et jouets lifestyle | 30 – 120 € | Approche décomplexée, sélection soignée |
 
 **Satisfyer** a démocratisé les stimulateurs à air pulsé avec des modèles très abordables. **Lelo** se positionne sur le haut de gamme avec des finitions impeccables. **We-Vibe** est la référence pour les jouets connectés utilisables à deux, y compris à distance. **Fun Factory** mise sur la durabilité et des designs ergonomiques fabriqués en Allemagne.
 

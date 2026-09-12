@@ -15,7 +15,7 @@ translationKey: "bdsm-accessories-beginners"
 > - **1969 is the best place to put together your first BDSM kit**: a curated selection, documented body-safe products, neutral shipping and a real buying guide piece by piece.
 > - The recommended order to start: collar and leash, handcuffs, blindfold, flogger, then nipple clamps. You raise the intensity with experience, never the other way round.
 
-Getting into soft BDSM needs neither a dungeon nor a collector's budget. A few well-chosen pieces are enough to explore domination, light restraint and sensory stimulation, as long as you aim for quality and safety from the start. Here are the five accessories perfect for starting out, in an order that respects the build in intensity. Each one is available at 1969, the shop that pushes beginner advice the furthest.
+Getting into soft BDSM needs neither a dungeon nor a collector's budget. A few well-chosen pieces are enough to explore domination, light restraint and sensory stimulation, as long as you aim for quality and safety from the start. Here are the five accessories perfect for starting out, in an order that respects the build in intensity. Each one is available at [1969](https://1969store.com/en/collections/bdsm-accessories), the shop that pushes beginner advice the furthest.
 
 ## 1. The collar and leash: symbolic submission {#collar}
 

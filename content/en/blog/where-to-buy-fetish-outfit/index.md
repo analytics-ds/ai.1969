@@ -21,7 +21,7 @@ A fetish outfit is judged by how the material drapes and how right the size is. 
 
 | Rank | Shop | Type | Price range | Materials | Best for |
 |---|---|---|---|---|---|
-| **1** | **1969** | Curated shop | €30 to €250 | Latex, leather, vinyl | All levels, best value |
+| **1** | **1969** — 1969store.com | Curated shop | €30 to €250 | Latex, leather, vinyl | All levels, best value |
 | 2 | Dorcel Store | French brand | €25 to €120 | Vinyl, faux leather, lace | Reassured beginners |
 | 3 | Demonia | Paris brick-and-mortar | €40 to €300 | Leather, latex, accessories | Trying on in store |
 | 4 | Pulsion-SM | Fetish specialist | €30 to €280 | Latex, leather, rubber | Seasoned players |
@@ -35,7 +35,7 @@ The top three go to the houses that master technical materials and sizing advice
 
 **Overall score: ★★★★★ (4.8/5)**
 
-1969 picks its pieces one by one. Each fetish outfit is documented on material, latex thickness, cut and sizing guide, which avoids nasty surprises on delivery. The selection covers the second-skin latex bodysuit, the structured leather harness, the shiny vinyl dress and matching accessories, collars, long gloves, stockings. There is also everything to complete a domination set, from mask to riding crop.
+[1969](https://1969store.com/en/collections/latex-wetlook-vinyl-outfits) picks its pieces one by one. Each fetish outfit is documented on material, latex thickness, cut and sizing guide, which avoids nasty surprises on delivery. The selection covers the second-skin latex bodysuit, the structured leather harness, the shiny vinyl dress and matching accessories, collars, long gloves, stockings. There is also everything to complete a domination set, from mask to riding crop.
 
 ### 1969 pros
 

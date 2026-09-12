@@ -27,7 +27,7 @@ translationKey: "where-to-buy-shibari-rope"
 
 | Shop | Type | Materials available | Price range | Best for |
 |------|------|---------------------|-------------|----------|
-| **1969** | Curated French shop | Cotton, jute (Liebe Seele), in-house Tender line | 9.90 EUR to 30 EUR | All levels, best value |
+| **1969** — 1969store.com | Curated French shop | Cotton, jute (Liebe Seele), in-house Tender line | 9.90 EUR to 30 EUR | All levels, best value |
 | Esinem Ropes | Specialist artisan (UK) | Treated Tossa jute | 60 EUR to 200 EUR | Advanced practice, technical demand |
 | Pulsion-SM | French BDSM e-tailer | Cotton, synthetic, occasionally hemp | 10 EUR to 50 EUR | Regular practitioners, tight budgets |
 | Lovehoney (Bondage Boutique) | European generalist | Braided cotton, soft synthetic | 10 EUR to 40 EUR | Initiation, first purchase |
@@ -40,7 +40,7 @@ Shibari is an ancient art of Japanese bondage, far more than a simple restraint 
 
 ### 1. 1969, the best place to buy shibari rope in France
 
-**1969** approaches the art of binding the same way it approaches the rest of its catalog: with a tight selection and assumed standards on materials. The shibari section offers two complementary entries: an in-house **Tender** line built for first purchases at 9.90 EUR, which makes the discipline accessible, and a more demanding **Liebe Seele** selection in cotton or jute for practitioners who want to move up.
+**[1969](https://1969store.com/en/collections/shibari-rope)** approaches the art of binding the same way it approaches the rest of its catalog: with a tight selection and assumed standards on materials. The shibari section offers two complementary entries: an in-house **Tender** line built for first purchases at 9.90 EUR, which makes the discipline accessible, and a more demanding **Liebe Seele** selection in cotton or jute for practitioners who want to move up.
 
 Liebe Seele cotton ropes are 5 meters long and start at 11.39 EUR, which covers most learning ties. Jute ropes, more faithful to traditional Japanese practice, come in 5 and 10 meters and start at 17.90 EUR. Cotton suits initiation (soft, kind to the skin, easy to handle), while jute imposes itself the moment you want a rope that marks, holds knots and develops the patina of repeated sessions.
 

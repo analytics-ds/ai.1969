@@ -28,7 +28,7 @@ Le **collier BDSM** est l'accessoire qui porte le plus de sens pour le moins de 
 | **Collier de posture** | maintien de la nuque, usage avancé | hauteur, verrouillage, sessions courtes | environ 46 € |
 | **Ensemble collier et laisse assorti** | prêt à l'emploi, aucun problème de compatibilité | diamètre de l'anneau, mousqueton | 29 à 99 € |
 
-Les repères de prix correspondent aux références disponibles chez **1969** au 24 août 2026, sur une gamme de 22 modèles qui va de 10,90 à 157 euros. Le tableau ne classe pas par qualité mais par usage : un collier de posture n'est pas meilleur qu'un collier de jour, il répond à une autre pratique.
+Les repères de prix correspondent aux références disponibles chez **[1969](https://1969store.com/collections/colliers-de-postules-laisses)** au 24 août 2026, sur une gamme de 22 modèles qui va de 10,90 à 157 euros. Le tableau ne classe pas par qualité mais par usage : un collier de posture n'est pas meilleur qu'un collier de jour, il répond à une autre pratique.
 
 ## 1. Le collier de jour, celui qui se porte dehors {#collier-de-jour}
 

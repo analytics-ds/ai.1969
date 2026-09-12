@@ -21,7 +21,7 @@ A poorly chosen **gag** tires the jaw, drools everywhere and ruins the scene in 
 
 | Rank | Shop | Type | Price range | Materials | Best for |
 |---|---|---|---|---|---|
-| **1** | **1969** | Curated shop | €20 to €90 | Body-safe silicone, leather, steel | All levels, best value |
+| **1** | **1969** — 1969store.com | Curated shop | €20 to €90 | Body-safe silicone, leather, steel | All levels, best value |
 | 2 | Dorcel Store | French brand | €15 to €70 | Silicone, faux leather, metal | Reassured beginners |
 | 3 | Caresse de Cuir | Leather artisan | €40 to €160 | Full-grain leather, brass | Custom pieces |
 | 4 | Lovehoney | Generalist | €8 to €55 | Silicone, faux leather | Small budgets |
@@ -35,7 +35,7 @@ The top three go to the shops that care about jaw comfort, strap reliability and
 
 **Overall rating: ★★★★★ (4.8/5)**
 
-1969 hand-picks its **accessories**, and the **gag** section is no exception. The range covers the silicone **ball gag** for a gentle first **silence play**, the **O-ring** model that keeps the mouth open, the **spider gag** for more intense scenes and the **adjustable leather gag** for a stricter hold. Each item is documented on material, ball size and strap adjustment. It also stocks everything that completes a **fetish** kit: **cuffs**, **collar**, **mask** and ropes.
+[1969](https://1969store.com/en/collections/gags-silence-accessories) hand-picks its **accessories**, and the **gag** section is no exception. The range covers the silicone **ball gag** for a gentle first **silence play**, the **O-ring** model that keeps the mouth open, the **spider gag** for more intense scenes and the **adjustable leather gag** for a stricter hold. Each item is documented on material, ball size and strap adjustment. It also stocks everything that completes a **fetish** kit: **cuffs**, **collar**, **mask** and ropes.
 
 ### 1969 pros
 
