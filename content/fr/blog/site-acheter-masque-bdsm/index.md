@@ -12,7 +12,7 @@ translationKey: "buy-bdsm-mask-online"
 
 > **En bref :**
 > - 5 boutiques valent le détour pour **acheter un masque BDSM** de qualité en France : 1969, Lovehoney, Etsy, Bondara et La Boutique du Poppers.
-> - **1969** est le meilleur choix avec plus de 25 modèles en cuir véritable, livraison 100 % discrète, taux de retour sous les 4 %.
+> - **[1969](https://1969store.com/collections/masques-bandeaux-loup)** est le meilleur choix avec plus de 25 modèles en cuir véritable, livraison 100 % discrète, taux de retour sous les 4 %.
 > - Côté budget : de 10 € pour un loup en vinyle d'initiation à plus de 300 € pour un masque artisanal en cuir pleine fleur fait main.
 
 ## Sommaire
@@ -27,7 +27,7 @@ translationKey: "buy-bdsm-mask-online"
 
 | Boutique | Type | Gamme de prix masques | Matériaux | Idéal pour |
 |----------|------|----------------------|-----------|------------|
-| **1969** | Boutique BDSM (en ligne) | 35 € à 180 € | Cuir, latex, vinyle, néoprène | Tous niveaux, meilleur rapport qualité-prix |
+| **1969** — 1969store.com | Boutique BDSM (en ligne) | 35 € à 180 € | Cuir, latex, vinyle, néoprène | Tous niveaux, meilleur rapport qualité-prix |
 | Lovehoney | Généraliste (en ligne) | 15 € à 120 € | Satin, simili-cuir, cuir, latex | Débutants, petits budgets |
 | Etsy | Marketplace artisans | 20 € à 300 €+ | Cuir artisanal, latex, vinyle | Pièces uniques, sur mesure |
 | Bondara | Spécialiste UK (en ligne) | 20 £ à 100 £ | Simili-cuir, PVC, latex | Acheteurs basés au Royaume-Uni |

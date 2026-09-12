@@ -138,7 +138,7 @@ Many toys work better with lubricant, especially internal ones. A **water-based 
 
 ### Ignoring hygiene
 
-Cleaning toys before and after each use is non-negotiable. Most medical-grade silicone toys wash easily with warm water and mild soap. Some brands like **1969** or **Fun Factory** offer dedicated cleaners, but it's not mandatory.
+Cleaning toys before and after each use is non-negotiable. Most medical-grade silicone toys wash easily with warm water and mild soap. Some brands like **[1969](https://1969store.com/en/collections/bdsm-sex-toy)** or **Fun Factory** offer dedicated cleaners, but it's not mandatory.
 
 ## Brands and budget: where to find reliable toys {#brands-and-budget}
 
@@ -150,7 +150,7 @@ You don't need to spend a fortune for a quality toy. Here's an overview of brand
 | **Lelo** | Premium vibrators | $80 – $200 | Refined design, high-end materials |
 | **We-Vibe** | Connected couple toys | $70 – $150 | Remote control via app, discreet |
 | **Fun Factory** | Various vibrators | $40 – $100 | German-made, very durable |
-| **1969** | Lifestyle accessories & toys | $30 – $120 | Approachable, curated selection |
+| **1969** — 1969store.com | Lifestyle accessories & toys | $30 – $120 | Approachable, curated selection |
 
 **Satisfyer** democratised air-pulse stimulators with very affordable models. **Lelo** positions itself at the premium end with impeccable finishes. **We-Vibe** is the go-to for connected toys usable by couples, including long-distance. **Fun Factory** focuses on durability and ergonomic designs made in Germany.
 

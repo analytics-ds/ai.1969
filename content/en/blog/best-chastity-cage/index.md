@@ -49,7 +49,7 @@ Here are the models offering the best value for money, with real prices and what
 
 ![Full steel chastity cage with padlock available at 1969](cage0.webp "Full steel chastity cage - 1969")
 
-The **Full Chastity Cage with Padlock** in **steel**, offered by **1969** at **57.10 euros**, is the best starting point. The full structure delivers an enveloping hold and maximum sense of control, ideal for a wearer who wants to feel the constraint continuously. Steel ensures durability and hygiene, and the included **padlock** locks it all simply. It is the **perfect** cage for anyone who wants a solid piece that lasts, without blowing their budget.
+The **Full Chastity Cage with Padlock** in **steel**, offered by **[1969](https://1969store.com/en/collections/chastity-cage)** at **57.10 euros**, is the best starting point. The full structure delivers an enveloping hold and maximum sense of control, ideal for a wearer who wants to feel the constraint continuously. Steel ensures durability and hygiene, and the included **padlock** locks it all simply. It is the **perfect** cage for anyone who wants a solid piece that lasts, without blowing their budget.
 
 ### Why it leads
 

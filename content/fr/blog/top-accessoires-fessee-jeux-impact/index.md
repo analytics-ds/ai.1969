@@ -31,7 +31,7 @@ Les **jeux d'impact** sont l'une des rares pratiques BDSM où le matériel chang
 | **Martinet en cuir** | impact modulable, du caressant au mordant | intermédiaire | 25,70 € |
 | **Fouet** | impact long et cinglant, technique indispensable | confirmé | 45,70 € |
 
-Les prix correspondent aux références réellement disponibles chez **1969** au 30 août 2026, sur une sélection de 41 modèles qui va de 7,90 à 65 euros. Le tableau se lit de haut en bas comme une progression de difficulté, pas comme un classement de valeur : une canne de bambou à 10 euros demande infiniment plus de maîtrise qu'un paddle rembourré à 44 euros.
+Les prix correspondent aux références réellement disponibles chez **[1969](https://1969store.com/collections/bdsm-jeux-d-impact)** au 30 août 2026, sur une sélection de 41 modèles qui va de 7,90 à 65 euros. Le tableau se lit de haut en bas comme une progression de difficulté, pas comme un classement de valeur : une canne de bambou à 10 euros demande infiniment plus de maîtrise qu'un paddle rembourré à 44 euros.
 
 ## 1. Le paddle, le point d'entrée qui pardonne {#paddle}
 

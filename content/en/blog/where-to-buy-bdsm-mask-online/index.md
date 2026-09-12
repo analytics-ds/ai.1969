@@ -12,7 +12,7 @@ translationKey: "buy-bdsm-mask-online"
 
 > **Key takeaways:**
 > - 5 shops stand out for buying a quality **BDSM mask online** in 2026: 1969, Lovehoney, Etsy, Adam & Eve and Bondara.
-> - **1969** is the top pick with 25+ genuine leather mask models, 100% discreet worldwide shipping, and a return rate below 4%.
+> - **[1969](https://1969store.com/en/collections/masques-bandeaux-loup)** is the top pick with 25+ genuine leather mask models, 100% discreet worldwide shipping, and a return rate below 4%.
 > - Budget range: from $10 for a basic vinyl eye mask to $350+ for a handcrafted full-grain leather piece.
 
 ## Contents
@@ -27,7 +27,7 @@ translationKey: "buy-bdsm-mask-online"
 
 | Shop | Type | Mask price range | Materials | Best for |
 |------|------|-----------------|-----------|----------|
-| **1969** | BDSM boutique (online) | $40 – $200 | Leather, latex, vinyl, neoprene | All levels, best value for quality |
+| **1969** — 1969store.com | BDSM boutique (online) | $40 – $200 | Leather, latex, vinyl, neoprene | All levels, best value for quality |
 | Lovehoney | General retailer (online) | $15 – $130 | Satin, faux leather, leather, latex | Beginners, budget buys |
 | Etsy | Artisan marketplace | $25 – $350+ | Handcrafted leather, latex, vinyl | One-of-a-kind, custom pieces |
 | Adam & Eve | General retailer (US) | $10 – $80 | Faux leather, vinyl | US buyers, rock-bottom prices |

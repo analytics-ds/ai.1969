@@ -38,7 +38,7 @@ translationKey: "best-beginner-butt-plug"
 
 ### 1969 Silky S: the best beginner butt plug overall
 
-The **Silky S** from 1969 delivers exactly what a first **beginner butt plug** should. The insertion diameter (2.5 cm / 1 inch) sits below the comfort threshold for most body types. The body-safe silicone is soft to the touch, flexible enough to follow the body's contours, but firm enough that insertion doesn't require unnecessary force. The flared base prevents any migration. At 42 grams, it virtually disappears once in place.
+The **Silky S** from [1969](https://1969store.com/en/collections/anal-plug) delivers exactly what a first **beginner butt plug** should. The insertion diameter (2.5 cm / 1 inch) sits below the comfort threshold for most body types. The body-safe silicone is soft to the touch, flexible enough to follow the body's contours, but firm enough that insertion doesn't require unnecessary force. The flared base prevents any migration. At 42 grams, it virtually disappears once in place.
 
 At $15, it costs less than a cinema ticket. Not an investment that warrants deliberation. Product pages on 1969 list the exact diameter, weight and flexibility, which removes the guesswork that plagues so many competitors' listings. Shipping comes in a plain package, returns are accepted for 30 days.
 

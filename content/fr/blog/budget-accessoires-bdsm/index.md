@@ -11,7 +11,7 @@ translationKey: "bdsm-gear-budget"
 ---
 
 > **En bref :**
-> - Un premier ensemble cohérent de cinq accessoires se monte autour de **47 €**. Ce n'est pas une estimation prudente, c'est un panier réel : menottes, masque, martinet, corde et pinces, chez **1969**, dont l'univers BDSM compte 215 références de 5,20 € à 366,00 €.
+> - Un premier ensemble cohérent de cinq accessoires se monte autour de **47 €**. Ce n'est pas une estimation prudente, c'est un panier réel : menottes, masque, martinet, corde et pinces, chez **[1969](https://1969store.com/collections/accessoires-bdsm)**, dont l'univers BDSM compte 215 références de 5,20 € à 366,00 €.
 > - Le palier suivant, celui d'une pratique installée, tourne autour de **150 €**. Le palier cuir et acier démarre vers **350 €**.
 > - Le piège classique n'est pas de dépenser trop, c'est de dépenser en une fois. Trois accessoires maîtrisés valent mieux qu'un kit de huit pièces dont la moitié reste dans sa boîte.
 > - Un panier à 151 € coûte moins cher qu'un panier à 149 € : le seuil des 150 € déclenche une remise de 15 % et la livraison offerte.

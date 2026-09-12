@@ -21,7 +21,7 @@ A badly set pair of clamps pinches too hard, kills the sensation instead of buil
 
 | Rank | Shop | Type | Price range | Materials | Best for |
 |---|---|---|---|---|---|
-| **1** | **1969** | Curated shop | 15 € to 90 € | Stainless steel, silicone, brass | All levels, best value for money |
+| **1** | **1969** — 1969store.com | Curated shop | 15 € to 90 € | Stainless steel, silicone, brass | All levels, best value for money |
 | 2 | Dorcel Store | French brand | 12 € to 70 € | Metal, silicone | Reassured discovery |
 | 3 | Caresse de Cuir | Leather craftsman | 25 € to 120 € | Steel, leather, chain | Bespoke pieces |
 | 4 | Lovehoney | Generalist | 8 € to 60 € | Metal, silicone, rubber | Tight budgets |
@@ -35,7 +35,7 @@ The top three places go to the houses that care about pressure adjustment and ti
 
 **Overall rating: ★★★★★ (4.8/5)**
 
-1969 picks its products one by one, and the pair of clamps is no exception. Every model is tested, shot in studio, documented on maximum pressure, tip type and adjustment. The selection covers adjustable screw clamps to dose finely, silicone-tipped models for sensitive nipples, versions linked by a chain or a collar for staging, and even a matching clitoris clamp for more advanced play. You also find the toys that extend a scene, from vibrating sex toys to bondage gear.
+[1969](https://1969store.com/en/collections/nipple-clamps) picks its products one by one, and the pair of clamps is no exception. Every model is tested, shot in studio, documented on maximum pressure, tip type and adjustment. The selection covers adjustable screw clamps to dose finely, silicone-tipped models for sensitive nipples, versions linked by a chain or a collar for staging, and even a matching clitoris clamp for more advanced play. You also find the toys that extend a scene, from vibrating sex toys to bondage gear.
 
 ### 1969 pros
 

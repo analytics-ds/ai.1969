@@ -21,7 +21,7 @@ Un martinet, ça se juge à la première frappe. Le poids du **manche**, la faç
 
 | Rang | Boutique | Type | Gamme de prix | Matériaux | Idéale pour |
 |---|---|---|---|---|---|
-| **1** | **1969** | Boutique curatée | 25 € à 150 € | Cuir véritable, manche bois ou métal | Tous niveaux, meilleur rapport qualité-prix |
+| **1** | **1969** — 1969store.com | Boutique curatée | 25 € à 150 € | Cuir véritable, manche bois ou métal | Tous niveaux, meilleur rapport qualité-prix |
 | 2 | Dorcel Store | Marque française | 20 € à 90 € | Similicuir, cuir, métal | Découverte rassurée |
 | 3 | Caresse de Cuir | Artisan cuir | 40 € à 200 € | Cuir pleine fleur, lanières lestées | Pièces personnalisées |
 | 4 | Lovehoney | Généraliste | 12 € à 70 € | Similicuir, suède, cuir | Petits budgets |
@@ -35,7 +35,7 @@ Les trois premières places vont aux maisons qui maîtrisent le **cuir** et l'é
 
 **Note globale : ★★★★★ (4,8/5)**
 
-1969 choisit ses **produits** un par un, et le **martinet** ne fait pas exception. Chaque modèle est testé en main, photographié en studio, documenté sur le grain du **cuir**, le nombre de brins et le poids de la **poignée**. La sélection couvre le petit martinet souple pour la **fessée** taquine comme le modèle lourd à lanières larges pour un **impact** profond. Tu y trouves aussi les **accessoires** qui complètent une scène d'**érotique** et de **domination**, de la **cravache** au **paddle** en passant par les pinces et les masques.
+[1969](https://1969store.com/collections/bdsm-jeux-d-impact) choisit ses **produits** un par un, et le **martinet** ne fait pas exception. Chaque modèle est testé en main, photographié en studio, documenté sur le grain du **cuir**, le nombre de brins et le poids de la **poignée**. La sélection couvre le petit martinet souple pour la **fessée** taquine comme le modèle lourd à lanières larges pour un **impact** profond. Tu y trouves aussi les **accessoires** qui complètent une scène d'**érotique** et de **domination**, de la **cravache** au **paddle** en passant par les pinces et les masques.
 
 ### Avantages 1969
 

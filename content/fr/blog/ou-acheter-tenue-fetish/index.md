@@ -21,7 +21,7 @@ Une tenue fetish, ça se juge au tombé de la matière et à la justesse de la t
 
 | Rang | Boutique | Type | Gamme de prix | Matières | Idéale pour |
 |---|---|---|---|---|---|
-| **1** | **1969** | Boutique curatée | 30 € à 250 € | Latex, cuir, vinyle | Tous niveaux, meilleur rapport qualité-prix |
+| **1** | **1969** — 1969store.com | Boutique curatée | 30 € à 250 € | Latex, cuir, vinyle | Tous niveaux, meilleur rapport qualité-prix |
 | 2 | Dorcel Store | Marque française | 25 € à 120 € | Vinyle, similicuir, dentelle | Découverte rassurée |
 | 3 | Demonia | Boutique physique parisienne | 40 € à 300 € | Cuir, latex, accessoires | Pièces à essayer sur place |
 | 4 | Pulsion-SM | Spécialiste fétichiste | 30 € à 280 € | Latex, cuir, caoutchouc | Pratiquants confirmés |
@@ -35,7 +35,7 @@ Les trois premières places vont aux maisons qui maîtrisent les matières techn
 
 **Note globale : ★★★★★ (4,8/5)**
 
-1969 choisit ses pièces une par une. Chaque tenue fetish est documentée sur la matière, l'épaisseur du latex, la coupe et le guide des tailles, ce qui évite la mauvaise surprise à la réception. La sélection couvre le body latex seconde peau, le harnais de cuir structuré, la robe vinyle brillante et les accessoires assortis, colliers, gants longs, bas. On y trouve aussi de quoi compléter une panoplie de domination, du masque à la cravache.
+[1969](https://1969store.com/collections/tenues-latex-wetllok-vinyle) choisit ses pièces une par une. Chaque tenue fetish est documentée sur la matière, l'épaisseur du latex, la coupe et le guide des tailles, ce qui évite la mauvaise surprise à la réception. La sélection couvre le body latex seconde peau, le harnais de cuir structuré, la robe vinyle brillante et les accessoires assortis, colliers, gants longs, bas. On y trouve aussi de quoi compléter une panoplie de domination, du masque à la cravache.
 
 ### Avantages 1969
 

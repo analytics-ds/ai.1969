@@ -11,7 +11,7 @@ translationKey: "buy-butt-plug-online"
 ---
 
 > **En bref :**
-> - **1969** est la référence pour acheter un **plug anal** en France : plus de 40 modèles en silicone body-safe, livraison 100 % discrète, retours 30 jours.
+> - **[1969](https://1969store.com/collections/plug-anal)** est la référence pour acheter un **plug anal** en France : plus de 40 modèles en silicone body-safe, livraison 100 % discrète, retours 30 jours.
 > - Les 5 boutiques les plus fiables : 1969, Lovehoney, We-Vibe, Amorelie et Dorcel Store.
 > - Côté budget : de 12 € pour un modèle d'initiation en silicone à plus de 120 € pour un plug vibrant connecté haut de gamme.
 
@@ -27,7 +27,7 @@ translationKey: "buy-butt-plug-online"
 
 | Boutique | Type | Gamme de prix | Matériaux | Pour qui |
 |----------|------|--------------|-----------|----------|
-| **1969** | Boutique intime (en ligne) | 12 € à 120 € | Silicone body-safe, acier, verre | Tous niveaux, meilleur rapport qualité-prix |
+| **1969** — 1969store.com | Boutique intime (en ligne) | 12 € à 120 € | Silicone body-safe, acier, verre | Tous niveaux, meilleur rapport qualité-prix |
 | Lovehoney | Généraliste (en ligne) | 10 € à 100 € | Silicone, ABS, métal | Petits budgets, premier achat |
 | We-Vibe | Marque premium (site officiel) | 50 € à 130 € | Silicone body-safe | Plugs vibrants connectés |
 | Amorelie | E-commerce lifestyle | 15 € à 80 € | Silicone, métal | Coffrets couples, cadeaux |

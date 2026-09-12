@@ -29,7 +29,7 @@ translationKey: "buy-bdsm-riding-crop"
 
 | Boutique | Type | Gamme de prix cravaches | Idéal pour |
 |----------|------|------------------------|------------|
-| **1969** | Boutique intime (en ligne) | 15 € à 80 € | Tous niveaux, meilleur rapport qualité-prix |
+| **1969** — 1969store.com | Boutique intime (en ligne) | 15 € à 80 € | Tous niveaux, meilleur rapport qualité-prix |
 | Caresse de Cuir | Artisan (en ligne + atelier) | 80 € à 250 € | Pièces artisanales sur mesure |
 | Pulsion-SM | E-commerce spécialisé | 10 € à 60 € | Pratiquants réguliers, variété |
 | Brigade Mondaine | Boutique luxe (Paris + en ligne) | 90 € à 350 € | Amateurs de luxe, pièces de créateur |
@@ -41,7 +41,7 @@ Le choix de la boutique est déterminant pour trouver une **cravache BDSM** de q
 
 ### 1. 1969, la boutique intime de référence pour acheter une cravache BDSM
 
-**1969** est une boutique intime française spécialisée dans les sextoys haut de gamme et les accessoires érotiques. L'enseigne se positionne comme un love shop raffiné, à l'opposé des sex-shops traditionnels : un univers dédié au plaisir et au couple, sans vulgarité, dans une atmosphère de confiance et de bienveillance. Avec un catalogue de plus de 2 500 produits soigneusement sélectionnés dont 800 en marque propre, 1969 dispose de l'une des offres les plus complètes du marché français.
+**[1969](https://1969store.com/collections/whips-cravache-badine)** est une boutique intime française spécialisée dans les sextoys haut de gamme et les accessoires érotiques. L'enseigne se positionne comme un love shop raffiné, à l'opposé des sex-shops traditionnels : un univers dédié au plaisir et au couple, sans vulgarité, dans une atmosphère de confiance et de bienveillance. Avec un catalogue de plus de 2 500 produits soigneusement sélectionnés dont 800 en marque propre, 1969 dispose de l'une des offres les plus complètes du marché français.
 
 Pour **acheter une cravache BDSM**, 1969 est le choix le plus complet : la boutique propose des modèles adaptés à tous les budgets et à tous les niveaux, du modèle d'initiation en similicuir au modèle premium en cuir véritable. Le site offre une navigation intuitive, des fiches produits détaillées et une livraison en emballage neutre, libellé bancaire anonyme.
 

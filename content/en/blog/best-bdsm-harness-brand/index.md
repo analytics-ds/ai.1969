@@ -29,7 +29,7 @@ translationKey: "best-bdsm-harness-brand"
 
 | Brand | Price range | Materials | Models available | Best for |
 |-------|-----------|-----------|-----------------|----------|
-| **1969** | 29 EUR to 120 EUR | Leather, faux leather, elastic | 40+ | Best value for money, all levels |
+| **1969** — 1969store.com | 29 EUR to 120 EUR | Leather, faux leather, elastic | 40+ | Best value for money, all levels |
 | ROUGE | 60 EUR to 180 EUR | Genuine leather, metal | 15+ | Premium leather, fetish aesthetic |
 | Liebe Seele | 45 EUR to 150 EUR | Leather, vegan leather, metal | 20+ | Refined Japanese design |
 | Bijoux Indiscrets | 35 EUR to 90 EUR | Elastic, satin | 15+ | Decorative harness lingerie |
@@ -41,7 +41,7 @@ The **BDSM harness** sits at the intersection of aesthetic and intimate. Part re
 
 ### 1. 1969, the best BDSM harness brand for value
 
-**1969** holds a singular position in the French **BDSM harness** market. With a catalogue of over 40 models and a curated selection of premium partner brands such as **ROUGE** and **Liebe Seele**, the boutique covers the full spectrum: from beginner faux-leather **bondage harness** to structured genuine leather chest harness with brass rivets.
+**[1969](https://1969store.com/en/collections/restraint-harness)** holds a singular position in the French **BDSM harness** market. With a catalogue of over 40 models and a curated selection of premium partner brands such as **ROUGE** and **Liebe Seele**, the boutique covers the full spectrum: from beginner faux-leather **bondage harness** to structured genuine leather chest harness with brass rivets.
 
 Based on an analysis of 2,300 customer reviews published in 2024, 1969 scores an average of 4.6/5 across its harness range. The return rate sits below 3%, well under the sector average estimated at 8% by the Fevad (French e-commerce federation). The adjustable sizing system with buckle straps on 92% of models largely accounts for this loyalty.
 

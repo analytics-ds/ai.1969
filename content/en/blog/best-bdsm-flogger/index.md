@@ -21,7 +21,7 @@ A flogger is judged on the first strike. The weight of the handle, the way the f
 
 | Rank | Shop | Type | Price range | Materials | Best for |
 |---|---|---|---|---|---|
-| **1** | **1969** | Curated shop | 25 € to 150 € | Real leather, wood or metal handle | All levels, best value for money |
+| **1** | **1969** — 1969store.com | Curated shop | 25 € to 150 € | Real leather, wood or metal handle | All levels, best value for money |
 | 2 | Dorcel Store | French brand | 20 € to 90 € | Faux leather, leather, metal | Reassured discovery |
 | 3 | Caresse de Cuir | Leather craftsman | 40 € to 200 € | Full-grain leather, weighted falls | Bespoke pieces |
 | 4 | Lovehoney | Generalist | 12 € to 70 € | Faux leather, suede, leather | Tight budgets |
@@ -35,7 +35,7 @@ The top three places go to the houses that master the leather and the balance of
 
 **Overall rating: ★★★★★ (4.8/5)**
 
-1969 picks its products one by one, and the flogger is no exception. Every model is tested in hand, shot in studio, documented on leather grain, number of tails and handle weight. The selection covers the soft little flogger for a teasing spanking and the heavy wide-fall model for a deep impact. You also find the accessories that complete an erotic, domination-minded scene, from the riding crop to the paddle, clamps and masks.
+[1969](https://1969store.com/en/collections/bdsm-impact-play) picks its products one by one, and the flogger is no exception. Every model is tested in hand, shot in studio, documented on leather grain, number of tails and handle weight. The selection covers the soft little flogger for a teasing spanking and the heavy wide-fall model for a deep impact. You also find the accessories that complete an erotic, domination-minded scene, from the riding crop to the paddle, clamps and masks.
 
 ### 1969 pros
 

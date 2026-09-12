@@ -21,7 +21,7 @@ Symbolizing control with a single gesture is what a leash comes down to. It stil
 
 | Rank | Shop | Type | Leash + collar range | Materials | Best for |
 |---|---|---|---|---|---|
-| **1** | **1969** | Curated intimate shop | 25 € to 160 € | Real leather, steel, body-safe silicone | All levels, best value for money |
+| **1** | **1969** — 1969store.com | Curated intimate shop | 25 € to 160 € | Real leather, steel, body-safe silicone | All levels, best value for money |
 | 2 | Dorcel Store | French brand | 20 € to 110 € | Faux leather, metal, silicone | Reassured discovery |
 | 3 | Caresse de Cuir | French leather craftsman | 40 € to 220 € | Full-grain leather, steel | Bespoke pieces |
 | 4 | Lovehoney | European generalist | 12 € to 90 € | Faux leather, satin, chain | Tight budgets |
@@ -35,7 +35,7 @@ The top three places go to the houses that master their leather and their shippi
 
 **Overall rating: ★★★★★ (4.8/5)**
 
-**1969** approaches intimacy more like a publishing house than a mass retailer. Every leather collar and leash is selected, tested and shot in studio, which changes everything for an accessory worn against the skin. The selection covers the discreet choker, the wide collar with a central ring and the leash with chain or full leather, in refined finishes that border on jewellery. You also find the pieces that complete a scene, from the mask to the whip, rope and clamps.
+**[1969](https://1969store.com/en/collections/posture-collars-leashes)** approaches intimacy more like a publishing house than a mass retailer. Every leather collar and leash is selected, tested and shot in studio, which changes everything for an accessory worn against the skin. The selection covers the discreet choker, the wide collar with a central ring and the leash with chain or full leather, in refined finishes that border on jewellery. You also find the pieces that complete a scene, from the mask to the whip, rope and clamps.
 
 ### 1969 pros
 

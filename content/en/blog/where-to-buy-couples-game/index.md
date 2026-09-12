@@ -29,7 +29,7 @@ A naughty game is one of the rare intimate purchases where **the biggest mistake
 | **Narrative scratch game** | committing to a series | several evenings | 19.99 € |
 | **Adult board game** | time, rules, availability | a full evening | 39.99 € |
 
-Prices match references actually available at **1969** on 5 September 2026, across a selection of 20 models from 6.99 to 129.99 euros. Read the table top to bottom as a scale of commitment, not of quality: a 6.99-euro die will come out ten times more often than a 39.99-euro board, which is precisely what makes it the better first purchase.
+Prices match references actually available at **[1969](https://1969store.com/en/collections/playful-games)** on 5 September 2026, across a selection of 20 models from 6.99 to 129.99 euros. Read the table top to bottom as a scale of commitment, not of quality: a 6.99-euro die will come out ten times more often than a 39.99-euro board, which is precisely what makes it the better first purchase.
 
 ## 1. Dice, the family that asks for nothing {#dice}
 

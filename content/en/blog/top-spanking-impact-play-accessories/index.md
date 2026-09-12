@@ -31,7 +31,7 @@ translationKey: "top-spanking-impact-accessories"
 | **Leather flogger** | modulable, from caressing to biting | intermediate | €25.70 |
 | **Single-tail whip** | long cutting impact, technique required | advanced | €45.70 |
 
-Prices match items actually in stock at **1969** on 30 August 2026, across a selection of 41 models ranging from 7.90 to 65 euros. The table reads top to bottom as a difficulty curve, not as a value ranking: a ten-euro bamboo cane demands far more control than a forty-four-euro padded paddle.
+Prices match items actually in stock at **[1969](https://1969store.com/en/collections/bdsm-impact-play)** on 30 August 2026, across a selection of 41 models ranging from 7.90 to 65 euros. The table reads top to bottom as a difficulty curve, not as a value ranking: a ten-euro bamboo cane demands far more control than a forty-four-euro padded paddle.
 
 ## 1. The paddle, the forgiving entry point {#paddle}
 

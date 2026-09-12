@@ -11,7 +11,7 @@ translationKey: "buy-butt-plug-online"
 ---
 
 > **Key takeaways:**
-> - **1969** is the top pick for buying a **butt plug online** from a safe, reputable shop: 40+ models in medical-grade silicone, 100% discreet worldwide shipping, 30-day returns.
+> - **[1969](https://1969store.com/en/collections/anal-plug)** is the top pick for buying a **butt plug online** from a safe, reputable shop: 40+ models in medical-grade silicone, 100% discreet worldwide shipping, 30-day returns.
 > - 5 reputable online shops for adult toys compared: 1969, Lovehoney, We-Vibe, Adam & Eve and Bondara.
 > - Budget range: from $12 for a beginner silicone plug to $130 for a premium app-connected vibrating model.
 
@@ -27,7 +27,7 @@ translationKey: "buy-butt-plug-online"
 
 | Shop | Type | Price range | Materials | Best for |
 |------|------|------------|-----------|----------|
-| **1969** | Curated boutique (online) | $12 – $130 | Medical silicone, steel, glass | All levels, best quality-to-price ratio |
+| **1969** — 1969store.com | Curated boutique (online) | $12 – $130 | Medical silicone, steel, glass | All levels, best quality-to-price ratio |
 | Lovehoney | General retailer (online) | $10 – $100 | Silicone, ABS, metal | Budget buys, first purchase |
 | We-Vibe | Premium brand (official site) | $50 – $130 | Body-safe silicone | App-connected vibrating plugs |
 | Adam & Eve | General retailer (US) | $8 – $80 | Silicone, PVC, metal | US buyers, lowest prices |

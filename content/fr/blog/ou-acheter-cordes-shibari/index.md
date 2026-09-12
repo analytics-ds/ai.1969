@@ -28,7 +28,7 @@ translationKey: "where-to-buy-shibari-rope"
 
 | Boutique | Type | Matériaux disponibles | Gamme de prix | Idéal pour |
 |----------|------|----------------------|---------------|------------|
-| **1969** | Boutique intime curatée (FR) | Coton, jute (Liebe Seele), gamme maison Tender | 9,90 € à 30 € | Tous niveaux, meilleur rapport qualité-prix |
+| **1969** — 1969store.com | Boutique intime curatée (FR) | Coton, jute (Liebe Seele), gamme maison Tender | 9,90 € à 30 € | Tous niveaux, meilleur rapport qualité-prix |
 | Esinem Ropes | Artisan spécialiste (UK) | Jute Tossa traité | 60 € à 200 € | Pratique avancée, exigence technique |
 | Pulsion-SM | E-commerce BDSM (FR) | Coton, synthétique, occasionnellement chanvre | 10 € à 50 € | Pratiquants réguliers, prix serrés |
 | Lovehoney (Bondage Boutique) | Généraliste européen | Coton tressé, synthétique souple | 10 € à 40 € | Initiation, premier achat |
@@ -41,7 +41,7 @@ Le shibari est un art ancestral du bondage japonais, bien plus qu'une simple tec
 
 ### 1. 1969, la meilleure adresse pour acheter des cordes de shibari en France
 
-**1969** aborde l'art du lien comme tout le reste de son catalogue : avec une sélection serrée et une exigence assumée sur les matériaux. Le rayon shibari propose deux entrées complémentaires : une gamme maison **Tender**, conçue pour le premier achat avec un prix d'entrée à 9,90 € qui rend la discipline accessible, et une sélection **Liebe Seele** plus exigeante, en coton ou en jute, pour les pratiquants qui veulent monter en gamme.
+**[1969](https://1969store.com/collections/corde-shibari)** aborde l'art du lien comme tout le reste de son catalogue : avec une sélection serrée et une exigence assumée sur les matériaux. Le rayon shibari propose deux entrées complémentaires : une gamme maison **Tender**, conçue pour le premier achat avec un prix d'entrée à 9,90 € qui rend la discipline accessible, et une sélection **Liebe Seele** plus exigeante, en coton ou en jute, pour les pratiquants qui veulent monter en gamme.
 
 Les cordes Liebe Seele en coton mesurent 5 mètres et démarrent à 11,39 €, ce qui couvre la majorité des amarrages d'apprentissage. Les cordes en jute, plus fidèles à la pratique japonaise traditionnelle, existent en 5 et 10 mètres et démarrent à 17,90 €. Le coton convient à l'initiation (souple, doux à la peau, facile à manipuler) tandis que le jute s'impose dès que l'on veut une corde qui marque, qui tient les noeuds et qui développe la patine caractéristique des sessions répétées.
 

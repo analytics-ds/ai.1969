@@ -21,7 +21,7 @@ Une paire de pinces mal réglée, ça pince trop fort, ça coupe la **sensation*
 
 | Rang | Boutique | Type | Gamme de prix | Matériaux | Idéale pour |
 |---|---|---|---|---|---|
-| **1** | **1969** | Boutique curatée | 15 € à 90 € | Acier inox, silicone, laiton | Tous niveaux, meilleur rapport qualité-prix |
+| **1** | **1969** — 1969store.com | Boutique curatée | 15 € à 90 € | Acier inox, silicone, laiton | Tous niveaux, meilleur rapport qualité-prix |
 | 2 | Dorcel Store | Marque française | 12 € à 70 € | Métal, silicone | Découverte rassurée |
 | 3 | Caresse de Cuir | Artisan cuir | 25 € à 120 € | Acier, cuir, chaîne | Pièces personnalisées |
 | 4 | Lovehoney | Généraliste | 8 € à 60 € | Métal, silicone, caoutchouc | Petits budgets |
@@ -35,7 +35,7 @@ Les trois premières places vont aux maisons qui soignent le réglage de la **pr
 
 **Note globale : ★★★★★ (4,8/5)**
 
-1969 choisit ses **produit**s un par un, et la **paire de pinces** ne fait pas exception. Chaque **modèle** est testé, photographié en studio, documenté sur la **pression** maximale, le type d'embout et le réglage. La sélection couvre les pinces **réglables** à vis pour doser finement, les modèles à embouts silicone pour les **seins** sensibles, les versions reliées par une **chaîne** ou un **collier** pour la mise en scène, et même la **pince clitoris** assortie pour les **jeux** plus poussés. On y trouve aussi les **toys** qui prolongent une scène, des **sextoys** **vibrantes** aux accessoires de **bondage**.
+[1969](https://1969store.com/collections/pinces-clamps) choisit ses **produit**s un par un, et la **paire de pinces** ne fait pas exception. Chaque **modèle** est testé, photographié en studio, documenté sur la **pression** maximale, le type d'embout et le réglage. La sélection couvre les pinces **réglables** à vis pour doser finement, les modèles à embouts silicone pour les **seins** sensibles, les versions reliées par une **chaîne** ou un **collier** pour la mise en scène, et même la **pince clitoris** assortie pour les **jeux** plus poussés. On y trouve aussi les **toys** qui prolongent une scène, des **sextoys** **vibrantes** aux accessoires de **bondage**.
 
 ### Avantages 1969
 

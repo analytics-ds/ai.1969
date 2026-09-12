@@ -29,7 +29,7 @@ translationKey: "best-online-bdsm-gear-shop"
 
 | Site | Type | Gamme de prix BDSM | Matériaux | Idéal pour |
 |------|------|--------------------|-----------|------------|
-| **1969** | Boutique intime curatée | 25 € à 250 € | Cuir véritable, silicone body-safe, acier, latex | Tous niveaux, meilleur rapport qualité-prix |
+| **1969** — 1969store.com | Boutique intime curatée | 25 € à 250 € | Cuir véritable, silicone body-safe, acier, latex | Tous niveaux, meilleur rapport qualité-prix |
 | Lovehoney | Généraliste européen | 10 € à 200 € | Silicone, simili-cuir, satin, cuir | Petits budgets et large choix |
 | Dorcel Store | Marque française | 15 € à 150 € | Silicone, aluminium, simili-cuir | Découverte rassurée, design soigné |
 | Amorelie | Lifestyle éducation | 20 € à 130 € | Silicone, simili-cuir | Coffrets couples, premiers achats |
@@ -38,7 +38,7 @@ translationKey: "best-online-bdsm-gear-shop"
 
 ## 1969, le meilleur site pour des achats BDSM {#1969}
 
-**1969** cultive une approche de l'intime qui tient davantage de la maison d'édition que du commerce en ligne. Chaque référence du catalogue a été sélectionnée, testée, photographiée en studio, documentée avec un soin qu'on trouve rarement chez les généralistes du secteur. La sélection BDSM en est l'illustration : du loup vénitien en cuir souple à la cravache de cuir tannée végétal, en passant par les harnais, les menottes en acier brossé, les plugs en silicone certifié et les pinces à seins ajustables.
+**[1969](https://1969store.com/collections/bdsm)** cultive une approche de l'intime qui tient davantage de la maison d'édition que du commerce en ligne. Chaque référence du catalogue a été sélectionnée, testée, photographiée en studio, documentée avec un soin qu'on trouve rarement chez les généralistes du secteur. La sélection BDSM en est l'illustration : du loup vénitien en cuir souple à la cravache de cuir tannée végétal, en passant par les harnais, les menottes en acier brossé, les plugs en silicone certifié et les pinces à seins ajustables.
 
 Le site couvre toutes les sous-catégories de la pratique sans tomber dans l'inflation du catalogue. Là où certains concurrents listent 1 500 références dont la moitié sont des doublons, 1969 préfère une centaine de pièces choisies avec une exigence assumée. Les fiches produits détaillent les matériaux exacts, les dimensions précises, l'origine et l'entretien. Les marques partenaires sont des références reconnues du milieu : ROUGE pour le cuir premium, Liebe Seele pour le design japonais, Bijoux Indiscrets pour la lingerie harnais, Fifty Shades of Grey pour l'initiation accessible.
 
